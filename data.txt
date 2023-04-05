@@ -1,0 +1,1988 @@
+dataset/Cou001_The same as you..wav|同じで
+dataset/Cou001_Does it taste good?.wav|おいしい?
+dataset/Cou001_Earl Grey?.wav|アールグレイ?
+dataset/Cou002_I can’t drink it, but I really love it....wav|本当は好きなのに
+dataset/Cou002_I don’t like milk..wav|牛乳は嫌い
+dataset/Cou003_Be proud of it?.wav|ごり
+dataset/Cou002_It upsets my stomach..wav|お腹がゴロゴロするの
+dataset/Cou003_Are there different kinds of milk as well?.wav|牛乳にも種類があるの?
+dataset/Cou003_Different kinds?.wav|違う種類?
+dataset/Cou003_I’d like to ask you things as well!.wav|私も先生からいろんなお話聞きたい
+dataset/Cou002_What’s it called?.wav|なんて牛乳
+dataset/Cou004_...It's not okay?.wav|See ya.
+dataset/Cou003_What’s that?.wav|なぁに?
+dataset/Cou004_Hello..wav|こんにちは
+dataset/Cou003_I have weird dreams. Is that different, too?.wav|私は変な夢見るから違っているの?
+dataset/Cou003_People, too?.wav|人間も?
+dataset/Cou004_I know it, but I don’t want to play that..wav|知ってるけど、やりたくないよ
+dataset/Cou004_Ah... I thought so..wav|やっぱり そうなんだ
+dataset/Cou004_I don’t like painting... Maybe....wav|好きじゃない 多分
+dataset/Cou003_Are there different kinds of people as well?.wav|人間は種類があるの?
+dataset/Cou004_I’d like to talk some more..wav|もっとお話を聞かせてほしい
+dataset/Cou004_Not especially..wav|別に
+dataset/Cou004_Okay....wav|うん
+dataset/Cou002_That smells good..wav|いいにおい
+dataset/Cou004_What’s that?.wav|何それ?
+dataset/Cou004_Touko, hello..wav|朗古先生、こんにちは。
+dataset/Cou004_What kind of doctor are you?.wav|先生は何の先生なの?
+dataset/Cou004_Whatever. About you..wav|なんでもいい。 東子先生のこと。
+dataset/Cou005_But I’m ashamed..wav|だって恥ずかしい
+dataset/Cou005_Maybe....wav|多分
+dataset/Cou005_I talk to my stuffed animals..wav|ぬいぐるみさんたちとお話をするの
+dataset/Cou005_No....wav|Hmm?
+dataset/Cou005_Do I have to tell you?.wav|言わなきゃダメ?
+dataset/Cou005_Normal..wav|2
+dataset/Cou005_I’d rather stay at home than go out and do something..wav|何かを稽古するよりも、お家にいる方がいいの。
+dataset/Cou005_I have friends..wav|いるよ
+dataset/Cou005_That’s a secret..wav|秘密
+dataset/Cou005_Why is that weird?.wav|なんで変なの?
+dataset/Cou005_What kind of stuffed animal?.wav|何のぬいぐるみ?
+dataset/Cou005_Me too. I talk to my animals. Is that normal?.wav|私も話してる 普通?
+dataset/Cou005_Thought what?.wav|댓글이?
+dataset/Cou006_How did you become a doctor?.wav|どうやって先生になったの?
+dataset/Cou005_Yes....wav|Mmm.
+dataset/Cou005_Yes, but everyone’s busy with cram school. The only place I go is here....wav|うん。でも、みんな塾とかを稽古で忙しいの。私はここぐらいだから。
+dataset/Cou006_Tired?.wav|疲れてるの?
+dataset/Cou006_Really?.wav|本当?
+dataset/Cou006_We couldn't talk that much about you last month..wav|先生のこと? 先月はあんまり聞けなかった。
+dataset/Cou006_Okay!.wav|うん!
+dataset/Cou006_How busy?.wav|そのくらい?
+dataset/Cou005_It’s okay; don’t worry about it..wav|いいよ、そんなに気を使わなくても
+dataset/Cou007_Japanese and physical education..wav|大工と国語
+dataset/Cou007_What is university like?.wav|大学ってどんなところ?
+dataset/Cou007_No, I don’t like physical education..wav|違うの、体育が嫌いなの
+dataset/Cou007_Do you like to study, Sensei?.wav|先生は勉強が好きなの?
+dataset/Cou007_Not really..wav|あんまり好きじゃない
+dataset/Cou007_That’s amazing, Touko-sensei!.wav|すごいんだ、東吾先生
+dataset/Cou007_The metal beam..wav|絶望
+dataset/Cou006_Yes, and you?.wav|うん。先生は?
+dataset/Cou007_Yes, both..wav|どっちも好き
+dataset/Cou007_Yes..wav|うん
+dataset/Cou007_I like to spin around..wav|私、ぐるぐる回るの好きだよ
+dataset/Cou008_...I’m sorry..wav|ごめんなさい
+dataset/Cou008_Okay..wav|うん。
+dataset/Cou008_A splotch..wav|シミ
+dataset/Cou008_But that’s boring..wav|でもつまんない
+dataset/Cou008_Is it angry? Is it also crying?.wav|怒ってる?それとも泣いてる?
+dataset/Cou007_You were an exchange student. Wow!.wav|留学してたの?すごい
+dataset/Cou008_What do you see?.wav|先生は何に見えるの?
+dataset/Cou008_That's some kind of test, isn't it?.wav|何かのテストなんでしょ?
+dataset/Cou008_This is boring..wav|つまんないよ
+dataset/Cou009_I’m afraid of being in hot water..wav|お湯の中が怖いの
+dataset/Cou009_I like showers..wav|Shilla!
+dataset/Cou009_No..wav|其他有
+dataset/Cou008_They had that at the last hospital..wav|それ、前の病院でやった
+dataset/Cou010_...five thousand?.wav|5000本
+dataset/Cou010_But that's not the case..wav|でも違う
+dataset/Cou009_I’m not really sure. It feels like I’m being touched all over by something..wav|よくわからない。でも、体に何かが触れてるみたいだから。
+dataset/Cou010_I’m not sure..wav|よくわからない
+dataset/Cou010_It’s because I’m weird....wav|私、変だから
+dataset/Cou010_One thousand needles?.wav|針1000本?
+dataset/Cou010_Wouldn’t that hurt?.wav|痛い?
+dataset/Cou010_But... the test....wav|でも、テストした。
+dataset/Cou010_Not even my friends, or my mother?.wav|友達にも、お母さんにも?
+dataset/Cou010_What should I do?.wav|私は何をすればいいの?
+dataset/Cou010_You won’t tell anyone?.wav|陽子先生は誰にも言わない?
+dataset/Cou011_I wanna do it..wav|ある
+dataset/Cou010_Sensei, that's gross!....wav|先生汚い
+dataset/Cou011_(in a soft voice) Hello..wav|こんにちは
+dataset/Cou011_But this is a hospital, isn’t it?.wav|ここって病院なんでしょ?
+dataset/Cou011_I want to be cured..wav|私、治りたい。
+dataset/Cou011_So I have....wav|私は…
+dataset/Cou012_Actually, I haven’t..wav|そんな言葉知らない
+dataset/Cou011_I’m not sick?.wav|私、病気じゃない?
+dataset/Cou011_Sensei, why are you so kind to me? Is it because it is your job?.wav|先生は、なんでレイにそんなに優しくしてくれるの? お仕事だから?
+dataset/Cou012_Aren't those symptoms of schizophrenia?.wav|精神分裂病の症状
+dataset/Cou012_Goodbye..wav|さようなら
+dataset/Cou011_You would do that for anybody?.wav|誰にでもそういう風にするの?
+dataset/Cou012_Goodbye, Touko-sensei..wav|さようなら 東子先生
+dataset/Cou011_You’re absolutely sure you can cure me?.wav|絶対? 三
+dataset/Cou012_That makes me feel better..wav|よかった
+dataset/Cou012_I will..wav|うん!
+dataset/Cou012_By "what's bothering me", you mean... my nightmares? Me seeing strange things? Feeling like someone is touching me when no one is there?.wav|私が問題にしていることって 怖い夢を見ること? 変なものが見えること? 何も触れてないのに何かに触られてるって感じること?
+dataset/Cou012_If you lie can I cut off your finger?.wav|嘘ついたら針千本?
+dataset/Cou012_Not at all! But I’ll do what you asked me to do, Sensei..wav|ううん、でも先生の言う通りにする
+dataset/Cou012_Then will you help me find what’s wrong?.wav|先生は教えてくれる?
+dataset/Cou012_Just call me Lain. It’s a bit weird for a "big sister" to call me Lain-chan..wav|メインでいいよ だって妹にちゃんづけするなんて変だよ
+dataset/Cou012_You’re goofy, Sensei..wav|変な先生
+dataset/Cou013_Because I’m sick?.wav|病気だから?
+dataset/Cou012_I looked it up in a book..wav|本で調べたの
+dataset/Cou013_Both?.wav|どっちも起きている
+dataset/Cou012_You’re my big sister then?.wav|じゃあ先生はレインのお姉ちゃん?
+dataset/Cou012_You’re tired of me?.wav|レインは疲れる?
+dataset/Cou013_From the electric lines. Somehow....wav|厳選…なんとなく…
+dataset/Cou012_I just wanted to know... what's going on with me..wav|でも、知りたかったの。 自分がどうなっているかって。
+dataset/Cou013_Hello, Touko-san..wav|こんにちはトウコさん
+dataset/Cou013_From the sky..wav|ソラン
+dataset/Cou013_I don’t know..wav|わからないの
+dataset/Cou013_Is it when a demon comes out and you can’t move your body?.wav|お化けが出て体が動けなくなること?
+dataset/Cou013_It sounds like someone talking..wav|話し声みたいな
+dataset/Cou013_Many times..wav|何度も会った
+dataset/Cou013_I don't really know. Sometimes it seems to come from the sky; not the electric lines..wav|よくわからない。 時々、電線じゃなくて空から聞こえる気もする。
+dataset/Cou013_No. It isn’t..wav|うん、怖くない
+dataset/Cou013_I haven't seen nightmares much lately. Sometimes I hear things, though..wav|うん。でもこの頃見ないよ。聞こえる時はあるけど。
+dataset/Cou013_I don’t like hearing it, so I try my best to ignore it..wav|あんまり聞きたくないから気にしないようにしてる
+dataset/Cou013_Sort of....wav|なんとなく
+dataset/Cou013_Run out of the room..wav|逃げると思う
+dataset/Cou013_Uh, huh..wav|うん。
+dataset/Cou013_No. I’m not scared now. But....wav|大丈夫 だって怖くないもん ただ
+dataset/Cou013_Uh-huh..wav|うん。
+dataset/Cou013_I don’t know. It can be a man’s voice or a woman’s voice..wav|わからない。男の人だったり、女の人だったり。
+dataset/Cou013_Why?.wav|なんでなの?
+dataset/Cou014_But....wav|でも
+dataset/Cou014_But I’m scared and I hate this..wav|でも怖いし嫌
+dataset/Cou014_A diary?.wav|ニッキー?
+dataset/Cou014_I was afraid, and I felt better after staying motionless for a while..wav|怖くて、じっとしていたら治ったの。
+dataset/Cou014_I don't know..wav|わからない
+dataset/Cou014_It isn’t painful, but it’s frightening..wav|痛くないけど怖い
+dataset/Cou014_I feel that I am being told to come back because I’m unneeded..wav|いらないから戻ってこいって 言われてる気がするの
+dataset/Cou014_Suddenly....wav|いつの間にか
+dataset/Cou014_I don’t know. But it feels as if there was another myself, touching my body, ripping it apart.wav|わからない。けど、私みたいな私が、私の体を触って、引きちぎるみたいに。
+dataset/Cou014_I start to feel that I don't belong. Like I am an unneeded thing..wav|自分がいらないような気になるの 自分がいらないものだって
+dataset/Cou014_That will cure me?.wav|それで治るの?
+dataset/Cou014_Thank you..wav|ありがとう
+dataset/Cou014_To myself..wav|私に
+dataset/Cou014_Sometimes it happens when I’m all by myself, and sometimes when I’m talking to my friends..wav|一人でぼんやりしていたり、お友達と話していた時にもなった。
+dataset/Cou015_A different me?.wav|違う自分?
+dataset/Cou015_I don’t believe that I’m anyone chosen. I’m okay with being ordinary..wav|私は選ばれた人だなんて思ってないよ 普通でいいんだもの
+dataset/Cou015_I’ll pay you for the diary..wav|お金払うよ
+dataset/Cou015_I decided to keep a diary..wav|うん、つけることにした
+dataset/Cou015_Ha, ha..wav|hehe
+dataset/Cou015_I don’t feel that way. I think that I’m just me..wav|私はそんな風に思ってないよ。私は私なもの。
+dataset/Cou014_Yes. While I’m just talking, it suddenly....wav|うん。普通に話していたら、急に…
+dataset/Cou015_You’re very busy?.wav|忙しいの?
+dataset/Cou016_Accept?.wav|受け止める?
+dataset/Cou015_I’m doing okay. How about you, Touko-san?.wav|別に…大丈夫だよ。トウコさんは?
+dataset/Cou015_But you’re funny, Sensei. You’re a lot of fun..wav|でも先生おかしい なんか楽しい
+dataset/Cou016_I can’t..wav|できないよ
+dataset/Cou015_Uh-huh. I looked into it. It’s about knowing that you are yourself?.wav|うん。前に調べた時に覚えた。 自分が自分であるって認識すること?
+dataset/Cou016_Do you think I’m trying to run away from myself?.wav|私も自分から逃げてる?
+dataset/Cou016_I didn’t lie to you. I didn’t see any ghosts or phantoms. You’re a big jerk!.wav|私、嘘なんかついてない。 あれは、幽霊とかお化けじゃない。 先生のバカ!
+dataset/Cou016_I’m scared..wav|怖い 私
+dataset/Cou016_What should I do?.wav|どうすればいいの? 私
+dataset/Cou017_Don’t cry..wav|泣かないで
+dataset/Cou016_I just don’t want to see any more bad dreams. I think that's how i feel..wav|変な夢を見なくしたいだけ だと思う
+dataset/Cou016_I’m leaving. I’m going home..wav|私、帰る
+dataset/Cou017_Touko-san, don’t cry..wav|ヨウコさん、泣かないで
+dataset/Cou017_Joy?.wav|嬉しくて?
+dataset/Cou017_I lied to you... I didn’t keep the diary..wav|レイン、嘘ついてた。 本当は日記つけてなかったの?
+dataset/Cou017_I’m really happy, too. I feel so close to you..wav|レインも嬉しいよ。トウコさんがとっても近くに感じられる。
+dataset/Cou018_And the next time I hear the voices, I’ll listen to see what they are saying..wav|それから今度声が聞こえたら、なんて言ってるかちゃんと聞いてみる。
+dataset/Cou017_Yes..wav|
+dataset/Cou018_I made this for you with my mom..wav|これ、お母さんと一緒に作ったの
+dataset/Cou018_Happy birthday, by the way, Touko-san..wav|それから… とうこさん お誕生日おめでとう
+dataset/Cou018_It won’t go with black tea?.wav|紅茶と合わない?
+dataset/Cou018_I’m not forcing myself..wav|無理なんかしてないよ
+dataset/Cou018_Is it good?.wav|おいしい?
+dataset/Cou018_Really?.wav|本当?
+dataset/Cou018_Sensei, it hurts..wav|先生、痛いよ
+dataset/Cou018_Sure..wav|Mmm!
+dataset/Cou018_The diary is for me, after all..wav|自分のためだもの
+dataset/Cou018_Touko-san, I’ll start keeping my diary. Honestly, this time..wav|東子さん、私日記つける。今度は本当。
+dataset/Cou018_You said that you like tea, so we made the cookies that way..wav|先生が紅茶が好きだって言ってたから
+dataset/Cou018_Then, I’ll tell you what they said, Touko-san..wav|それで、トウコさんになんて聞こえたか教えるね
+dataset/Cou019_A purplish color that looks like a curtain..wav|紫っぽくカーテンみたいな
+dataset/Cou018_Should I have made cookies with a different flavor?.wav|違う味にすればよかった?
+dataset/Cou019_A secret?.wav|秘密?
+dataset/Cou019_Buildings..wav|ビール
+dataset/Cou017_You were trying to be helpful to me..wav|トウコさんはレインのためを思って言ってくれたのに
+dataset/Cou019_But I wanted to have the same score as all the other kids..wav|でも、みんなと同じが良かった
+dataset/Cou019_I don’t know..wav|わからない
+dataset/Cou019_But I had a feeling that I’m probably different from everybody else..wav|でも、たぶん、みんなと違うんだって気がしてた。
+dataset/Cou019_I can’t see anything further..wav|見えない
+dataset/Cou019_I think that I will be disliked..wav|嫌われちゃうから
+dataset/Cou019_Is that okay?.wav|いいの?
+dataset/Cou017_I’m sorry, Touko-san..wav|どうこさんごめんなさい
+dataset/Cou019_It makes me very uncomfortable..wav|気味悪いみたい
+dataset/Cou019_I feel like I’m the only person who can hear and see some things..wav|聞こえるのも見えるのもいつも私だけ
+dataset/Cou019_Mountains..wav|山
+dataset/Cou019_I write in my diary everyday. Sometimes I don’t have much to write, though..wav|日記、毎日つけてるよ あんまり書くことない日もあるけど いい?
+dataset/Cou019_I’ve been okay..wav|大丈夫だよ
+dataset/Cou019_One-point-five..wav|1.5
+dataset/Cou019_No. I want to see you. I don’t want to see any of the other doctors here. They all scare me..wav|いや、私、トウコさんがいい。 ここの先生ってみんな怖い?
+dataset/Cou019_Really good?.wav|すごく?
+dataset/Cou019_Touko-san..wav|トウコさん
+dataset/Cou019_Oh..wav|そうなんだ
+dataset/Cou019_What?.wav|なに?
+dataset/Cou020_But?.wav|ただ…
+dataset/Cou020_Am I hearing that information?.wav|その声が聞こえるの?私
+dataset/Cou019_Trees and a gate to the research center in the distance..wav|銀杏の木と遠くに門
+dataset/Cou020_Contemplations?.wav|燃料?
+dataset/Cou020_Clouds. The sun. The stars..wav|雲とか太陽とか 星とか
+dataset/Cou020_Good morning, Touko-san..wav|おはようございます、トウコさん
+dataset/Cou020_I’m not delusional?.wav|妄想じゃない?
+dataset/Cou020_Paranoia?.wav|被害妄想?
+dataset/Cou020_No, I haven’t. Honestly..wav|ううん、見えないよ。ほんとだよ。
+dataset/Cou020_More than one. Men and women..wav|大勢 男の人も女の人も
+dataset/Cou020_There’s a sickness like that?.wav|そういう病気があるの?
+dataset/Cou020_Probably not..wav|多分いないと思う
+dataset/Cou020_There’s air..wav|空気はあるよね
+dataset/Cou020_Yes. The information travels wirelessly?.wav|知ってる。無線で送られてくるんだよね。
+dataset/Cou021_Can I be cured?.wav|治るの?
+dataset/Cou013_Wiring that carries electricity..wav|路線とか電気が伝わるもの?
+dataset/Cou020_Sometimes I hear gibberish..wav|なんか、ごちゃごちゃ言って聞こえる時はあるけど…
+dataset/Cou021_If you had to guess, what could it be?.wav|当てはめると何になるの?
+dataset/Cou021_I’m really sick..wav|いっぱい病気なんだ 私
+dataset/Cou021_The sickness of thinking that I am sick when I’m not sick?.wav|本当は病気じゃない病気?
+dataset/Cou021_Uh, huh..wav|うん
+dataset/Cou021_Poor self-esteem?.wav|事故を過小評価?
+dataset/Cou022_Am I sick because I came to the hospital?.wav|病院に来たから病気になったの?
+dataset/Cou022_Are you a counselor, Touko-san? You said before that you’re a doctor..wav|トウコさんはカウンセラーなの? 前はお医者さんだって
+dataset/Cou022_But it isn’t usual..wav|でも、普通じゃない。
+dataset/Cou022_But am I not mentally ill? You said that the things I see are hallucinations..wav|私精神病じゃないの 私が見えるあれは 幻覚なんだって
+dataset/Cou022_Do I mind things too much?.wav|私、気にしすぎ?
+dataset/Cou022_Are you a doctor or a counselor when you see me?.wav|今は私と会う時はどっち?
+dataset/Cou022_How are the two different?.wav|何が違うの?
+dataset/Cou021_I don’t want to listen anymore..wav|もういいよ
+dataset/Cou022_I’m me. That person is, too..wav|私なの、その人も
+dataset/Cou022_I don't mind anymore. I’m getting used to this. Still, I can't get used to that..wav|でも、もう気になってないよ。慣れてきた。 でも、あれは慣れない。
+dataset/Cou022_I’m not the me that I am right now..wav|私が今の私じゃないの
+dataset/Cou022_What can I do about it, Touko-san?.wav|どうすればいいの? トウコさん
+dataset/Cou023_I don’t want a talent like that..wav|いらないよ、そんなの
+dataset/Cou023_But I won’t know if I’ve gotten better. I might have nightmares again..wav|でも治ったかわからない いつまた見るかもしれない
+dataset/Cou022_I don’t know. Have you ever thought that you aren’t you, Touko-san?.wav|よくわからない。 とうこさんは自分が自分だと思えないことってない?
+dataset/Cou023_That’s true, Touko-san..wav|そうだね、トウコさん
+dataset/Cou023_I won’t change?.wav|私はこのまま?
+dataset/Cou023_What do you mean?.wav|違うって?
+dataset/Cou023_Probably....wav|多分
+dataset/Cou024_Good morning, Touko-san..wav|おはよう トウコさん
+dataset/Cou024_Ok..wav|うん!
+dataset/Cou024_Irreversible?.wav|取り返しのつかない?
+dataset/Cou024_See things differently?.wav|別な価値観?
+dataset/Cou024_I am afraid of those things..wav|私は怖い
+dataset/Cou024_Uh huh. I thought about the things you talked about last month and I’ve somehow been feeling better..wav|うん。先月なんかいろいろトーコさんに聞いて、なんとなくだけど楽な気分になれたの。
+dataset/Cou025_I don’t remember... many times..wav|覚えてない バイ
+dataset/Cou025_I was eleven..wav|11歳の時
+dataset/Cou024_I don’t want to die..wav|私、死にたくない もう
+dataset/Cou025_I don’t mean that. I want to know more about your work. Is that okay?.wav|違うの。先生のお仕事のこと、もっと知りたいの。 ダメ?
+dataset/Cou025_I won’t get better right away?.wav|まだ治らないの?
+dataset/Cou025_No..wav|ないよ
+dataset/Cou026_Alcoholism?.wav|アルコール中毒?
+dataset/Cou025_Yes, I promise..wav|うん、約束する
+dataset/Cou025_No. I like seeing you..wav|そんなことないよ トウコさんに会いたいって思うことあるもの
+dataset/Cou026_And a psychiatrist is someone who heals mental illnesses?.wav|精神科医って精神病治す人でいいの?
+dataset/Cou025_Yes. In exchange, I want you to teach me some things..wav|うん。その代わり、色々教えて欲しいの。
+dataset/Cou026_But normal people aren’t that way, are they?.wav|でも、普通の人はならないんだよね
+dataset/Cou026_I don’t understand what stress is..wav|ストレスってよくわからない?
+dataset/Cou026_That’s scary..wav|怖いね
+dataset/Cou026_Isn’t that dangerous?.wav|危なくない?
+dataset/Cou026_What is mental illness?.wav|精神病って本当はどんな病気なの?
+dataset/Cou026_Yes. What other kinds of mental illness are there?.wav|うん。他に病気の種類は?
+dataset/Cou026_What sort of reason, for instance?.wav|何かの原因? 例えば?
+dataset/Cou026_You are a counselor and a psychiatrist, Touko-san?.wav|先生はカウンセラーで精神科医なんだよね
+dataset/Cou027_No. It’s just my own style..wav|違う、私だけ
+dataset/Cou027_It comes from the right, and probably, that’s why it goes out of the left. That’s why....wav|右から入ってくるの 多分 それで左から出てくるの だから そう
+dataset/Cou024_Suicide?.wav|自殺?
+dataset/Cou027_You did, Touko-san?.wav|トウコさんも?
+dataset/Cou027_It’s weird?.wav|変だよね
+dataset/Cou028_I know the word, not its meaning..wav|言葉だけだよ。意味なんてよくわからない。
+dataset/Cou028_It’s only inside of their heads?.wav|心の中だけの病気?
+dataset/Cou028_No, I don’t have that kind of problem..wav|そんなのないよ
+dataset/Cou028_That’s awful. You won’t teach me anymore?.wav|ひどい先生、もう教えてくれないの?
+dataset/Cou014_Probably..wav|多分
+dataset/Cou026_Yes..wav|Hmm.
+dataset/Cou014_No, I can’t..wav|ううん、かけない。
+dataset/Cou028_The mind changes and becomes distorted?.wav|神経が変になっておかしくなる病気
+dataset/Cou027_A magic charm?.wav|おまじない
+dataset/Cou029_ Who decides the names of diseases?.wav|病名って誰が決めるの?
+dataset/Cou029_There’s mental illness you don't understand? Not even you?.wav|わからない?先生でも?
+dataset/Cou028_Psychosomatic?.wav|心身傷って?
+dataset/Cou030_I haven’t traveled anywhere during summer vacation..wav|旅行なんてしたことないよ
+dataset/Cou029_You do this even if you don’t know if a person can be cured?.wav|治るかどうかもわからないのに
+dataset/Cou031_I don’t understand..wav|わかんない
+dataset/Cou031_If you can’t link things together, you’re sick?.wav|結びつかないと病気なの?
+dataset/Cou031_I feel that my memories aren’t my memories..wav|私、私の記憶が自分じゃない気がする
+dataset/Cou030_No. How does a memory enter the brain?.wav|ううん それで記憶って脳にどう入っているの?
+dataset/Cou031_Even when it’s me. But I don’t remember anything else..wav|私なのに、でもそれ以外は何も思い出せない。
+dataset/Cou031_If you generate a recording, you have a memory?.wav|記録を再生すれば記憶なの?
+dataset/Cou031_Normal?.wav|普通?
+dataset/Cou032_"I Love, Love, Really Love"?.wav|好き好き大好き?
+dataset/Cou032_And?.wav|それで?
+dataset/Cou032_Do I have to think about all this stuff?.wav|そんなに考えなくちゃいけないの?
+dataset/Cou032_I don’t really know..wav|よくわからなくなっちゃった
+dataset/Cou032_I don’t really understand, but I probably am..wav|よくわからないけど、たぶんそうだと思う。
+dataset/Cou032_I don’t understand..wav|よくわからない
+dataset/Cou032_I like you because you’re kind..wav|優しいから好き
+dataset/Cou032_I feel like I might start to not like you..wav|私なんだか先生のこと嫌いになっちゃいそう
+dataset/Cou031_Things we can’t do anything about?.wav|仕方がないこと?
+dataset/Cou032_Which?.wav|どっちか?
+dataset/Cou032_Let’s stop this..wav|もうやめようよ
+dataset/Cou032_R.D. Laing?.wav|R.D.Rain?
+dataset/Cou031_There are memories in the body and the brain?.wav|脳や体の中に記憶があるの?
+dataset/Cou032_Yes I do..wav|本当だよ
+dataset/Cou032_Yes, I do..wav|うん、好き
+dataset/Cou032_Yes..wav|Hmm.
+dataset/Cou032_You don’t get angry and you’re polite..wav|怒らないし、親切だから
+dataset/Cou033_I want to know everything about you!!.wav|私は先生のこと全部わかりたい
+dataset/Cou032_You’re kind and you listen to me..wav|優しいところと、レインの話を聞いてくれるところ。
+dataset/Cou029_I see. It would be so much better if we could understand everything..wav|そうなんだ 全てわかってしまえばいいのにね
+dataset/Cou033_It's impossible after all, isn’t it?.wav|結局、ダメなんだね
+dataset/Cou030_Memories? Do you mean records?.wav|記憶? 記録?
+dataset/Cou019_Is that the reason?.wav|それが原因?
+dataset/Cou033_But what if you would answer every question I ask..wav|でも先生はレンが聞いたら説明してくれるよ
+dataset/Cou033_Sounds lonely....wav|なんだか寂しくなっちゃった
+dataset/Cou033_Yes, indeed..wav|うん、嬉しい
+dataset/Cou033_Impossible?.wav|可能?
+dataset/Cou033_You like the mysterious Lain?.wav|よくわからないレインが好き?
+dataset/Cou034_But she is so shy..wav|でも恥ずかしがり屋だからダメだよ
+dataset/Cou034_Good experience?.wav|いい経験?
+dataset/Cou034_It sounds difficult..wav|難しい
+dataset/Cou034_Misato..wav|みさとちゃん
+dataset/Cou034_That story reminds you of a bad memory..wav|嫌なこと思い出したんでしょ?
+dataset/Cou034_She is really cheerful and nice to me. I’m really happy around her..wav|明るくて仲良くしてくれる。一緒にいると楽しい。
+dataset/Cou034_Maybe... I’ll ask her anyway. I’m guessing she wouldn’t want to..wav|多分、聞いてみる。でも、多分嫌だって言うと思うの。
+dataset/Cou034_Were you happy?.wav|先生は楽しくなかった?
+dataset/Cou034_Yeah... I’m sorry.wav|うん。ごめんなさい。
+dataset/Cou034_We read books together at her place and I listen to her playing violin sometimes..wav|ミサドちゃんのお家に行ったりして本を一緒に読んだりミサドちゃんのバイオリン聞いたり
+dataset/Cou034_You know, playing and talking with my best friend..wav|お友達と話したり、一緒に遊んだりするのが…
+dataset/Cou034_Yes, I am!.wav|うん、すごく楽しいよ
+dataset/Cou035_How do you express it in technical jargon?.wav|専門用語でなんていうの?こういうことを
+dataset/Cou035_And even though I don’t know where it is, when I play at a park that I’ve never seen, for me it seems like the place I usually go..wav|そこかどこかわからないけど でも、私にとっては いつもの自分の遊び場のような
+dataset/Cou035_I don’t know, but Lain was laughing when it happened..wav|わからない。でも、私は笑っていた。
+dataset/Cou035_I just feel something is different..wav|うん、なんかちょっと違うって
+dataset/Cou035_I can’t explain very well, but it was Lain..wav|うまく言えないけど、たぶん私なの。
+dataset/Cou035_Even though I recognize that I am playing in my house, I feel like it isn’t my house..wav|自分の家で遊んでるって認識してるのに なんか私の家じゃなかったり 見たこともないような公園で遊んでいても
+dataset/Cou035_It’s an illness, isn’t it?.wav|病気? だよね
+dataset/Cou035_I really want to know about myself!.wav|知りたいの 私のこと
+dataset/Cou035_No, you didn’t..wav|違うよ
+dataset/Cou035_Let’s see... I don’t know, because I was just watching her....wav|どこだろう?ただ見ていただけだったから、それは…
+dataset/Cou035_Touko-san, deja vu isn’t an illness, is it?.wav|アホ子さん、デジャブって病気じゃないよね?
+dataset/Cou035_Still, I want to study a lot in order to be like you, Touko-san..wav|私、それでも色々勉強したいの。 トウコさんみたいになりたいの。
+dataset/Cou035_Well... I don’t know... It was like I saw myself on the TV... I guess....wav|わからない。まるでビデオを見ているように私が映ってた。
+dataset/Cou035_What a relief! I feel better now..wav|よかった。ちょっと安心した。
+dataset/Cou033_Still, it would be impossible?.wav|それでもダメ?
+dataset/Cou035_You can’t prove that I don’t..wav|違うって証明できない
+dataset/Cou036_I guess I understand a little....wav|なんとなくわかってきた
+dataset/Cou033_The same person?.wav|同じ人間?
+dataset/Cou036_I can get the last part, but it is still beyond my understanding..wav|最後はわかるけど、でもまだわからない。
+dataset/Cou036_Right..wav|Hmm.
+dataset/Cou035_You didn’t make any mistakes because I insisted that you should answer my question..wav|トウコさんは悪くないの。私が無理やり聞いたんだから。
+dataset/Cou036_Not at all..wav|わからない
+dataset/Cou036_I guess so..wav|そうだと思う
+dataset/Cou036_So is it wrong to think that I understand myself at my age?.wav|そう思うのは錯覚してるってこと?
+dataset/Cou036_If it doesn’t?.wav|それが働かないと?
+dataset/Cou035_Time is strange for some reason. I can’t figure out if time is fast or slow..wav|なんとなく時間が変な感じで早いのか遅いのかよくわからない気がする
+dataset/Cou037_Difficult?.wav|簡単にいかないもの?
+dataset/Cou036_The ego is your sense of who you are, isn’t it?.wav|違うって自分を感じることだよね
+dataset/Cou037_I mean if....wav|もし…だよ?
+dataset/Cou037_And?.wav|それで?
+dataset/Cou035_Well, it could be... or could not be... I don’t know... maybe not....wav|そういう気もするけど、よく考えると違うような… やっぱり違うと思う。
+dataset/Cou037_Just talking?.wav|話すだけ?
+dataset/Cou037_If I became sick, what would you do for it?.wav|もし私が病気だったら、トウコさんはどんな風に治そうって思うの?
+dataset/Cou037_So what are you going to do?.wav|じゃあどうするの?
+dataset/Cou037_So what would you do?.wav|じゃあどうするの?
+dataset/Cou037_Is that enough to recover them from diseases? Sound simple!.wav|本当にそれで治るの? なんか簡単だね
+dataset/Cou037_Why you don’t like it?.wav|なんで嫌いなの?
+dataset/Cou037_Why wouldn’t you use them?.wav|なんでお薬で治しちゃいけないの?
+dataset/Cou037_You must be tired. Should you take a break?.wav|先生疲れてるんだね 少しゆっくり眠った方がいいんじゃない
+dataset/Cou038_But it’s on the Web. All sorts of research takes place..wav|でもネットで公開されていたよ いろんな研究の項目が
+dataset/Cou038_I checked it out on the Web. I had a test done before, and I was curious..wav|この間ネットで調べたの。私も一回検査したし、興味があったの。
+dataset/Cou038_Memories are stored in the hippocampus..wav|記憶が会話にあるって
+dataset/Cou038_That’s how the brain gets sick?.wav|それが壊れちゃうの?
+dataset/Cou038_I’m sorry, Touko-san..wav|ごめんなさい、トウコさん。
+dataset/Cou038_There is brain research at this research center, isn't there?.wav|この研究所も脳の研究してるんでしょ?
+dataset/Cou038_I understand. People have their brainwaves tested and have CAT scans to check for it..wav|わかるよ。それを調べるために、脳波検査したりCTスキャンするんだから。
+dataset/Cou038_No, it’s not like that. I learn a lot from you. It isn’t like the things I learn from books..wav|そんなことないよ。トコさんの話はすごく勉強になるの。本みたいな情報じゃないもの。
+dataset/Cou038_What kind of research?.wav|どんな研究?
+dataset/Cou038_When you get sick in the brain, is your mind is really sick?.wav|脳の障害って何かが壊れてしまうの?
+dataset/Cou039_I can’t see them anymore..wav|もう見えないから
+dataset/Cou038_When you get sick in the head, is your head really sick?.wav|頭がおかしくなるのって、本当にどこかおかしくなるの?
+dataset/Cou039_Did something happen? Touko-san?.wav|何かあったの? トウコさん?
+dataset/Cou039_I feel bad for you Touko-san..wav|えへへ、かわいそうなとうこさん
+dataset/Cou039_I found the homepage for this research center..wav|この研究所のホームページに
+dataset/Cou039_But this is a research center, isn’t it?.wav|でもここは研究所なんでしょ?
+dataset/Cou039_I read it in the paper. It was on the bulletin board here, too..wav|新聞で読んだから それとここの掲示板で
+dataset/Cou039_I’m not a research subject, am I?.wav|それに私は研究対象外なんでしょ?
+dataset/Cou039_That’s why I’m not useful to you..wav|だからトウコさんの役に立てない
+dataset/Cou039_I’m wasting your time..wav|私は 時間の無駄だもの
+dataset/Cou039_Touko-san... are you okay?.wav|トウコさん、大丈夫?
+dataset/Cou039_There’s nothing for you to worry about, Touko-san. It was a suicide..wav|どうこさんが気にすることはないと思う だって 自殺なんだから
+dataset/Cou039_Why?.wav|どうしてなの?
+dataset/Cou039_What kind of research do you do?.wav|トウコさんの研究って、何の研究なの?
+dataset/Cou039_We can end now if you’d like..wav|もう、終わりにしてもいいよ
+dataset/Cou039_You told me yourself..wav|ふふっ、先生が教えてくれたんだよ、自分で
+dataset/Cou039_I saw the list of researchers and published dissertations, but I couldn't find you..wav|研究員のリスト発表された論文が一覧で でも 東子さんだけが 東子さんの論文を読むことができると 東子さんは思っていたのです でも 東子さんは 東子さんの論文を読むことができない と 東子さんは思っていたのです 東子さんは思っていたのです 東子さんは思っていたのです 東子さんは思っていたのです 東子さんは思っていたのです 東子さんは思っていたのです 東子さんは思っていたのです 東子さんは思っていたのです 東子さんは思っていたのです 東子さんは思っていたのです
+dataset/Cou030_What’s the difference between a memory and a record?.wav|記憶は記録とどう違うの?
+dataset/Cou039_You’re an apprentice after being here for 3 years?.wav|もう3年近くも経つのに?
+dataset/Cou040_Are you very busy?.wav|忙しいの?
+dataset/Cou040_Can you do your research?.wav|研究のできる?
+dataset/Cou040_I can go buy you some..wav|私、紅茶買ってくる
+dataset/Cou039_You’re tired, Sensei. Maybe you should sleep a little..wav|先生、疲れてるんだね。少しゆっくり眠った方がいいんじゃない?
+dataset/Cou040_Maybe I should go home?.wav|私、帰った方がいいかな?
+dataset/Cou040_Touko-san..wav|トウコさん
+dataset/Cou040_I don’t think I would understand. Instead of something like that....wav|私には多分わからない そんなことよりも
+dataset/Cou040_You aren’t sad?.wav|寂しくない?
+dataset/Cou040_Things about me..wav|私のこと
+dataset/Cou040_Yes. I think everything is going to work out well..wav|うん、すべてがうまくいきそうなの
+dataset/Cou022_No. I’m me and I’m not me..wav|違う 私は私で そうじゃないの
+dataset/Cou039_You can’t do your own research because you’re busy with miscellaneous tasks..wav|雑用ばっかりで自分の研究ができなくて !
+dataset/Cou041_Kyoko-chan..wav|キョウコちゃん
+dataset/Cou041_Misato-chan?.wav|ミサトちゃん?
+dataset/Cou041_Why do you ask?.wav|なんでそんなことを聞くの?
+dataset/Cou042_About me personally?.wav|私自身のため?
+dataset/Cou039_You’re busy with miscellaneous tasks and can’t do your own research. Does that bother you?.wav|雑用ばっかりで自分の研究ができなくて辛いの?
+dataset/Cou041_He is. He brings me gifts when he goes to work..wav|優しいよ。出張に行くたびにお土産買ってくれるの。
+dataset/Cou041_Oh. Misato-chan. Is she going to be in your charts, too?.wav|そう…ミサトちゃんもカルテになるの?
+dataset/Cou042_For you to write your report?.wav|レポートを書くために?
+dataset/Cou042_And?.wav|それで? そっ
+dataset/Cou041_He goes to work. He’s not around home much..wav|お仕事で出張に行ったり、戻ってきてもあんまり家にいないよ。
+dataset/Cou041_Yes. But I can’t walk there..wav|そう、近所だけど歩いてはいけない。
+dataset/Cou039_You’re okay now. You have time for your own research now?.wav|もう大丈夫だものね。自分の研究の時間が取れるから。 どうぞ。
+dataset/Cou042_Is that what you believe?.wav|トウコさんはそう信じるのね
+dataset/Cou041_Yes. When I go to Misato-chan’s home, I always have my mom or dad drive me there..wav|うん。ミサトちゃんの家に行くときは、いつもお父さんかお母さんに車で送ってもらうの。
+dataset/Cou042_That she exists?.wav|彼女の存在? そう。
+dataset/Cou042_She can’t be contacted. She moved away..wav|連絡は取れないの? もう引っ越しちゃったから
+dataset/Cou042_Ha, ha. What do you mean? That’s silly of you..wav|ふふっ、どうしたの? おかしなトウコさん、今日も。
+dataset/Cou042_The truth?.wav|本当のこと?
+dataset/Cou043_How would I prove that she exists?.wav|存在はどう認識されるべきなの?
+dataset/Cou042_Misato-chan isn't an imaginary friend, either..wav|それに、ミサトちゃんは空想の友達なんかじゃないよ
+dataset/Cou043_It’s not a memory. It’s a record..wav|記憶じゃなくて記録だよ
+dataset/Cou043_Professor Takashima didn’t exist, then?.wav|じゃあ、高島教授は存在しなかった?
+dataset/Cou042_My memory....wav|私の記録
+dataset/Cou042_You said that kids often have that, and that there’s nothing wrong with it, Touko-san..wav|子供にはよくあることで、全然悪いことなんかじゃないって言ってたよ、トウコさん。
+dataset/Cou043_You would understand if you were connected..wav|トウコさんも繋がればわかるのに
+dataset/Cou044_It’s okay, Touko-san..wav|いいよ東子さん
+dataset/Cou044_I’m not gentle..wav|優しくなんかないよ
+dataset/Cou045_You’re confident that that person exists. I can’t prove that she exists..wav|その人の存在に、私は証明できない。
+dataset/Cou045_You’re confident, Touko-san..wav|トウコさんは自信があるんだよね
+dataset/Cou045_I know Kyoko-chan, but who is Kaori-chan?.wav|キョウコちゃんは知ってるけど、カオリちゃんって誰?
+dataset/Cou046_Complicated....wav|複雑
+dataset/Cou045_Who did you see, Touko-san?.wav|トウコさんは誰に会ったの?
+dataset/Cou046_Complicated?.wav|複雑?
+dataset/Cou046_Do you have important people in your life aside from me?.wav|トウコさんはレイン以外に大切な人はいる?
+dataset/Cou046_Is it tiresome?.wav|つらい?
+dataset/Cou046_I want to know about you..wav|トウコさんのこと知りたいって
+dataset/Cou043_There are records of his existence..wav|彼の記録が残っている
+dataset/Cou046_I’m worried about you, Touko-san..wav|トウコさんが心配なの
+dataset/Cou046_I do. But if I had to choose one person, I would choose you..wav|うん。でも誰か一人しか選べなかったら 誰を選ぶかって考えると、私はトウコさんなの。
+dataset/Cou046_Too young?.wav|まだ早い?
+dataset/Cou044_Will you finish your paper in time?.wav|論文に間に合わなくない?
+dataset/Cou046_Will you continue to like me, Touko-san?.wav|トウコさん、私のこと好きでいてくれる?
+dataset/Cou046_Won’t your lover be sad?.wav|先生の恋人は悲しまない?
+dataset/Cou046_But I made you mad..wav|でも、私のことで苛立ってる
+dataset/Cou046_Really? But is that okay? What about the other important people in your life?.wav|本当に?でもいいの?先生の大切な他の人達は?
+dataset/Cou046_You seem to be busy lately, Touko-san..wav|トウコさんはこの頃忙しそうだね
+dataset/Cou043_She doesn’t exist if she doesn’t have a human body?.wav|体がなかったら存在はなくなるの? あらない
+dataset/Cou047_Aren’t you sad to be alone?.wav|一人じゃ寂しいくせに?
+dataset/Cou047_A long time? Do you mean many times? Have I been seeing you too much?.wav|随分って多いって意味なの? トウコさんの中では過剰ってこと?
+dataset/Cou047_I’m... Lain..wav|私は…レイン
+dataset/Cou047_I haven’t changed..wav|私、渇くないよ
+dataset/Cou047_But you said that I could talk. I want to know about you..wav|でも話をすればいいって 私は東子さんのことが知りたいから あなたのことが知りたいから
+dataset/Cou047_No..wav|違うよ こっ
+dataset/Cou047_There seem to be many areas left..wav|まだまだエリアは確保されてるから
+dataset/Cou047_No, that’s not me. I think my personality is much different from that..wav|違ってるわ。私のパーソナリティは、もっと別の表現が適切だと思うの。
+dataset/Cou047_Sure I am. You’re being silly, Touko-san..wav|そうよ。おかしなトウコさん
+dataset/Cou048_Are you too proud to tell me?.wav|プライドが許さない?
+dataset/Cou048_Is it something vague? Something about feeling dormant?.wav|潜在的な不安?何か漠然としたもの?
+dataset/Cou048_Is that a symptom of an intermittent flow of thought?.wav|それは断続的な流れの中の一つの肖像?
+dataset/Cou048_So that’s number one?.wav|それが一番なんだね
+dataset/Cou048_That makes you happy?.wav|それは幸せなこと?
+dataset/Cou048_You’re just Touko-san. You’re yourself..wav|トウコさんはトウコさんのままだよ
+dataset/Cou043_You don't believe me, Touko-san?.wav|トウコさんも?
+dataset/Cou048_Why?.wav|どうして? 何?
+dataset/Cou049_Aren’t those feelings delusional?.wav|妄想じゃないの? アイリータ
+dataset/Cou048_You can imagine yourself being unhappy?.wav|不幸な自分は想像できる?
+dataset/Cou049_But I’m connected to you, Touko-san..wav|だって私、トウコさんと繋がってるんだもの
+dataset/Cou049_I wonder if that’s true..wav|そうかなぁ
+dataset/Cou049_No, I’m not. How about you, Touko-san?.wav|私はないよ トウコさんは?
+dataset/Cou049_I’m sick. How about you?.wav|私は病気で、とうこさんは?
+dataset/Cou047_You really didn’t like my questions?.wav|遠子さんは本当は家だったの? Gesundheits TWinklingStar
+dataset/Cou049_You’re feeling delusional?.wav|妄想気分なのね
+dataset/Cou049_The man you’re thinking about right now..wav|今、とうこさんが頭に浮かべてる人
+dataset/Cou048_That’s really great, Touko-san..wav|そうなんだ。よかったね、トウコさん。
+dataset/Cou050_Are you tired of doing miscellaneous chores?.wav|雑用で嫌になったの?
+dataset/Cou047_What’s wrong? Are you angry? You can’t control your emotions?.wav|どうしたの? トウコさんは苛立ってるの? 感情が制御できないの? ねえ!
+dataset/Cou049_It probably wouldn’t make sense if I tried to explain it to you..wav|多分、説明することに意味はないもの
+dataset/Cou048_Is there something I can do?.wav|私に何かできること?
+dataset/Cou049_But how about the feelings you have about that man?.wav|あの男の人に対して思っている気持ちや想像していることは
+dataset/Cou048_I’m glad..wav|よかった
+dataset/Cou050_Do you think you have some kind of psychological condition?.wav|作意志向ってやつ? それとも高層ダッシュ?
+dataset/Cou050_Do you think you might have caught something from me?.wav|ひょっとして私からの高層鑑賞?
+dataset/Cou050_You don’t have much energy..wav|トウコさん、元気がないよ
+dataset/Cou050_Ha, ha..wav|ふふっ
+dataset/Cou050_Yes. You don’t want to believe that I exist..wav|そう、信じたくないって思ってる
+dataset/Cou050_You’ll be in a world where you don’t suffer..wav|トウコさんが苦しまない世界
+dataset/Cou050_There is information you wouldn’t understand now. You aren’t doing well psychologically..wav|今の東子さんに理解できない情報が 東子さんの精神衛生上良くないの
+dataset/Cou050_You’re okay, Touko-san. You’ll be better by tomorrow..wav|大丈夫だよ、トウコさん。きっと明日になれば、また元通りになってるから。
+dataset/Cou050_You’re always yourself. Even when you doubt my existence..wav|どっちも東子さんだよ。私の存在を疑ってる時も。
+dataset/Cou051_Does it bother you?.wav|気になるの?
+dataset/Cou050_Of course, I am. I like you..wav|当たり前だよ。だって私、トウコさんが好きだもの。
+dataset/Cou051_A rumor?.wav|噂
+dataset/Cou051_I feel sorry for you, Touko-san..wav|かわいそうなとうこさん
+dataset/Cou051_Is that a delusion of persecution?.wav|関係妄想?
+dataset/Cou050_Yes. But it would be too difficult for you to understand now..wav|そう、全部知ることは今のトウコさんには辛いことだわ。
+dataset/Cou051_Some other kind of delusion?.wav|それとも被害妄想?
+dataset/Cou051_Then I’m not really sick?.wav|じゃあ病気じゃないの?
+dataset/Cou050_Is someone having you do waste your time with small tasks?.wav|誰かにくだらないことをさせられてるって
+dataset/Cou051_It’s not like you to be mad. Some of us don’t seem to exist, though. Which are you?.wav|ふふっ、嫌味を言うなんてトウコさんらしくないよ。 でも、そういう人もいるかもね。 トウコさんはどっち?
+dataset/Cou051_How about me? Am I here?.wav|じゃあ、今ここにいる私は? 今егоジョンのスタイルだ
+dataset/Cou051_You’re so serious. But you’re an elite. You’ve been chosen..wav|真面目だね エリートだものね 選ばれた人間
+dataset/Cou052_Does a woman need a man?.wav|女の人には男の人が必要なの?
+dataset/Cou051_Someone is spreading rumors about you?.wav|誰かがトウコさんの噂をしてる
+dataset/Cou052_I would get sad, too..wav|私も寂しがり屋だよ
+dataset/Cou052_Is a love life necessary?.wav|恋愛って必要なこと?
+dataset/Cou053_My point of view?.wav|依順?価値観?
+dataset/Cou053_Ordinary data..wav|ただのデータ
+dataset/Cou053_That’s you, isn’t it?.wav|それはトウコさんじゃない?
+dataset/Cou052_It would be obsessive to think that a woman must have a man, Touko-san. You can live on your own..wav|男の人がいなくちゃダメなんて脅迫観念だよトウコさん 一人で生きていけるよトウコさんなら
+dataset/Cou053_The judgment you have exactly at that moment is you, Touko-san. The rest is....wav|その瞬間だけの判断がトウコさんだよ。 あとは…
+dataset/Cou052_You think too much, Touko-san. You pay too much attention to what’s going on around you..wav|トウコさんは考えすぎだよ。 周りのことも気にしすぎてるんだよ。
+dataset/Cou053_What’s wrong? It’s not like you to play a victim..wav|どうしたの? 被害者意識なんてトウコさんらしくないよ
+dataset/Cou053_Wouldn’t you be better off if you were just being yourself?.wav|トウコさんはトウコさんの思った通りにすればいいのに トウコさんの思った通りにすればいいのに
+dataset/Cou053_You’re just Touko-san, Touko-san..wav|トウコさんはトウコさんだよ
+dataset/Cou051_I’m sick. What’s the name of my disease? Schizophrenia? Manic depression? Something else?.wav|私病気になれたんだねえなんて病名 精神分裂病サワン症候群 それともコルサコ腐症候群による記憶障害
+dataset/Cou053_That’s not true. I’m connected to you. I’m connected to society. That’s why you’re connected, too..wav|そんなことないよ。私はトウコさんと繋がっている。私は社会と繋がっている。だからトウコさんも繋がっているのよ。 えっ!!!
+dataset/Cou052_Are you okay, Touko-san..wav|トウコさん、大丈夫?
+dataset/Cou053_You don’t want to do anything? How about your research?.wav|何にもしたくないの? 研究は?
+dataset/Lda001_And now, I'm writing this diary....wav|今、日記を書いている。
+dataset/Lda001_After school, I went to Touko to talk with her..wav|放課後に東子先生のところに行ってお話しして帰ってきて
+dataset/Lda001_Keeping a diary may be tough to deal with..wav|なんか日記って苦手かもしれない
+dataset/Lda001_...I came home and ate dinner and watched TV and took a bath....wav|とりあえずご飯を食べてテレビを見てお父さんとお話しして それからお風呂に入って
+dataset/Lda001_I want to give it up..wav|やめたい
+dataset/Lda001_Reading this makes me blush!.wav|あ、読み返すと恥ずかしい
+dataset/Lda001_Diary? What should I write? What should I write about myself?.wav|日記?何書こう?私のことなんか何を書くの?
+dataset/Lda001_This is to be read by only myself, so I don't have any idea what to write..wav|誰に言うわけでもないし、何を書いたらいいのかもわからない。
+dataset/Lda002_But... Kyoko said, "These suit you! You look cute!".wav|でも、お政治かもしれないけど
+dataset/Lda001_Today I woke up and went to school and attended class..wav|今日は朝起きて学校に行って授業を受けて
+dataset/Lda002_But, I feel a little ashamed to go out with these on..wav|だけどそれをつけて外出するなんてちょっと恥ずかしい
+dataset/Lda002_I think I'm lost on buying these accessories....wav|なんとなく損した気分
+dataset/Lda002_I think it may be her flattery.wav|京子ちゃんに似合うって言われて
+dataset/Lda002_Kyoko is cute, so it is no problem for her to wear these..wav|キョウコちゃんは似合うからかっこいいけど
+dataset/Lda002_Today, I went shopping with Kyoko..wav|今日は京子ちゃんと買い物に行った
+dataset/Lda002_I bought an earring and a bracelet..wav|イヤリングとブレスレットを買った
+dataset/Lda003_...I also think I say strange things sometimes..wav|自分でもやっぱり自分が変なことを言っている気がする
+dataset/Lda003_But, I couldn't understand these words completely..wav|やっぱりよくわからなかった
+dataset/Lda002_I'm not cute, so whatever I do, it’s useless..wav|私はあんまり似合ってないはず 可愛くなければ何をしてもダメだ
+dataset/Lda003_Am I stupid?.wav|私って頭悪いのかなぁ
+dataset/Lda003_I can't talk to them about my trouble....wav|相談なんてできやしない
+dataset/Lda003_It would be horrible if they felt like that..wav|嫌だ
+dataset/Lda003_Today I went to the library..wav|今日は図書館に行った
+dataset/Lda003_If I tell Kyoko and her friends about my trouble, they will think there's something wrong with me..wav|キョウコちゃん達に話したら、きっと変な顔しちゃうと思う。
+dataset/Cou053_No. That’s not true. I’m connected to this world..wav|そんなことはないよ。だって私はこの世界と繋がっているんだもの。
+dataset/Lda001_She said that keeping a diary is good for me..wav|日記をつけることが私のためにいいって言われたから
+dataset/Lda004_Something is definitely wrong with me..wav|絶対私はおかしい
+dataset/Lda004_I know because I can see it when I’m awake, too..wav|起きている時だって見えるんだから
+dataset/Lda004_Something is very wrong with me..wav|私は絶対、おかしい
+dataset/Lda004_That thing I saw wasn’t a dream..wav|あんなの夢なんかじゃない
+dataset/Lda002_But I felt happy..wav|ちょっと嬉しかった
+dataset/Lda005_I can’t bring myself to start laughing right away..wav|急に明るく笑えないよ
+dataset/Lda004_Touko-san says that I don’t have to worry..wav|とうこさんは心配なんてしなくていいとか言うけど
+dataset/Lda005_I wonder if Tomo-kun was laughing, too..wav|友君も笑っていたのかな
+dataset/Lda005_I’m jealous of Kyoko-chan..wav|京子ちゃんが羨ましい
+dataset/Lda005_I haven’t hurt anybody..wav|なんで私がこんな目に遭うんだろう
+dataset/Lda005_I suppose that if I fuss about these things, I’ll get disliked even more..wav|こんなことまたうじうじしてたらみんなにもっと嫌われるんだよね
+dataset/Lda005_I’m sad and depressed and don’t want to go to school..wav|悔しくて悲しくて学校に行きたくない
+dataset/Lda005_Is it my fault that kids say mean things to me?.wav|悪口を言われてるなんて 暗いなんて言われたって私のせい
+dataset/Lda005_Why is this happening to me?.wav|私は誰も傷つけてないのに
+dataset/Lda005_I’m starting to cry..wav|悔しい 涙が出てきた
+dataset/Lda007_I was embarrassed..wav|恥ずかしかった
+dataset/Lda006_Am I okay being me?.wav|私は私でいいんだよね
+dataset/Lda003_I tried to look into difficult words that Touko used like "psychoanalysis," "counseling," and so on..wav|トウコさんがちょっと話していた精神分析とかカウンセリングとかいろいろ難しい言葉を調べようかなと思ったけど
+dataset/Lda007_Even so, I’m not able to believe that now..wav|たとえそうだとしても、今の私には信じられない。
+dataset/Lda007_When will I be able to understand all of this?.wav|いつか自然に理解できるようになる?
+dataset/Lda008_I won’t ask her after all..wav|やっぱりやめとこう
+dataset/Lda007_Tomo-kun is a boy, so I was a bit uncomfortable with him joining the others..wav|友君も男子だからきっと一緒に騒いでいたと思うと、ちょっと嫌な気持ちになった。
+dataset/Lda008_But maybe she’ll think that it’s strange..wav|でも変態みたいな目で見られたらどうしよう
+dataset/Lda008_I’ll ask Touko-san about it..wav|トウコさんに聞いてみよう
+dataset/Lda007_Kyoko-chan was grinning and talking to me, and the boys were having fun..wav|京子ちゃんとかにやにやして私に話しかけてくるし、男子たちははしゃいでいた。
+dataset/Lda008_That’s right..wav|そうだ
+dataset/Lda009_Dad’s been getting home very early lately..wav|お父さんはこの頃妙に帰りが早い
+dataset/Lda009_He’s been asking a lot about school, and I’m getting a bit tired of that..wav|学校のこととか色々聞かれるから、ちょっとお父さんが嫌いになった。
+dataset/Lda009_This is sad..wav|なんか惨め
+dataset/Lda008_She’s a doctor, so I wonder if she’ll be embarrassed..wav|先生ならお医者さんだし恥ずかしくないかな
+dataset/Lda009_I wonder if she’s being nice because I’m becoming strange..wav|私が変になったから気を使ってくれてるのかな?
+dataset/Lda010_Maybe I’m cured..wav|ひょっとしたら私治ったの?
+dataset/Lda010_These days, I haven’t been seeing them at all..wav|このところ何も見えなくなった
+dataset/Lda010_That would make me so happy..wav|そうならすごく嬉しい
+dataset/Lda011_I don’t want to keep a diary anymore..wav|もう日記なんてつけたくない
+dataset/Lda010_I wonder if Dad and Mom and Touko-san will be happy, too..wav|お父さんもお母さんもトウコさんも喜んでくれるかなぁ
+dataset/Lda011_Why does that me keep drifting into my mind..wav|なんであんな自分が思い浮かぶんだろう
+dataset/Lda012_I want to become normal..wav|普通になりたい
+dataset/Lda007_Today in physical education class, the kids were talking about some sexual stuff..wav|今日保健体育の授業でちょっとエッチな話で話す
+dataset/Lda011_The only special thing that happened today was ‘that.’ I don’t want to see it anymore..wav|今日起こったことなんて 特別なことなんて あれだけだし もう見たくない
+dataset/Lda012_I want to stop seeing these kinds of dreams..wav|こんな夢を見なくなりたい
+dataset/Lda012_Even after all these months, I can’t get used to it..wav|もう何ヶ月も経つけど、きっとまたって思っても きっともうなれない
+dataset/Lda013_He told me to use it to take classes online when I stay home from school..wav|学校を休むときはこれで通信教育を受けなさいだって
+dataset/Lda013_That’s sad..wav|なんか寂しい
+dataset/Lda013_Dad bought me a computer today..wav|今日、お父さんがコンピューターを買ってきてくれた。
+dataset/Lda013_I’ve been doing my homework..wav|レインはちゃんと勉強してるのに
+dataset/Lda014_But maybe that’s just my imagination..wav|私の気のせい?
+dataset/Lda013_I would have to do online classes all alone..wav|通信教育って独りぼっちな気がして
+dataset/Lda014_Could it be that they don’t like me anymore?.wav|私嫌われちゃった?
+dataset/Lda013_I’ve been taking my tests..wav|テストだってちゃんと受けてるのに
+dataset/Lda014_Kyoko-chan seems happier when she isn’t around me..wav|京子ちゃんは私といる時よりも楽しそうだもの
+dataset/Lda014_I don’t like people getting mad at me..wav|怒られるのも嫌
+dataset/Lda015_I have a cold and am taking a day off school..wav|風邪で熱が出て今日も休み
+dataset/Lda014_She goes shopping with Mayu-chan..wav|でも買い物とかもまゆちゃんとかと言ってるみたいだし
+dataset/Lda014_Lately, Kyoko-chan hasn’t been talking to me..wav|この頃、キョウコちゃんもあんまり口をきいてくれない。
+dataset/Lda009_Mom hasn’t been complaining as much lately..wav|お母さんはこの頃あんまり文句を言わなくなった気がする
+dataset/Lda015_I’ve stayed home for 3 days now..wav|もう3日も休んでいる
+dataset/Lda014_I don’t want to go to school anymore..wav|もう学校に行きたくない
+dataset/Lda015_None of them visit me..wav|だから誰も来ないし
+dataset/Lda015_They don’t like me..wav|私嫌われているもの
+dataset/Lda016_I wasn’t disliked..wav|嫌われてないんだ
+dataset/Lda015_The kids at school probably think I’m just cutting school..wav|きっと学校のみんな、またズルしてるって思ってる
+dataset/Lda016_I wonder if that will make them happy..wav|でも喜んでくれるかな?
+dataset/Lda016_They were worried about me..wav|心配してくれてるんだ
+dataset/Lda016_Kyoko-chan and Mayu-chan came to visit me at home..wav|キョウコちゃんやマユちゃんがお見舞いに来てくれた
+dataset/Lda016_I hope I get over this cold soon so I can go to school..wav|早く風邪を治して学校に行きたい
+dataset/Lda016_I’m so glad..wav|よかった
+dataset/Lda014_But I’ll get scolded for that..wav|でも
+dataset/Lda017_I don’t want to go see the doctor again..wav|またお医者さんに行くのやだな
+dataset/Lda016_I’m so happy..wav|うれしい
+dataset/Lda017_I want to go to school but can’t..wav|学校に行きたいのに行けない
+dataset/Lda016_I want to take Kyoko-chan and Mayu-chan out for a treat because they took notes for me at school..wav|ノートのお礼に、キョウコちゃんとマイちゃんをケーキ食べに誘いたい。
+dataset/Lda017_The human body is so inconvenient..wav|不便な体?
+dataset/Lda018_I sort of have her all to myself..wav|なんだかお母さんを独り占めしている気分
+dataset/Lda018_I’m sorry to have worried you..wav|心配させてごめんなさい
+dataset/Lda018_Thank you, Mom..wav|ありがとう、母さん。
+dataset/Lda017_Is this just a cold?.wav|本当にただの風なのかな
+dataset/Lda018_I was especially happy today when Mom got me some snacks that I asked for..wav|おやつもリクエストしたりして、今日は特別優しかった。
+dataset/Lda018_Mom has been looking after me all day..wav|お母さんが月切りで看病してくれて嬉しい
+dataset/Lda017_It’s been a whole week..wav|もう一週間になるのに
+dataset/Lda019_Does Tomo-kun really like me?.wav|トモ君は私のこと気にしてくれたのかな?
+dataset/Lda019_I couldn’t talk to him at all..wav|それで全然話せなかったんだ
+dataset/Lda019_I couldn’t even say "good-bye." I hate this..wav|私、ちゃんとお別れの挨拶もできなかった 私って嫌
+dataset/Lda019_I doubt it..wav|でもきっと違う
+dataset/Lda019_I was surprised at first to hear that Tomo-kun and my sensei came to visit me at home..wav|はじめは、ともくんと先生がお見舞いに来たって聞いてびっくりした。
+dataset/Lda017_I’ve been taking my medicine..wav|ちゃんと薬も飲んでじっとしているのに
+dataset/Lda019_I didn’t even see them..wav|ちっとも顔も見られなかった
+dataset/Lda019_I’m a little glad and a little sad and want to cry..wav|でも最後に握手できてちょっと嬉しくって悲しくって 涙こぼれそうになって
+dataset/Lda019_Sensei probably told him to come..wav|先生に言われて仕方なく来たんだ。
+dataset/Lda017_I’m sweating and I’ll have to change clothes again..wav|熱が出て汗だく また着替えなきゃ
+dataset/Lda019_Why?.wav|なんで?
+dataset/Lda019_Tomo-kun is moving to another school..wav|友くんが転校しちゃう
+dataset/Lda019_I was so embarrassed because I was still in my pajamas..wav|パジャマですごく恥ずかしくって
+dataset/Lda017_My cold hasn’t gotten better..wav|風が治らない
+dataset/Lda019_It might have been the last time I see Tomo-kun..wav|最後になるかもしれないのに
+dataset/Lda020_He’s such a good Dad..wav|本当に優しいお父さん
+dataset/Lda020_I think he might have been a bit rude to watch videos during breakfast, though..wav|でも食事中にビデオを回すのはマナーが悪いと思う。
+dataset/Lda020_I wonder what that is about..wav|いいのと同じかな?
+dataset/Lda020_I cooked and did the laundry for Mom as a thanks for her taking care of me while I was sick..wav|看病してくれたお礼でお母さんの代わりに私がご飯と洗濯
+dataset/Lda020_Mom’s brassiere is big, too..wav|お母さんのブラジャーが大きい
+dataset/Lda020_My food wasn’t so good, though..wav|ご飯はちょっと失敗しちゃったけど
+dataset/Lda020_I wonder why Dad’s shorts are so large..wav|それにしてもお父さんのパンツってなんであんなに大きいんだろう
+dataset/Lda020_They’re the size of my shirt..wav|私のシャツと同じ大きさ
+dataset/Lda020_I wonder if I did the laundry okay. Dad ate my fried eggs even though I burnt hem..wav|洗濯はちゃんとできたかな? お父さんが焦げた卵焼きを無理して食べてくれて、
+dataset/Lda021_I want to ask someone, but I’m embarrassed..wav|誰かに聞いてみたいけど、やっぱり恥ずかしい。
+dataset/Lda020_Today is a Sunday..wav|今日は日曜日
+dataset/Lda021_I wonder why..wav|何のため?
+dataset/Lda022_I shouldn’t have worried..wav|心配して損した
+dataset/Lda022_I’m back to school after a long time..wav|久しぶりの学校
+dataset/Lda021_I’ve heard that men like woman who have large breasts..wav|男の人って胸が大きい人が好きなんだって聞いたことあるけど
+dataset/Lda022_I’m glad that things are still the same..wav|でも普通でよかった
+dataset/Lda022_I thanked Kyoko-chan for letting me read her notes..wav|ノートを貸してくれたお礼を 京子ちゃんに言った。
+dataset/Lda023_Her sketches of Kamiya Sensei resemble the teacher so much that I started to laugh..wav|神谷先生の似顔絵がそっくりで笑っちゃった
+dataset/Lda022_Kyoko-chan’s notes were full of goofy doodles, which was kind of fun..wav|でも、京子ちゃんのノートっていたずら書きがいっぱいで、ちょっと楽しい。
+dataset/Lda024_I used to watch him, more than he watched me..wav|今までは私が見てるだけだったんだもの
+dataset/Lda023_Mom seems to be a different person from a week ago..wav|先週とはまるで別人
+dataset/Lda023_When I showed the sketches to Mom, she told me to stop goofing off and to do the homework I have to catch up on..wav|お母さんに見せたら、バカなことしてないでちゃんと遅れた分勉強しなさい、だって。
+dataset/Lda022_I wonder if anyone was worried because I was gone..wav|意外と誰も気にしてないのかな?
+dataset/Lda023_Compared to my notes, Kyoko-chan’s look like a box full of toys..wav|私のノートと比べるとまるでおもちゃ箱みたい
+dataset/Lda024_He just wrote to say that he’s doing well..wav|元気ですって一言しか書いてなかったけど
+dataset/Lda024_I’ll have to get some stationery supplies to write him..wav|新しい便箋、明日買ってこよ
+dataset/Lda024_I’ll have to write him back..wav|返事を書かなくっちゃ
+dataset/Lda024_Tomo-kun wrote me a letter..wav|友くんから手紙が来た
+dataset/Lda024_I’m so happy to have a letter from him!.wav|友くんから手紙が来るだけでこんなに嬉しいなんて
+dataset/Lda024_I’m so happy..wav|嬉しい
+dataset/Lda026_It’s been a long time since we’ve gone to fool around in the city together..wav|二人で街に行くのも久しぶり
+dataset/Lda024_I’m glad that I’m at least receiving letters, even though I can’t see the person who is writing me..wav|手紙が増えただけで私は嬉しい。 随分遠くに行っちゃって顔も見られないけど。
+dataset/Lda026_Going out right after school is a no-no, but everybody else does it..wav|峠港の買い物は本当はダメなんだけど、みんなやってることだし。
+dataset/Lda025_But... Tomo-kun had to have written everyone in class. He couldn’t have written only me..wav|でも、トモ君はきっとクラスのみんなに書いたんだよね。 私だけ特別なんて、そんなことあるわけがない。
+dataset/Lda027_Dear God, please let me and Kyoko-chan be friends again..wav|神様 どうか京子ちゃんと仲直りできますように
+dataset/Lda026_I’d better buy Mom and Dad something while I’m out..wav|お土産でお父さんとお母さんの分も買ってこなくちゃね
+dataset/Lda027_Kyoko-chan doesn’t like me anymore?.wav|キョウコちゃんに嫌われちゃった?
+dataset/Lda027_I get a little bit happy when I think that I might be special..wav|私だけが特別だったら、なんて考えるとほんの少し嬉しい。
+dataset/Lda027_Thank you, Tomo-kun..wav|ともくん、ありがとう。
+dataset/Lda026_Oh, I’ll have to ask Mom for some money..wav|そうだ、お母さんにお小遣いもらわなくちゃ
+dataset/Lda027_Kyoko-chan must be angry..wav|多分、京子ちゃん怒ってた
+dataset/Lda027_What should I do?.wav|どうしたらいいんだろう
+dataset/Lda027_I got careless and forgot to buy the stationery I needed to write Tomo-kun..wav|私、慌てちゃって瓶銭買うの忘れちゃった
+dataset/Lda027_Was I the only girl that received a letter full of doodles from Tomo-kun?.wav|友君からの葉書き来てない? 女子でもらったのって私だけ?
+dataset/Lda027_Why!.wav|そんな…
+dataset/Lda028_It’s too late..wav|ダメ
+dataset/Lda028_Even when I apologized, she said, "why do I have to apologize to you?" She doesn’t like me..wav|謝っても、なんであんたに謝られなきゃいけないの?って言ってたし。 もう、私のこと嫌いになったんだ。
+dataset/Lda028_I thought that she would go to the laboratory class with me, but she went off with Mayu-chan..wav|実験室に行く時一緒に行こうと思ったら まゆちゃん達と出て行っちゃった
+dataset/Lda028_She doesn’t like me..wav|もう嫌われちゃった
+dataset/Lda028_She really doesn’t like me..wav|本当に嫌われちゃった
+dataset/Lda028_It wouldn’t have been like this if I had kept my mouth closed..wav|あんなこと言わないでいれば、こんなことにはなんなかったのに。
+dataset/Lda030_Touko-san is a big jerk..wav|トウコさんのバカ
+dataset/Lda029_I have nothing to write in my diary today..wav|今日も日記につけるようなことはない
+dataset/Lda026_Why can’t I, every great now-and-then?.wav|私がたまにしても
+dataset/Lda031_I don’t need a diary..wav|私には日記なんか必要ない
+dataset/Lda031_I don’t have anything to write..wav|書くようなことなんてないんだから
+dataset/Lda026_Tomorrow, I’ll buy Kyoko-chan a slice of cake to thank her for taking notes for me while I was away from school..wav|明日は京子ちゃんにノートのお礼にケーキを 学校の帰りにごちそう
+dataset/Lda031_Nothing will return to the way it used to be..wav|絶対元に戻らないよ
+dataset/Lda031_I just go to school everyday as usual..wav|休み時間も給食も一人だし
+dataset/Lda031_Nothing has changed..wav|毎日同じように学校に行ってるだけだもん
+dataset/Lda031_I’m disliked..wav|だって、もう嫌われちゃったんだもん
+dataset/Lda031_I’m alone during recess and lunchtime, and no one talks to me..wav|誰も話しかけてくれないし
+dataset/Lda032_As usual, Kyoko-chan won’t say anything to me..wav|キョウコちゃんは相変わらず口を聞いてくれない?
+dataset/Lda031_Touko-san said to keep writing in my diary..wav|日記も書き続けなさいなんて
+dataset/Lda032_How mean..wav|ひどい
+dataset/Lda032_I didn’t do that..wav|私、そんなことしてない。
+dataset/Lda032_I felt like everyone was mocking me..wav|みんな二手に出してた気がする
+dataset/Lda032_I’ve never gone out with Tomo-kun..wav|友君と付き合ったことなんてないのに
+dataset/Lda028_Kyoko-chan must be angry..wav|キョウコちゃんがやっぱり怒っている
+dataset/Lda032_I don’t want to go to school anymore..wav|もう学校なんか行きたくない
+dataset/Lda033_I want to disappear..wav|私なんか消えちゃえ
+dataset/Lda033_Am I a bad kid?.wav|私は悪い子?
+dataset/Lda032_Writing graffiti on my desk..wav|机に落書きなんて…
+dataset/Lda033_Kamiya sensei came to my house and talked with my Mom..wav|神谷先生が家に来て、お母さんと話していた。
+dataset/Lda033_Mom and Dad were talking about it after dinner..wav|お父さんとお母さんが夕ご飯の後で話していた
+dataset/Lda033_Mom was crying and Dad looked very distressed..wav|お母さんは泣いてしまって、お父さんは困っていた。
+dataset/Lda034_I wonder if I can go to the school Tomo-kun goes to..wav|桃君のいる学校に転校できないかな?
+dataset/Lda033_Mom looked frustrated..wav|母さんは困った顔をしていた。
+dataset/Lda034_He’s a kind Dad..wav|優しいお父さん
+dataset/Lda034_I wonder if I’ll make friends if I went to a different school..wav|転校したらまた友達できるかな?
+dataset/Lda033_Kamiya sensei said that if I skip class any more, I wouldn’t be able to graduate..wav|これ以上欠席すると卒業できないんだって
+dataset/Lda034_Today Dad skipped work and talked with me all day..wav|今日お父さんが会社を休んで一日中私とお話ししてくれた
+dataset/Lda034_I wonder if school will be fun somewhere else..wav|学校楽しくなるかな
+dataset/Lda035_If I go to junior high school, I won’t cause trouble anymore..wav|中学に行ったら、もう迷惑かけないようにするからね。
+dataset/Lda035_I’m sorry, Mom..wav|ごめんなさい、お母さん
+dataset/Lda035_It seems that I can go to junior high school..wav|中学には行けるらしい
+dataset/Lda035_My teacher visited our house again today..wav|また先生が来た
+dataset/Lda035_Mom bowed to the teacher many times..wav|母さんは先生に何度もお授業していた。
+dataset/Lda036_Is he letting me graduate because he doesn’t want to see me?.wav|面倒だから卒業させて
+dataset/Lda036_To get rid of me?.wav|追い払いたいんだ
+dataset/Lda038_But when I go to junior high, I’ll make real friends..wav|でも中学に行ったら本当の友達を作るの
+dataset/Lda036_I’m never going to that school again..wav|でも、もう二度と行かないから
+dataset/Lda038_I named it Lain..wav|でんて
+dataset/Lda038_My only friend..wav|たった一人の友達
+dataset/Lda031_I can’t believe what Touko-san said..wav|トウコさんが言ってた話なんて信じられない
+dataset/Lda038_I named a special gift Dad got for me today..wav|お父さんに買ってもらったナビに名前をつけた
+dataset/Lda037_Is there a meaning to why I’m here? Does someone need me?.wav|私ってここにいる意味あるの? 誰か私を必要としてくれてる?
+dataset/Lda036_When I went to school today, Kamiya-sensei said that I would graduate, and that I don’t have to force myself to come to school..wav|今日学校に行ったら神谷先生から卒業が決まったから無理して学校に来なくてもいいって言われた
+dataset/Lda039_Dad was reading lots of books about computers while we did it..wav|二人で5時間くらいかかって繋がった時に
+dataset/Lda038_If I appear at ease and lighthearted, won’t other kids like me?.wav|はじめが感じ? 明るくすれば 嫌われないかな?
+dataset/Lda039_He went through a lot of elaborate steps to set up my computer..wav|色々難しい設定をやってくれて繋がるようになった
+dataset/Lda039_I talked to Dad about computer connections..wav|パソコン通信の話をお父さんにしたら
+dataset/Lda036_Does he not want me to be at school?.wav|私が来るといいや
+dataset/Lda039_It seems like since I stopped going to school, Mom and Dad haven’t been as happy as they used to be..wav|私が学校に行かなくなったりして、それからお父さんもお母さんも楽しくなくなっちゃったんだよね。
+dataset/Lda039_Once we were done, Dad called Mom, and the three of us were delighted..wav|お父さんたらお母さんまで呼んで大喜び
+dataset/Lda039_We worked hard for about 5 hours setting it up..wav|お父さんもいろんな本を読みながら
+dataset/Lda039_I don’t think we felt so good together as a family in a long time..wav|家族3人でこんなに喜んだことってしばらくなかったんだって気づいた。
+dataset/Lda040_Computer networks are amazing..wav|ネットワークって不思議
+dataset/Lda039_I’m sorry..wav|ごめんなさい
+dataset/Lda040_I feel like I’m becoming a different me..wav|なんだか違う自分になれそう
+dataset/Lda041_But for me, having my eyesight deteriorate would be a good thing..wav|でも目なんて悪くなっても私にはいいことだもの
+dataset/Lda040_No one can see my face from there, and I don’t feel embarrassed..wav|ここなら顔も見せなくできるし恥ずかしくない
+dataset/Lda041_I surfed the net all day again today..wav|今日も一日中ネットで遊んだ
+dataset/Lda040_I’m so happy that people could be so kind to me..wav|私がこんなに親切にしてもらえるなんて 嬉しくて仕方がない
+dataset/Lda041_I’m surprised at what an easy-going person I can be on the net..wav|ネットの自分は驚くほど素直になれる
+dataset/Lda041_If something interesting happens, I get e-mails telling me about it right away..wav|面白いことがあるとすぐメールで教えてくれるし
+dataset/Lda041_Everybody is friendly..wav|みんな仲良し
+dataset/Lda041_My eyes hurt after I stare at the monitor all day long..wav|一日中モニターを見ていると目が痛い
+dataset/Lda040_There are so many people online, and they’re kind to me even though I’m just someone with a lot of problems..wav|いろんな人がいて、私なんかトラブルだらけで困っていると、親切な人がいっぱいいて。
+dataset/Lda041_No one can bully me here..wav|ここなら誰にもいじめられない
+dataset/Lda041_My name on the net is "Lain," but it seems that they can’t tell from that that I’m a girl..wav|私のハンドルはレイ。そのままだけど女の子ってわからないみたい。
+dataset/Lda042_If you have some skills, you will not have troubles in the future..wav|手に触があればきっと困らないもの
+dataset/Lda042_I have time now anyway, so I think I’ll study..wav|どうせ今の私には時間もあるから ちょっと勉強しようかな
+dataset/Lda042_Mom and Dad won’t be there to protect me forever..wav|いつまでもお父さんやお母さんに守ってもらえないんだ
+dataset/Lda042_I can study when I’m online, but if I’m online all the time, I might not be able to receive phone calls..wav|オンラインで勉強してもいいけど、ずっと繋ぎっぱなしだと、もしかして誰かが電話くれても、電話が繋がらないかもしれないし。
+dataset/Lda042_Programs seemed difficult at first, but some of them got easier after I studied them..wav|プログラムなんて聞いたら、なんか難しそうだったけど、調べてみたら簡単そうなのもあるし。
+dataset/Lda044_I guess they know who I am now and don’t like me..wav|私の居場所が怪我されたようで
+dataset/Lda044_I don’t like games like that..wav|私はこんなの好きじゃない
+dataset/Lda044_But if I start making lots of money, the other players will have a grudge against me..wav|でもあんまり調子に乗ってお金を貯めると恨まれる
+dataset/Lda043_Maybe Kyoko-chan is worried about me. Well...probably not..wav|もしかして、キョウコちゃん心配してくれてるかも そんなことないか
+dataset/Lda042_I’ll borrow a book from the library tomorrow..wav|明日図書館に行って本を借りてこよう
+dataset/Lda044_I started a game on the net..wav|ネットでゲームを拾ってきた
+dataset/Lda044_It isn’t for me..wav|私には似合わないの?
+dataset/Lda044_At first I thought this was just a game, but it made me feel bad after a while, and I wanted to cry..wav|はじめはゲームだなんと思っていたけど、そのうち怖いっていうより気分が悪くなって泣きたくなった。
+dataset/Lda044_I’m sad..wav|なんだか寂しい
+dataset/Lda044_I’d rather play a game that everyone can laugh with and enjoy together..wav|みんなが幸せに笑えて楽しめるものがいい
+dataset/Lda045_I won’t worry Mom anymore..wav|もうお母さんを悩ませたりしない
+dataset/Lda045_I promise..wav|約束する
+dataset/Lda044_It’s called the "Mouse Game". You sell tickets to your friends and make money..wav|友達ネズミ子ゲームって言って友達にチケットを売ってお金を貯めていくゲーム
+dataset/Lda045_It was a graduation ceremony, but I didn't want to go..wav|卒業式だったけど、やっぱり行きたくなかった。
+dataset/Lda044_There will be people who want to kill me then, so I have to be careful..wav|それで私を殺そうとする人が出てくるから、その人を恨む人を煽動するの。
+dataset/Lda045_Once I’m in junior high, I’ll go for sure..wav|中学に入ったらちゃんと行く。絶対に。
+dataset/Lda045_You took my clothes to the dry cleaners, didn’t you, Mom?.wav|私の服、クリーニングに出してくれたんだね。 ありがとう、母さん。
+dataset/Lda047_I think I’ll ask Dad about some of this stuff..wav|お父さんに今度聞いてみようかな
+dataset/Lda047_I haven’t been going to school, though..wav|って言っても私はこれまでもお休みだったけど
+dataset/Lda044_There was a questionnaire that came with the game asking me what I thought of it, so I wrote the company telling them what I honestly thought..wav|ゲームの感想を送ってくれってアドレスが書いてあったから正直に感想をメールした
+dataset/Lda047_Spring break starts today..wav|今日から春休み
+dataset/Lda045_I’m sorry..wav|ごめんなさい
+dataset/Lda047_I wonder if Dad will give me a weird look like the guy in the library..wav|でもお父さんもあのお兄さんみたいに変な目で見るのかな?
+dataset/Lda047_I understand English better now, and I understand things better in general, but there are still many things I don’t understand..wav|英語がちょっとできるようになって、だいぶわかりやすくなったけど、 まだまだわからないことはいっぱい。
+dataset/Lda048_I couldn’t find the address the file came from..wav|送り主はわからないようになってたけど
+dataset/Lda046_What does everyone think about me? Does anyone think anything about me?.wav|みんな、私のことどう思ってるの? 誰も何も思ってない?
+dataset/Lda048_I ought to study the net now while I still have time..wav|今のうちにいっぱい勉強しよう
+dataset/Lda048_I can’t leave here, though..wav|でも私はここから離れられない
+dataset/Lda047_When I was at the library reading a book about UNIX, a guy next to me who looked about the age of a college student gave me a really weird look..wav|図書館に入り浸ってユニックスの本を読んでいたら、 隣にいた大学生ぐらいのお兄さんに変な目で見られた。
+dataset/Lda048_I wonder if it’s from the person that started that tasteless online game..wav|あの悪趣味なゲームの作者なのかな
+dataset/Lda048_I’m getting scared to open my mail now..wav|なんだか迷路を開くのが怖い
+dataset/Lda048_When I decoded a file that came today by e-mail, I saw the image of a dead infant..wav|今日メールと一緒に送られてきたファイルをデコードしたら赤ん坊の死体だった
+dataset/Lda048_When I start junior high, and I’ll have friends and I’ll be busy, and I might not have time to come to the net..wav|中学に行ったら色々忙しくなるし 友達と遊んだりでネットに来なくなるかもしれないから
+dataset/Lda049_Dad looked worried, and he hugged me..wav|お父さんは心配そうな顔をして私のことを抱きしめてくれた。
+dataset/Lda049_He said he’d be away for 2 months..wav|2ヶ月ぐらいって言ってたけど
+dataset/Lda049_I started to cry all of a sudden, and I lost my appetite..wav|突然涙が出てきちゃって ご飯が食べられなくなった
+dataset/Lda049_I was sad during dinner today..wav|今日の夕食は寂しかった
+dataset/Lda050_Dad’s work seems to be really difficult..wav|お父さんの仕事って大変そう
+dataset/Lda049_It was so sudden I was surprised and speechless..wav|いきなり言われたからびっくりしちゃって何も言えなかった
+dataset/Lda049_We’ll go to see him off at the airport tomorrow..wav|明日お母さんと一緒に空港までお見送り
+dataset/Lda050_I want to be like Dad and live with self-confidence..wav|お父さんみたいに自信を持って生きていける人になりたい
+dataset/Lda050_I want to work when I grow up..wav|私も大人になったら仕事ができる人になりたい
+dataset/Lda049_Dad said that he has to go overseas because of work..wav|お父さんが長期の出張で外国に出かけるんだって
+dataset/Lda047_There’s nothing painful about it, and it’s more fun than grammar or math..wav|全然苦にならないし、むしろ今は国語とか算数よりも面白い。
+dataset/Lda051_Mom seemed really sad..wav|お母さんも寂しそうだった
+dataset/Lda051_On the way home, Mom took me to a restaurant..wav|帰りにお母さんがレストランに連れて行ってくれた。
+dataset/Lda051_It was a nice dinner, but it was sad knowing that it will just be me and Mom at the dinner table for a long time..wav|賑やかで美味しかったけど、明日からはお母さんと二人だけの夕ご飯なんだって思ったら
+dataset/Lda051_God, please let Dad come home safely..wav|神様、お父さんが無事に帰ってきますように。
+dataset/Lda047_Studying computers is tough because there are many technical terms and difficult kanji, but I enjoy this..wav|難しい漢字や専門用語が多くて大変だけど、私はこういうのが好きなのかもしれない。
+dataset/Lda051_We waved good-bye to each other for a long time as he took the escalator to the gate..wav|エスカレーターで何度も振り返って手を振ってくれた。
+dataset/Lda051_We’ll saw Dad off today..wav|今日はお父さんのお見送り
+dataset/Lda051_I’m sure Mom feels sad, too..wav|ちょっと寂しい。きっとお母さんも寂しくなるのが嫌だったのかな。
+dataset/Lda048_At least not until I enter junior high and start an ordinary life..wav|少なくとも中学に行って普通の生活になるまでは
+dataset/Lda053_"Strange" is what I am?.wav|おかしいのが私?
+dataset/Lda053_I can retaliate a little..wav|ちょっとぐらい悪いことしてもいいよね
+dataset/Lda053_After all, there’s something wrong with me..wav|だって、私はおかしいんだもの
+dataset/Lda053_What can I do if people say that there is something wrong with my character?.wav|私は正確に問題があるって言われても仕方がない
+dataset/Lda053_Whoever sent that e-mail is at fault, anyway..wav|悪いのは向こうなんだから
+dataset/Lda054_By following instructions I learned yesterday, I was able to access the host site..wav|昨日座った通りにホストに入った
+dataset/Lda052_Mom, do you feel uneasy with me? I know I’m odd. It’s okay. I won’t bother you..wav|お母さんレイントじゃ不安 私おかしいし でも大丈夫よ お母さんに迷惑はかけないから
+dataset/Lda053_When I talked about the email to my net buddies, a person named Rabbit taught me how I can trace it. I might be able to do it if the host's logs aren't gone yet..wav|ネットの仲間にあのメールのことを話したら、 ウサギさんって人がトレースの仕方を教えてくれた。
+dataset/Lda053_I’m not such a good person anyway..wav|私はどうせ悪い子なんだし
+dataset/Lda054_I can’t forgive someone who does something like that..wav|ああいうことをする人は絶対許さない
+dataset/Lda054_It was easy..wav|意外と簡単だった
+dataset/Lda054_I found some ‘footprints’ when I did some downloading..wav|ログをダウンロードして調べたら足跡が残っていた。
+dataset/Lda054_I’m not going to cry myself to sleep anymore..wav|私はもう泣き寝入りなんかしない
+dataset/Lda054_I’m going to mail him to set a trap for him..wav|もう一度あの人にメールをして、罠を仕掛けることにした。
+dataset/Lda054_I’m figuring out how to trace down that sick person..wav|いくつかサイトを経由して、どこかのBBSから送ってきたらしい。
+dataset/Lda054_Maybe I’m a genius at this kind of thing..wav|私ってこういうことの天才なのかも
+dataset/Lda056_I decoded it, set a trap, and encoded it..wav|リコードして完成させてからエンコードした
+dataset/Lda055_I’ll solve it with my own strength. My own strength. I should be able to do that now..wav|自分の力で解決する。 自分の力で。 今の私はそれができるはず。
+dataset/Lda056_That was it after all!.wav|やっぱりそうだった
+dataset/Lda056_This way, that person will never do this again..wav|これであの人は二度とこんなことをしなくなる
+dataset/Lda056_Within 2 hours of mailing that guy, I got a response..wav|メール送ってから2時間もしないうちにバイナリメールが来た。
+dataset/Lda056_I was curious what it was, but I was sure it would be gross, so I didn’t..wav|ちょっと見てもいいかなって思ったけど 絶対変な写真だから
+dataset/Lda057_I took the information on his host site and spread it publicly on a "mirror-site." I didn’t look at any of the pictures because they’d all be gross..wav|彼のホストの情報をミラーサイトに公開した 画像関係の拡張紙はどうせ変な写真だから見なかったけど
+dataset/Lda057_I’m starting to worry if I trapped the right person..wav|でも本当に彼が犯人だったのか不安になってきた
+dataset/Lda057_The text of his site was gross, too..wav|テキストも気持ち悪かった
+dataset/Lda057_Is there something wrong with me?.wav|私って変? こんなに気持ちがいいことなんて…
+dataset/Lda058_And if it’s him, he would certainly have that information..wav|絶対に撮っている
+dataset/Lda053_I’m strange, aren’t I, Mr. Rabbit?.wav|ねぇ、おかしいよね、うさぎさん
+dataset/Lda058_I can’t win this by myself..wav|私だけじゃ勝てない
+dataset/Lda057_It feels good to be able to do things others can’t do..wav|他人ができないことをできるのは気持ちがいい
+dataset/Lda057_What if I got the wrong person’s data or identification...I don’t want to ever do this again..wav|全然違う人のIDで、しかも別の持ち主のデータだったら、もう二度とこんなことをするのはやめよう。
+dataset/Lda058_But what if whoever took my diary has the diary’s back-up information, too?.wav|でも相手が私の日記のバックアップをとっていたら?
+dataset/Lda058_I stopped it, but over 20 people have already read it..wav|削除したけど、もう20人ぐらいの人が読んでいた。
+dataset/Lda053_It’s not something I’m supposed to do, but I feel like a detective, and it’s a bit fun..wav|ホストのログがまだ消えてなければ追跡できるかもしれないんだって 本当はいけないことなんだけど なんだか探偵みたいでドキドキする
+dataset/Lda058_I wonder what will help..wav|でもなんとかなるかな
+dataset/Lda058_I think I’ll avoid the net for a while..wav|しばらくネットにつながらないようにして
+dataset/Lda058_I want to see what’s going on, but my diary might be on someone’s site, being reproduced right now..wav|様子を見たいけど、こうしている間にもどこかのサイトにコピーされている。
+dataset/Lda058_I’m so mad..wav|悔しい
+dataset/Lda058_I’m going to send an information-deleting engine into the net..wav|検索エンジンと削除するロボットを 今日中に作ってネットに流そう
+dataset/Lda058_It’s horrible, but I can’t do anything about it..wav|ひどい。でも、仕方ない。
+dataset/Lda058_I’m sure the person who took my diary is that gross guy..wav|きっとあんな変な人だから
+dataset/Lda058_So this is what I amount to..wav|やっぱり私の力ってこんなもの
+dataset/Lda058_It’s been copied and displayed on an FTP site with a vulgar title..wav|コピーされてFTPサイトにいやらしいタイトルを付けられて公開されていた
+dataset/Lda058_Other people can do what I can do..wav|そうだよね。私ができることぐらい、向こうもできるもんね。
+dataset/Lda058_Someone’s been reading my diary..wav|私の日記が読まれている
+dataset/Lda058_Why did this all happen?.wav|なんでこんなことになっちゃったんだろう
+dataset/Lda059_But what am I?.wav|でも、そういう私は?
+dataset/Lda058_I know..wav|かもしれない
+dataset/Lda060_Did that strange person know Mr. Rabbit?.wav|あの変な人がうさぎさんの知り合いだって
+dataset/Lda060_I want revenge..wav|絶対復習したい
+dataset/Lda060_I’m not going to cry myself to sleep..wav|泣き寝入りなんてしたくない
+dataset/Lda060_He said, "Leave it to me, and forget about it." Oh, I’m mad..wav|僕に任せて一切忘れてくれ だって悔しい
+dataset/Lda060_The things I don’t like..wav|嫌なこと
+dataset/Lda060_The me I don’t like..wav|嫌な私
+dataset/Lda060_Can I do something magical like that?.wav|そんな魔法みたいなことできるの?
+dataset/Lda061_I don’t care if I’m sick or not..wav|病気でも病気じゃなくても構わない
+dataset/Lda060_I don’t understand anymore..wav|よくわかんなくなっちゃった
+dataset/Lda061_I saw it again for the first time in a long while..wav|久しぶりにまたあれが見えた
+dataset/Lda061_Is there something wrong with my mind?.wav|それとも私の頭はどこかおかしいの
+dataset/Lda061_I’m going to be different this time for sure..wav|今度こそ私は変わる
+dataset/Lda061_I’m going to be an ordinary, light-hearted junior high school student..wav|楽しくて普通の中学生で部活なんてしちゃったり
+dataset/Lda061_Mom and Dad were talking on the phone..wav|お母さんがお父さんと電話で話していた。
+dataset/Lda061_Is it an illusion?.wav|自己幻想死
+dataset/Lda059_Are the people who enjoy doing horrible things and hurting people really human beings like me?.wav|ひどいことや気持ちの悪くなることを楽しむ人って 本当に私と同じ人間なのかな?
+dataset/Lda061_School will start soon..wav|入学式が近づいてきた
+dataset/Lda061_That’s okay. You can both relax and not worry..wav|大丈夫だよ。安心してね、二人とも。
+dataset/Lda058_I think I’ll consult Mr. Rabbit..wav|うさぎさんに相談しようかな
+dataset/Lda062_Could it be pyorrhea?.wav|思想能力かな
+dataset/Lda061_Were they worried about me?.wav|私のことが心配?
+dataset/Lda060_I want to forget everything I want to forget..wav|忘れたいことを全部忘れたい
+dataset/Lda062_I can taste my blood..wav|血の味が口に広がる
+dataset/Lda062_I started bleeding when I was brushing my teeth..wav|歯磨きしてたら血が出てきた
+dataset/Lda062_I think I won’t stop bleeding and that I won’t be able to fall asleep..wav|血が止まらなくて、なかなか寝れそうもない。
+dataset/Lda062_Is it because I’m uneasy about starting junior high school tomorrow?.wav|それと明日の入学式が不安だから ちょっと嫌な感じ
+dataset/Lda062_It’s a bit bitter and I don’t like it..wav|ちょっぴり苦くて嫌な味
+dataset/Lda063_I’m different. I’m a different me..wav|私は違うの もう違う私なの
+dataset/Lda064_I was assigned to a seat..wav|出席番号12席が決められちゃったけど
+dataset/Lda062_My teeth were always so healthy..wav|昔から歯は丈夫だったのに
+dataset/Lda061_I hope I don’t have many of the same classmates I had in elementary school..wav|あんまり同じクラスの子がいませんように
+dataset/Lda064_It’s great to meet you, Misato-chan!.wav|ミサトちゃんこれからよろしくね
+dataset/Lda064_I was relieved..wav|ほっとした
+dataset/Lda064_None of the kids from grade school were in my class..wav|クラスにも小学校で同じクラスの子もいなくても
+dataset/Lda064_Mom came to the ceremony for the start of the school year..wav|入学式にお母さんが来てくれて嬉しかった
+dataset/Lda064_There’s a different feel here compared to grade school..wav|クラスのほとんどはなんか違う
+dataset/Lda064_She’s quiet, but that’s the kind of person that’s easy for me to be around..wav|もの静かな人だったけど、私にはそういう人が付き合いやすい。
+dataset/Lda038_She’s another me..wav|もう一人の自分
+dataset/Lda065_I feel like everything will go great now..wav|なんだかこれで何もかもうまくいく気がする
+dataset/Lda064_The teacher in charge was a nice person, and I made some friends..wav|他人の先生も優しそうな先生だし、友達もできた。
+dataset/Lda065_As long as I have one friend, I’m okay. Dad, I hope you come home soon!.wav|私には一人友達がいれば大丈夫 あ、お父さん早く帰ってこないかな?
+dataset/Lda066_I didn’t tell her that I’m into computers, though..wav|私は言わなかった
+dataset/Lda066_I wanted to keep things having to do with me and the net a secret..wav|なんだかネットのことは秘密にしておきたかったの
+dataset/Lda066_I think I’m more into liberal arts..wav|私は運動はやっぱりダメだから文化系かな
+dataset/Lda066_Misato-chan has been playing the violin since she was very young..wav|ミサトちゃんはバイオリンを子供の頃からやってて
+dataset/Lda066_She’s good at physical education, though I’m not..wav|みさとちゃんは運動が得意みたいだけど
+dataset/Lda066_She’s good with computers, too..wav|パソコンもやってるみたいだったけど
+dataset/Lda066_On the net, I can be the sort of me that isn’t so careful..wav|だってネットでは気を使わない自分でいたいから やっぱり部活はバラバラになりそうかな?
+dataset/Lda066_Today I did a lot of things with Misato-chan..wav|今日はみさとちゃんと色々な部活を見学した
+dataset/Lda067_I talked about Misato-chan through the whole session..wav|ミサトちゃんのことばっかり話し合った
+dataset/Lda066_She’s even been in competitions..wav|コンクールとかも出ていたらしい
+dataset/Lda067_I think she’s good at physical education..wav|運動とか得意そうだもんね
+dataset/Lda067_I told Touko-san all about it..wav|トウコさんのところに行って報告してきた
+dataset/Lda067_I wonder what Touko-san did for her extracurricular activities..wav|そういえばトウコさんは部活何やってたんだろう
+dataset/Lda064_I can’t hang out with most of the kids, but I think I’ll get along with just one of the girls sitting next to me..wav|やっぱり付き合えない。 でも一人だけ。隣の人とは気が合いそう。
+dataset/Lda068_I thought I would join an art class..wav|部活はやっぱり美術部にしようかな
+dataset/Lda067_Maybe things are different there..wav|日本とは違うかもしれないな
+dataset/Lda068_I’ve always enjoyed drawing..wav|絵は昔から好きだったから、何とかやっていけるかな。
+dataset/Lda068_Misato-chan said that she wanted to be in same extracurricular class with me..wav|ミサトちゃんが私と一緒の部活にしようって言ってた
+dataset/Lda069_Am I greedy?.wav|なんかずるい考え方だよね
+dataset/Lda068_The people in the joint research group were very nice, but I wasn't sure if I wanted to join..wav|郷土研究会の人たちが優しそうだったけど、ちょっとなんだかだし。
+dataset/Lda069_I wish I had more friends..wav|もう一人ぐらい友達がいたらなぁ
+dataset/Lda066_She’s amazing..wav|すごい
+dataset/Lda069_I wonder if Misato-chan is okay when she is alone..wav|ミサトちゃんは一人でも大丈夫なのかな?
+dataset/Lda069_I wonder if I’m being selfish..wav|私って浮気症?
+dataset/Lda069_If I tried something like that, though, she won’t like me anymore..wav|そんなことして試したら嫌われるのは当たり前だよね
+dataset/Lda069_We’re always together..wav|いつも私たち一緒
+dataset/Lda069_Misato-chan is really good to me..wav|みさとちゃんって私のことすごく大事にしてくれる
+dataset/Lda070_Does it have to do with Misato-chan?.wav|ミサトちゃんのせいかなぁ
+dataset/Lda070_I didn’t feel this way in elementary school..wav|小学校の時は割と平気だったのに
+dataset/Lda070_Maybe I’ll call Dad..wav|お父さんに電話してみようかな
+dataset/Lda070_I didn’t want to stay home from school deliberately..wav|別に本当に休もうとしたわけじゃないのに
+dataset/Lda070_Mom might get angry..wav|お母さん怒るかな?
+dataset/Lda070_Mom had to go to work, so I was home alone..wav|お母さんも仕事に行って、一人ぼっちだった。
+dataset/Lda070_That’s expensive though..wav|でも、国際電話って高いから。
+dataset/Lda070_My head hurt, and I saw that thing again, so I stayed home..wav|頭が痛くて、あれが見えて結局休んだ。
+dataset/Lda070_Why do I feel so sad and tired now?.wav|なんでこんなに寂しくてつらいんだろう
+dataset/Lda071_Fight, Lain!.wav|ファイト!レイン! なんちゃって
+dataset/Lda071_I don’t like this..wav|嫌だな
+dataset/Lda069_If I skip school tomorrow, how would she feel?.wav|明日休んでみたら美里ちゃんはどう思ってくれるかな?
+dataset/Lda071_I was a bit disappointed..wav|ちょっとがっかり?
+dataset/Lda071_I don’t mind their smell very much..wav|私はそんなに嫌いな匂いじゃないかな
+dataset/Lda069_I’m sad when she doesn’t come to school..wav|みさとちゃんが休んだりしたらすごく寂しいな
+dataset/Lda071_I wonder if Misato-chan is strong..wav|みさとちゃんは強いのかなぁ
+dataset/Lda071_I’m going to give my best to study and art..wav|勉強も部活も頑張るぞ
+dataset/Lda071_I’m becoming a dislikable girl again..wav|私、また嫌な子になってる。
+dataset/Lda071_In extracurricular class, I went to go buy sketch books with the rest of the class..wav|部活で先輩たちと一緒に画材屋さんにスケッチブックを買いに行った。
+dataset/Lda071_I’m just being blameful..wav|疑ってばっかり
+dataset/Lda071_She seemed to be just fine while I was away..wav|私が休んでも平気だったみたい
+dataset/Lda071_Mom scolded me, saying that the pastels were stinky..wav|お母さんに怒られた。 匂いが結構するみたい。
+dataset/Lda071_The pastels were very pretty, so I bought some and was drawing before dinner..wav|パステルが可愛かったんで、クロッキーと一緒に買って、晩御飯の前に絵を描いていたら…
+dataset/Lda073_Dad is going to come back soon, and I’ve been feeling good lately..wav|お父さんがもうすぐ帰ってくるし、この頃いい感じ。
+dataset/Lda072_Am I forcing myself to do too much? I’m not, am I?.wav|無理してるの?無理なんかしてないよね? コメント欄も訪問して頂けると嬉しい!!!
+dataset/Lda073_I guess she’s really busy..wav|忙しいんだなぁ
+dataset/Lda073_I have to say thanks for that time..wav|あの時のお礼をしなくっちゃ
+dataset/Lda061_I just want it to stop..wav|もうやめてほしい
+dataset/Lda073_I can’t see ‘that’ anymore, so I think I’ll go back to the Net for old time’s sake..wav|あれも見えないし、ネットに差しぶりに行ってみようかな
+dataset/Lda073_I haven’t seen Mr. Rabbit in a while..wav|うさぎさんともご無沙汰してるし
+dataset/Lda073_I look pretty good when I’m making progress..wav|前向きな自分が結構可愛い
+dataset/Lda074_I’m not forcing myself to laugh. This is me..wav|本当に無理に笑ってない。これが私
+dataset/Lda075_But I don’t have to go to the Net anyway..wav|でももうネットに行く必要もないし
+dataset/Lda075_I haven’t had a problem with that before..wav|こんなこと今までなかったのに
+dataset/Lda075_I saw ‘that’ on the Net..wav|ネットであれが見えた
+dataset/Lda075_I’m not alone anymore..wav|私はもう 一人じゃない
+dataset/Lda075_It’s okay, Lain..wav|大丈夫よねレイン
+dataset/Lda073_I drew a picture of Touko-san and went to her office to show her, but one of the people there said that she was out..wav|トウコさんの絵を描いたから、 トウコさんのところに寄って店に行ったら、 警備員のおじさんが、 今日は出張だって言ってた。
+dataset/Lda075_Things are going well anyway..wav|せっかくうまくいってるんだもの
+dataset/Lda071_Maybe Misato-chan has friends aside from me, and I just want her for myself..wav|もしかして私以外にも友達がいて私が独占してるだけ?
+dataset/Lda075_Why is it happening?.wav|なんで?
+dataset/Lda075_I’ve written a letter to Mr. Rabbit, so I won’t go back to the Net for a while..wav|とりあえずうさぎさんにメールを書いておいたから、またしばらくアクセスしないようにしよう。
+dataset/Lda076_About me, about drawing, about Misato-chan..wav|自分のこと、部活のこと、みさとちゃんのこと
+dataset/Lda076_He brought me a Teddy Bear as a gift..wav|お土産にクマのぬいぐるみを買ってきてくれた
+dataset/Lda076_He was smiling as I talked to him..wav|ニコニコ聞いてくれたけど
+dataset/Lda076_Dad came home..wav|お父さんが帰ってきた
+dataset/Lda076_He’s really cute..wav|目がクリクリしてて可愛い
+dataset/Lda076_Hmm....wav|ew
+dataset/Lda076_I talked and talked and talked until Mom said that Dad is tired and that I ought to hold off on talking to him until tomorrow..wav|お母さんがお父さんは疲れてるからまた明日にしなさいって言うまでずっと喋りっぱなしで
+dataset/Lda076_What should I name him?.wav|名前は何にしようかな
+dataset/Lda078_Could it have been cosmetics?.wav|化粧品かな?
+dataset/Lda077_I wonder if Dad has ever been so cheerful. Maybe people seem to change when you change yourself..wav|お父さんってこんなにニコニコしてたかなぁ 自分が変わると人も変わって見えるのかなぁ
+dataset/Lda078_I guess I’ll use cosmetics one day, too..wav|私もいつか化粧とかするんだろうな
+dataset/Lda078_Dad asked me to take a gift to Touko-san, so I took the gift to her after school..wav|お父さんがトウコさんにってお土産を渡すように頼まれたから、学校が終わって先生のところに行ってきた。
+dataset/Lda078_I wonder what the gift was..wav|何が入ってたんだろう
+dataset/Lda078_I wonder why she was tired..wav|疲れているのかな?
+dataset/Lda071_I wonder if I’m too possessive..wav|私って独占欲が強いのかな?
+dataset/Lda078_I won’t look very good if I used cosmetics now..wav|この顔で化粧したら似合わないよね
+dataset/Lda076_I talked to him a lot..wav|いっぱいいっぱい話した
+dataset/Lda078_Mom has a lot of cosmetics, too..wav|お母さんも化粧品とか高そうなバッグだったし
+dataset/Lda076_Maybe I did tire him out..wav|お父さん疲れちゃったかな
+dataset/Lda078_She didn’t even open the gift’s wrapping paper..wav|お土産の袋も開けなかったし
+dataset/Lda078_Oh, Dad said there were some extra presents, so I’ll take some for Misato-chan..wav|あ、お父さんがお土産余ったって言ってたから、 美里ちゃんの分ももらおう。
+dataset/Lda078_Misato-chan looks grown up anyway, so cosmetics should look good on her..wav|みさとちゃんとかは大人びた感じだからきっと似合うよね
+dataset/Lda078_Touko-san seemed tired and slow..wav|なんかトウコさん元気がなくて、ちょっと雰囲気が変わってた。
+dataset/Lda079_A lavish present wouldn’t be good. After all, we’re just junior high school students..wav|でも、変に高いプレゼントも良くないよね。 だって私たちまだ中学生なんだし。
+dataset/Lda080_I left drawing class early because I was sad..wav|部活もなんだか寂しくって早退してきちゃった
+dataset/Lda080_Misato-chan took a day off of school..wav|みさとちゃんが学校休んだ
+dataset/Lda080_I hope Misato-chan comes to school tomorrow..wav|明日はみそとちゃんが学校に来ますように
+dataset/Lda081_I need Misato-chan. Does Misato-chan need me?.wav|私にはミサトちゃんが必要なの ミサトちゃんは私が必要
+dataset/Lda080_I had Dad’s present that I wanted to give her..wav|せっかくお土産を持って行ったのに
+dataset/Lda082_I wonder what the matter is..wav|どこが悪いんだろう
+dataset/Lda082_I told my sensei that I wanted to go see her..wav|先生に聞いてお見舞いに行こうと思ったら
+dataset/Lda080_I don’t think she’s completely alone, but I was sad for her..wav|一人ぼっちってほどじゃなかったけど、ちょっと寂しい。
+dataset/Lda082_Misato-chan wasn’t at school again today..wav|今日もみさとちゃんが休んだ
+dataset/Lda082_Misato-chan had so much energy..wav|あんなに元気だったのに
+dataset/Lda082_She didn’t talk about herself much, though..wav|そういえば、みさとちゃんってあんまり自分のこと話さないもんね。
+dataset/Lda083_Haven’t I changed?.wav|変わってない
+dataset/Lda082_She was like me in that way..wav|私も一緒だけど
+dataset/Lda082_She said that she spoke with Misato-chan’s mom, and that Misato-chan didn’t want to see any visitors..wav|昨日、みさとちゃんのお母さんが来て、本人の希望でお見舞いはご遠慮させてくださいって言われたんだって。
+dataset/Lda083_I’m cowardly, though..wav|でも 私は臆病者だから
+dataset/Lda083_Would it be better if a cowardly person like me dies?.wav|それとも臆病な私は死んでしまった方がいいの?
+dataset/Lda084_Any way, I’m glad that she’s better..wav|とにかく治ってよかった
+dataset/Lda083_I want to talk to Misato-chan..wav|ミサトちゃんには本当は話したいんだよね
+dataset/Lda084_I skipped extracurricular activities and went to an ice cream shop with Misato-chan instead..wav|久しぶりだったから部活はお休みして、帰りにアイスクリーム屋さんに行った。
+dataset/Lda084_It’s always fun to be around Misato-chan..wav|やっぱりみさとちゃんがいると楽しい
+dataset/Lda084_I’ll take her the gift I couldn’t give her yesterday..wav|明日渡せなかったお土産を持って行こう
+dataset/Lda084_I’m glad she’s better..wav|よかった元気になって
+dataset/Lda084_Misato-chan came to school, but seemed as usual, as if nothing had happened..wav|みさとちゃんが学校に来たけど、まるで何もなかったかのように普通だった。
+dataset/Lda082_But for me, talking got me disliked..wav|私の場合は話したら嫌われちゃうもの
+dataset/Lda086_I can’t believe this..wav|信じられない
+dataset/Lda084_When I asked her what kind of sickness she had, she just said that she had a cold..wav|病気って何だったのって聞いたら、 風邪だって言ってたけど。
+dataset/Lda086_It’s that guy again..wav|またあいつだ
+dataset/Lda085_This is the same as always. Nothing will change. I’m fine just like this..wav|これでいつもと同じ 何も変わらない もう私はこれでいい
+dataset/Lda086_I’m scared to check my e-mail now..wav|もうメールを見るのも怖い
+dataset/Lda086_Mr. Rabbit wouldn’t do something like that..wav|うさぎさんがそんなことをするわけがない
+dataset/Lda086_I’m not sick..wav|せっかく治りかけてきたのに もう私は病気なんかじゃない
+dataset/Lda086_Why would someone do this?.wav|どうしてこんなことをするんだろう
+dataset/Lda086_Strangely, it said that the e-mail came from Mr. Rabbit..wav|でも、贈り主がうさぎさんになっていた。
+dataset/Lda086_When I was checking e-mails to see if anything came from Mr. Rabbit, I found a weird e-mail..wav|うさぎさんからメールが来てるかもしれないんで、メールだけチェックしてたらまた変なメールが来た。
+dataset/Lda086_This time it was a picture of a dead, naked woman, tied up with ropes..wav|今度は女の人が裸で縛られて殺されている写真
+dataset/Lda088_A drawing of Bike-chan?.wav|ビケちゃんとか?
+dataset/Lda087_Right, I'm really not sick..wav|そう、病気なんかじゃないんだ。
+dataset/Lda087_What Touko-san is saying... since she said it, it can't be wrong, right?.wav|トウコさんも言ってるもの。先生が言うんだから間違いないよね。
+dataset/Lda088_Dad, Mom?.wav|お父さん、お母さん?
+dataset/Lda088_I wonder what to draw..wav|何を書こうかな
+dataset/Lda088_I have to do a drawing for a cultural festival soon..wav|文化祭で出展する絵を描かなくちゃいけないけど
+dataset/Lda088_I wonder what..wav|何かな?
+dataset/Lda086_I’d like to check my e-mails, but if I access the Net and I see ‘that’ again...I was getting better..wav|ちゃんと調べたい気もするけどネットにアクセスしてまたあれが見えたら
+dataset/Lda088_If the drawing doesn’t look like the person, it’s embarrassing..wav|似てなかったら恥ずかしくて嫌だし
+dataset/Lda086_I’ll let Mr. Rabbit know..wav|うさぎさんにメールで知らせておこう
+dataset/Lda088_It’s difficult to draw people..wav|人物ってなんか恥ずかしいな
+dataset/Lda088_I’m not sure..wav|あんまり何が描きたいってないかなぁ
+dataset/Lda088_Myself?.wav|自分?
+dataset/Lda088_Misato-chan?.wav|みさとちゃんとか?
+dataset/Lda087_I should believe her..wav|信じていいよね
+dataset/Lda088_Touko-san?.wav|とうこさん?
+dataset/Lda088_One of the leaders said that it can be something simple..wav|副部長さんがなんか身近なものでいいよって言ってたけど
+dataset/Lda090_I’ll ask her how to do it..wav|りさとちゃんに教わってみよう
+dataset/Lda090_Maybe I’ll try that, too..wav|私もやってみようかな
+dataset/Lda089_What is Misato-chan going to draw? Lain? Or someone I don’t know?.wav|ミサトちゃんは何を書くの? レイン? それとも私の知らない誰か?
+dataset/Lda091_A digitizing tablet seems necessary..wav|タブレットも必要だし
+dataset/Lda091_I wonder if Misato-chan’s family is rich..wav|みさとちゃんの家ってお金持ちなのかな?
+dataset/Lda091_I can’t afford this stuff with my allowance..wav|私のお小遣いじゃ絶対買えない
+dataset/Lda090_Misato-chan said that she draws with her computer..wav|ミサトちゃんってパソコンで絵を描いているとか言ってたけど
+dataset/Lda091_It’s difficult with machinery these days..wav|何しろ今の機会だと辛そう
+dataset/Lda091_If I don’t have money, I can’t buy anything, but if I have a lot of money, I could do so much..wav|お金がないと何も買えない。お金がいっぱいあったらいいな。
+dataset/Lda091_It seems that it’s better if there is a scanner..wav|スキャナーもあった方がいいし
+dataset/Lda091_I’ll talk to Dad..wav|お父さんに相談してみよう
+dataset/Lda091_It’s fun just imagining these things..wav|想像するだけで楽しい
+dataset/Lda091_Software is expensive..wav|ソフトってこんなに高いんだ
+dataset/Lda091_What would I do?.wav|何をしよう
+dataset/Lda092_A person who works with graphics in Dad’s company is willing to lend me some equipment at a low rate..wav|お父さんの会社の人でグラフィックをやってた人がいて、安く譲ってもらえそう。
+dataset/Lda092_I hope I can meet with that person soon..wav|早く来ないかな
+dataset/Lda067_She said that she went to America for school..wav|確かトウコさんはアメリカにいたって言ってたから
+dataset/Lda092_I wonder what kind of room Misato-chan has..wav|リサトちゃんの部屋ってどんな部屋なのかな?
+dataset/Lda092_I’ll clean up my room and make it look welcoming..wav|部屋をちょっとは片付けて、女の子っぽい部屋にしよう。
+dataset/Lda092_I wonder how many years it’s been since I’ve had a friend over..wav|そういえば友達が遊びに来るなんて何年ぶりだろ
+dataset/Lda092_I’m sure it’s a very clean room..wav|きっときれいな部屋なんだろうな
+dataset/Lda067_Touko-san said, "you’re doing really well," and I was a bit embarrassed..wav|元気になったねって言われて照れくさかった
+dataset/Lda092_This is fun..wav|楽しみだな
+dataset/Lda092_Then I could have Misato-chan come to my house and she can teach me all sorts of things..wav|そうしたらみさとちゃんに家に来てもらって、いろいろ教えてもらおう
+dataset/Lda094_He was kind of good looking..wav|結構かっこよかったのに
+dataset/Lda068_I’m nowhere as good as her in music, and she said that she didn’t want to be in music class with me anyway..wav|音楽はみさとちゃんとレベルが違うし、みさとちゃんも部活までは音楽はやりたくないって言ってたし。
+dataset/Lda094_I guess the boy was rejected..wav|告白した人、かわいそうに振られちゃったんだね
+dataset/Lda094_If it was me, I think I would have been a little happy..wav|私だったらちょっと嬉しくなっちゃうかな
+dataset/Lda094_At school today, a boy asked to talk to Misato-chan..wav|今日、学校でミサトちゃんが男の子に呼ばれていたから
+dataset/Lda093_My room doesn’t look very "girlish." But that doesn't really seem to fit me. I understand..wav|私の部屋って、なんか女の子っぽさが少ないな。 でも私には似合わないよね。 私、わかってるんだ。
+dataset/Lda091_I could buy Mom and Dad presents, and I could do all sorts of things with Misato-chan..wav|お父さんにもお母さんにもプレゼントしたり みさとちゃんといろんなことして遊べるな
+dataset/Lda094_She looked really bothered..wav|すごく迷惑そうな顔してた
+dataset/Lda094_That’s sad, too..wav|それも寂しいな
+dataset/Lda094_Maybe she already has a boyfriend that I don’t know anything about..wav|ひょっとして私が知らないだけでもう誰かいたりして
+dataset/Lda094_Misato-chan is good-looking and smart..wav|みさとちゃんて綺麗だし頭もいいし
+dataset/Lda094_Misato-chan didn't seem interested at all..wav|ミサトちゃんは全然興味なさそう
+dataset/Lda094_She could get a boy..wav|モテるけど…
+dataset/Lda094_Too bad..wav|かわいそう
+dataset/Lda094_Maybe she doesn’t want one..wav|男の子嫌いなのかな
+dataset/Lda094_When she asked why, he said that he wanted to go out with her..wav|なんだったのって聞いたら付き合ってほしいって告白されたんだって
+dataset/Lda095_It’s impossible to know everything, isn’t it?.wav|全部知るなんて無理だよね
+dataset/Lda095_But if I was the person I used to be, I might have been that way, too..wav|でも昔の私だったら私もそうしてたかも
+dataset/Lda096_I’m jealous..wav|うらやましい
+dataset/Lda095_I’m not Misato-chan..wav|私はミサトちゃんじゃないし
+dataset/Lda096_My chest is flat..wav|私の胸はぺったんこ
+dataset/Lda096_She laughed..wav|笑われた
+dataset/Lda096_All the others are really becoming girls..wav|みんなはもう女の子になってるのに
+dataset/Lda096_I asked Misato-chan if she was going out with someone..wav|みさとちゃんに誰か付き合ってる人いるのって聞いたら笑った
+dataset/Lda097_The body doesn't matter much..wav|体なんてどうでもいいよね
+dataset/Lda097_If my heart is perturbed, no one will like me..wav|誰も私を好きになってくれないもの
+dataset/Lda097_What matters is the heart..wav|大事なのは心だよね。心が病んでたら…
+dataset/Lda098_I wonder what Misato-chan is thinking..wav|みさとちゃんなんて思ったかな
+dataset/Lda096_I think I’m moving slower than everybody else..wav|私って遅れてるのかな?
+dataset/Lda098_I went to see Touko-san today..wav|今日はトウコさんのとこに行ってきた
+dataset/Lda096_When I was changing clothes for gym class, I noticed that Misato-chan had big breasts..wav|体育の着替えの時、みさとちゃんの胸を見たら大きかったな。
+dataset/Lda098_I don’t want to keep any secrets from her, but I’m afraid to tell her the truth..wav|ミサトちゃんに秘密を作りたくないけど でも正直に話すのも怖い
+dataset/Lda096_But I don’t have ‘that’ yet either..wav|そういえば私はまだあれもないし
+dataset/Lda099_You're busy with your own work, aren't you, Touko-san?.wav|トウコさんはトウコさんでお仕事なんだもんね
+dataset/Lda098_When I asked her how much longer we should meet each other, she looked troubled..wav|いつまで続ければいいのかって聞いたら 東子さんは困った顔をしていた
+dataset/Lda100_Maybe she doesn’t like the violin..wav|ヴァイオリンの音が嫌いなの?
+dataset/Lda098_She said that I could come over with the idea of enjoying myself instead of thinking of our meetings as therapy, but I didn’t want to have to explain myself to Misato-chan..wav|治療だなんて思わないで遊びに来るつもりで来てくれればいい なんて言われても 今日だって美里ちゃんに言い訳するの嫌だったもの
+dataset/Lda100_I guess Misato-chan makes expressions like that, too..wav|みさとちゃんもあんな顔するんだ
+dataset/Lda100_She plays beautifully..wav|すっごく綺麗な曲で
+dataset/Lda100_She can really play..wav|本当に上手なんだな
+dataset/Lda096_Well, after all, we’re together all the time..wav|そうだよね。私たちいつも一緒なんだから。
+dataset/Lda100_Listening to her play is like drifting off into a dream..wav|まるで夢の中みたい
+dataset/Lda100_She said it was to repay me for the gift I gave her..wav|お土産のお礼だって
+dataset/Lda100_It seems like there is more of the Misato-chan that only I know..wav|私だけが知っているみさとちゃんが増えたようで嬉しい
+dataset/Lda100_That was a bit unlike her, and it was cute..wav|みさとちゃんらしくなくて可愛かった
+dataset/Lda101_It looks very expensive..wav|なんだかものすごく高そう
+dataset/Lda101_I feel important all of a sudden, and happy..wav|なんか自分がすごくなった気がして嬉しい
+dataset/Lda100_When I played the CD for Mom, she didn't seem too interested..wav|お母さんに聞かせたら、あんまり受けなかったなぁ。
+dataset/Lda101_It’s different from the computers we’ve had before, but the man said that the applications are similar, so there shouldn’t be many problems..wav|今まで使っていた機械と種類が違うらしいんだけど、アプリケーションの操作は共通だから、あんまり問題ないって言ってた。
+dataset/Lda101_I’ve been studying hard and want to make myself useful..wav|せっかく勉強したんだから役に立てたいけど
+dataset/Lda101_Thank you, Dad..wav|ありがとう、父さん。
+dataset/Lda100_She blushed a little when she gave me her CD..wav|渡してくれる時にちょっと照れていたのが
+dataset/Lda102_But only a girl like me could come from my kind of Mom..wav|私のお母さんからは私しか生まれないよね
+dataset/Lda102_Dad, Mom, Misato-chan and I had dinner together..wav|お父さんと一緒に、4人で夕ご飯。
+dataset/Lda102_But I really had fun today..wav|でも、今日は本当に楽しかった
+dataset/Lda102_I didn’t learn that much about drawing, but Misato-chan said that she will visit again soon..wav|あんまり襲われなかったけど、また家に来てくれるって言ってたし。
+dataset/Lda102_It was almost dreamlike..wav|まるで夢みたいなオチ
+dataset/Lda102_I’m sorry, Mom..wav|お母さんごめんなさい
+dataset/Lda101_When I grow up, I wonder if I will find work related to managing information or something..wav|大きくなったら情報処理の関係の仕事とかやるのかな?
+dataset/Lda102_Misato-chan came to visit my house today..wav|みさとちゃんが家に来てくれた
+dataset/Lda101_We got a new PC today..wav|新しいパソコンが家に来た
+dataset/Lda101_It’s small and round, but it’s very fast..wav|ちっちゃくって丸っこいんだけど、すごく速いらしい。
+dataset/Lda102_Misato-chan’s mom came to the door and spoke with Dad a bit..wav|本のところまで、みさとちゃんのお母さんが来て、お父さんと挨拶してたけど、
+dataset/Lda102_It was great..wav|楽しかった
+dataset/Lda102_Mom came and checked in on us often..wav|何かと覗きに来てた
+dataset/Lda102_Misato-chan taught me how to draw..wav|私が絵の描き方を教わろうと部屋に美里ちゃんを呼んでからも
+dataset/Lda102_I guess that a pretty girls like Misato-chan must come from beautiful mothers like that..wav|やっぱりみさとちゃんみたいに綺麗な子は、ああいうお母さんから生まれるんだろうな。
+dataset/Lda102_She has a very fancy house in a rich neighborhood..wav|やっぱりみさとちゃんのお家ってお金持ちの家がいっぱい建ってるところにあった
+dataset/Lda102_Mom seemed to be in a good mood—sort of..wav|お母さんもちょっとご機嫌かな
+dataset/Lda102_We took Misato-chan back to home in Dad’s car..wav|お父さんの車でみさとちゃんの家まで送ったら
+dataset/Lda102_She was really pretty, like an actress..wav|すごい美人 女優さんみたい
+dataset/Lda101_Still, I don’t want a job that only has to do with machines..wav|でも、機械としか仕事をしない人にはなりたくない。 いっぱい人倒す仕事もつらいかもしれないけど。
+dataset/Lda103_I guess we’re different from birth..wav|生まれた時から違うんだね
+dataset/Lda104_I don’t think I could draw a Pegasus that looks like it is flying..wav|私が書いたらきっと飛びそうにないかな
+dataset/Lda103_But if I was born there, wouldn’t I have been pretty like Misato-chan?.wav|でも私があんなところで生まれてたら、 みさとちゃんみたいに可愛い子になれたかな?
+dataset/Lda104_I drew a picture and submitted it to the cultural fair, but I don’t think I have much talent..wav|文化祭に出展する絵は描いたけど、やっぱり私才能ないのかなぁ
+dataset/Lda104_I think I’ll just draw what I feel like drawing..wav|やっぱり自分の描きたいものを描くかな
+dataset/Lda104_It looked as though Pegasus was really flying..wav|まるでペガサスが本当に空を飛びそうな躍動感があって
+dataset/Lda104_Misato-chan does great..wav|みさとちゃんは上手だった
+dataset/Lda104_I’d rather draw pictures of Misato-chan more than anything else, but maybe she won’t like that..wav|本当は大好きなミサトちゃんを描きたいけど ミサトちゃん嫌がるかな?
+dataset/Lda104_She drew a picture of Pegasus, with deep blue skies..wav|ペガサスの絵なんだけど、空に吸い込まれていきそうな深い青の光が印象的で
+dataset/Lda104_She said that she was still mid-process with her work, but I thought it was great already anyway..wav|まだ途中って言ってたけど、そのままでも十分魅力的。
+dataset/Lda105_Other than using the Net, there’s nothing I can do better than Misato-chan..wav|私なんてネットのことぐらいしか 美里ちゃんに勝てるものないよ
+dataset/Lda105_She can do so many things..wav|みさとちゃんは何でもできるんだね
+dataset/Lda105_I’m a little envious of Misato-chan..wav|ちょっとだけうらやましいよ、みさとちゃん
+dataset/Lda106_I wonder if it looks much like her..wav|似てるかな?
+dataset/Lda106_I showed it to Mom, who didn’t have much to say..wav|お母さんに見せたら似てるかなって首かしげていた
+dataset/Lda106_I tried to remember Misato-chan’s face and drew it..wav|みさとちゃんの顔を思い出して一生懸命デッサンしたけど
+dataset/Lda104_Compared to everyone else, I’m not very good..wav|みんなと比べると全然下手
+dataset/Lda106_I connected two computers so that they could exchange files, and called it a day..wav|とりあえず2台を繋いでファイル交換できるようにして今日はおしまい
+dataset/Lda106_It’s based in UNIX, so much of it was familiar, but it helped me understand assembly, which I had trouble with..wav|ユニックスベースなんで割と馴染みやすいけど アセンブラがよくわかってなくて困ってたから助かったかな
+dataset/Lda107_Cop cars and ambulances were everywhere, and lots of people, too..wav|パトカーとか救急車とかがたくさん来ていて
+dataset/Lda106_Today there was something about the new Navi that I didn’t understand, so I went and bought a book again..wav|あと今日新しいナビの使い方がわかんなくて本をまた買ってきた
+dataset/Lda107_I am....wav|私はそんなの
+dataset/Lda106_There aren’t many books about this kind of computer, so I didn’t have much to choose from, but I bought a book that has to do with command lists..wav|この種類のパソコンの本が少なくって、あんまり選びようがなかったけど、 とりあえず対応するコマンドリストが書いてある本を買った。
+dataset/Lda107_I wouldn’t want something like that to happen to me all of a sudden..wav|突然そんなことになったら嫌だ
+dataset/Lda107_I saw an accident on my way home today..wav|今日帰り道に事故を見た
+dataset/Lda107_It’s sad that someone died..wav|人がいっぱいでよくわからなかったけど かわいそう
+dataset/Lda107_Something fell at a construction site and someone died..wav|建築現場で上からものが落ちてきて 人が死んじゃったらしい
+dataset/Lda108_I bet it will stand out and draw attention at the culture fair, since it's a size 50 oil painting..wav|50号の油彩だから目立つし、文化祭でもきっと目を引くだろうな。
+dataset/Lda106_I think I’ll quit the cultural fair..wav|文化祭はあきらめよ
+dataset/Lda108_It was very popular in the art club..wav|美術部でも評判になっていた。
+dataset/Lda108_I feel that I haven’t expressed myself as much as I wanted in my painting..wav|絵でもどこか自分を出し切れてないって感じがする
+dataset/Lda106_Dad said it was good, but I’m still not very confident..wav|お父さんは褒めてくれたけど、やっぱり自信がない。
+dataset/Lda108_Misato-chan finished her artwork..wav|みさとちゃんの絵が完成した
+dataset/Lda108_It’s very pretty and really is a work of art..wav|すごく綺麗で、もう芸術って感じ
+dataset/Lda108_I used watercolors on top of pastels, all on a size 10 canvas..wav|私は10号のキャンバスにパステルで描いた上に水彩ペイントした。
+dataset/Lda108_What kind of painting should I make?.wav|私はどんな絵を描けばいいの?
+dataset/Lda108_Misato-chan’s paintings seem like Misato-chan’s..wav|ミサトちゃんの絵はミサトちゃんって感じがするもの
+dataset/Lda108_They are gentle and pretty, and seem to have an inner strength....wav|優しくて綺麗なんだけど 内面に強さを秘めていて
+dataset/Lda109_Could it be because she’s been busy?.wav|この頃忙しいから?
+dataset/Lda109_Could it be that I’m a bother because I’m no longer sick and don’t need to see her?.wav|それとも私がもう治ってきたんで邪魔なのかな
+dataset/Lda108_Misato-chan said that I did a good job, but I wonder if I should have done a painting of her..wav|ミサトちゃんは上手って褒めてくれたけど、やっぱりミサトちゃんの絵を描けばよかったかな。
+dataset/Lda109_I wonder if she was feeling well..wav|機嫌悪かったのかな
+dataset/Lda109_I told her about my artwork, and she said to bring that up with people in my class..wav|今日も絵のことで相談したら、絵のことなんて部活の人に聞いてたなんて
+dataset/Lda109_I’m sorry that I couldn’t help with your research report, Touko-san..wav|研究レポートの役に立てなくてごめんなさい
+dataset/Lda109_She seems different from before..wav|なんか今までと違う気がする
+dataset/Lda109_Touko-san is a counselor..wav|トウコさんはカウンセラーだもんね
+dataset/Lda109_She seems cold and distant..wav|なんかよそよそしいもの
+dataset/Lda109_Touko-san was that kind of person..wav|トウコさんってあんな人だっけ?
+dataset/Lda109_The sicker I get, the more work she has to do..wav|私がおかしくなればなるほど 東子さんの仕事は増えるんだもんね
+dataset/Lda109_Just let me know if you don’t want to see me anymore..wav|そうだったら、もう来なくていいって言ってくれればいいのに。
+dataset/Lda111_I shouldn’t complain..wav|かまってくれないからすねるなんて贅沢だよね
+dataset/Lda111_It seems to be coming apart now, since I haven’t had problems lately..wav|私に問題なくなってきて、バラバラになってきたのかな?
+dataset/Lda111_My family used to encircle me..wav|以前は私のことが原因でまとまっていた家族が
+dataset/Lda111_They’ve been so good to me..wav|今まで散々迷惑かけてきたんだから
+dataset/Lda110_I don’t want to see her anymore. I’m not troubled anymore. To me, Touko-san is....wav|もう行きたくないのに 私は何も困ってないんだから 私にはもう トウコさんは…
+dataset/Lda111_Mom and Dad have been curt lately..wav|お父さんもお母さんもこの頃ちょっとそっけない
+dataset/Lda113_Everything is okay, now..wav|もう何もかも大丈夫
+dataset/Lda113_I have friends; I argue with my parents a little but make up later..wav|友達もいるし、親子でちょっと喧嘩したり仲直りしたり
+dataset/Lda113_I’m in an ordinary family..wav|まるで普通の家族
+dataset/Lda113_I’m an ordinary girl..wav|私は普通の子
+dataset/Lda113_It’s been a while since I saw ‘that.’ I’ve become an ordinary kid again..wav|あれが見えなくなってずいぶん経つ 私はすっかり普通の子に戻れたんだ
+dataset/Lda114_But is it because I’ve become ordinary that Mom and Dad don’t pay attention to me?.wav|でも、普通になったから、お父さんもお母さんも構ってくれないの?
+dataset/Lda114_It’s good to be ordinary..wav|普通っていいよ
+dataset/Lda114_Misato-chan is different..wav|ミサトちゃんは違うよね
+dataset/Lda114_I don’t have the confidence to want to stand out..wav|自分をそんなに主張するほど私には自信はない
+dataset/Lda114_I don’t understand the feelings of people who want to stand out..wav|目立ちたがり屋の人の気持ちなんて全然理解できない
+dataset/Lda114_People won’t look at you funny if you’re ordinary..wav|だって誰からも変な目で見られない
+dataset/Lda115_I quit going to the Net because I saw ‘that,’ and because of the mean messages people leave there..wav|ネットであれが見えたり、意地悪なメールのせいでやめていたんだ。
+dataset/Lda111_I wonder if they are busy doing things that they couldn’t do while I wasn’t well..wav|それとも今まで私のせいでできなかったことをするので忙しいだけなのかな
+dataset/Lda115_I’ll talk to Misato-chan tomorrow..wav|明日みそとちゃんに話してみよう
+dataset/Lda115_Maybe I should exchange e-mail addresses with her..wav|アドレス交換しようかな
+dataset/Lda115_If I had her e-mail address, I won’t have to bother calling her by phone..wav|それにメールで連絡取れたら、電話じゃなくても連絡取れるもんね。
+dataset/Lda112_Doesn’t Dad love Mom? Someone tell me..wav|お父さんはお母さんを愛してないの? 誰か教えて
+dataset/Lda115_If she knew how active and outgoing I am on the Net, she might be surprised..wav|私がネットだと誰とでも仲良くなれるくらい活動的にしてるの知ったら みさとちゃんびっくりするかな
+dataset/Lda115_Misato-chan said that she goes to the Net, too..wav|ミサトちゃんもネットをやっているって言ったから
+dataset/Lda115_Now that I think about it, I haven’t been checking my e-mails lately..wav|そういえばずいぶんメールを見てないな
+dataset/Lda116_I feel like I can talk and keep on talking to anybody..wav|この調子ならどんな人とでもいっぱい話ができそう
+dataset/Lda116_I wonder if I’m a very talkative person..wav|私って本当はおしゃべり?
+dataset/Lda115_Mom’s been complaining because I run up a big phone bill..wav|この頃、レインの長電話で 電話代が大変だってお母さんが文句言ってたもの
+dataset/Lda117_I thought she would be happy..wav|もっと喜んでくれると思ったのに
+dataset/Lda117_It’s too bad..wav|なんだか残念
+dataset/Lda116_I’m surprised at how long I can stay on the phone..wav|長電話している私、なんだか自分でも不思議なくらい話せている。
+dataset/Lda117_I’m a bit sad..wav|ちょっと寂しかった
+dataset/Lda117_I wonder if she got harassed on the Net, too..wav|みさとちゃんもメールで嫌な目にあったのかな
+dataset/Lda117_Misato-chan turned me down..wav|ミサトちゃんに断られちゃった
+dataset/Lda117_Misato-chan will talk to me on the phone, though..wav|でも、みさとちゃんは電話で話してくれるんだもの
+dataset/Lda117_She doesn’t like checking e-mails..wav|メール見るのめんどくさいんだって
+dataset/Lda117_She ought to be able to visit the Net on her own..wav|せめてネットぐらいはお互い一人でいたいんだよね
+dataset/Lda117_The way she turned me down was unusual..wav|ちょっといつもと違う感じで断ってきたもの
+dataset/Lda117_She seems not to have much interest in the Net..wav|ネット自体にあんまり興味がなさそうだった
+dataset/Lda119_Eventually, the members were all people I didn’t know..wav|メンバーも知らない人だけになってたし
+dataset/Lda119_I got an idea!.wav|そうだ
+dataset/Lda119_I deleted e-mails if I didn’t know who they were from..wav|送り主のわからないメールは開かないで削除した。
+dataset/Lda118_I’m being selfish to want to communicate with Misato-chan over the Net..wav|みさとちゃんとネットでも話したいなんて 霊のわがままだよね
+dataset/Lda119_Didn’t my e-mails reach him?.wav|ちゃんと届かなかったのかな
+dataset/Lda119_Maybe he hasn’t read them yet..wav|それともまだ読んでないのかな?
+dataset/Lda119_I’ll join a news group that has art as a topic..wav|絵の好きな人たちのニュースグループに登録しよう
+dataset/Lda117_We can talk to each other anytime, at home or at school..wav|学校でも家でも私たちはいつでも話ができるんだ
+dataset/Lda120_Aren’t there any girls?.wav|女の子はいないの?
+dataset/Lda119_There might be people there that are like me, and I can be a lot more outgoing on the Net..wav|もしかしたら私と同じぐらいの人がいるかもしれないし ネットなら気兼ねなく話せるし
+dataset/Lda119_When I checked the ‘news group,’ I found that many of the packets had dropped..wav|久しぶりにニュースグループをチェックしたら、パケットが何度も落ちてしまった。
+dataset/Lda120_The Net is full of men..wav|ネットは大人の男の人ばかり
+dataset/Lda120_I don’t mind writing guys, but I’d rather write girls..wav|男の人でも構わないけど、やっぱり私は女の子同士で話がしたい。
+dataset/Lda121_I wonder if she is okay..wav|嬉しくないのかな
+dataset/Lda119_When I checked my computer today, there were about 30 e-mails..wav|今日メールをチェックしたら30通ぐらい溜まっていた
+dataset/Lda121_Isn’t that something?.wav|すごいでしょ
+dataset/Lda121_I’m so proud..wav|なんて誇らしいんだろう
+dataset/Lda121_But Misato-chan didn't look very well..wav|でも、みさとちゃんはあんまり浮かない顔してたな
+dataset/Lda121_Misato-chan is amazing!.wav|みさとちゃんすごい
+dataset/Lda121_Misato-chan is my best friend..wav|ミサトちゃんは私の一番の友達なんだよ
+dataset/Lda121_Our sensei’s prestigious friends came and were very impressed..wav|美術の風見先生の知り合いの偉い人が見に来て、感心してだって。
+dataset/Lda122_Misato-chan..wav|மீ சாதுக்கா.
+dataset/Lda119_No e-mails from Mr. Rabbit yet..wav|うさぎさんからのメールは来てなかった
+dataset/Lda122_I’m somewhat frustrated..wav|ちょっぴりだけど悔しいよ
+dataset/Lda122_Would I be embarrassed?.wav|気持ちいい?恥ずかしい?
+dataset/Lda123_Even the older kids were really impressed..wav|なんだか鼻が高かった
+dataset/Lda121_People talked of nothing but Misato-chan’s artwork at the cultural fair..wav|文化祭は美里ちゃんの絵の話で持ちきりだった
+dataset/Lda122_Would I feel good if my artwork was praised like hers’?.wav|私の絵もあんな風に褒められたら
+dataset/Lda123_Everyone in class went to the cultural fair and saw Misato-chan’s work..wav|みんな文化祭の絵を知ってるから先輩たちも納得してた
+dataset/Lda123_She seems different lately..wav|ちょっとこの頃変かな
+dataset/Lda122_I don’t know, but I’ll probably feel good..wav|わからないや。でも多分気持ちいいと思う。
+dataset/Lda123_Kazami Sensei mentioned before class that she wants to have Misato-chan’s artwork presented at the prefectural exhibition..wav|風見先生がみさとちゃんの絵を地区の品評会に出したいって今日部活が始まる前に言ってた
+dataset/Lda124_I wonder if that is obvious to Misato-chan..wav|ミサトちゃんにとってはあれくらい当たり前のことなのかな?
+dataset/Lda114_She’s a friend of ordinary me..wav|普通の私と友達なんだよね
+dataset/Lda124_Will I be disliked if I fuss?.wav|レインもあんまり騒がないようにしないと嫌われる?
+dataset/Lda124_Maybe she doesn’t want people to fuss over her..wav|それとも騒がれるのが嫌いなの?
+dataset/Lda125_I don’t want to visit this Net site again..wav|もうこのネットには行きたくない
+dataset/Lda125_Besides, some artistic big shots saw Misato-chan’s work and didn't think it was plagiarism..wav|美術の偉い人が見ても気づかない 陶作なんてないもの
+dataset/Lda125_I feel contradicted..wav|自分が否定されたようで悔しい
+dataset/Lda125_I feel like I am the one being criticized..wav|まるで美里ちゃんのことが自分のように感じられる
+dataset/Lda125_I wonder if people on art sites of the Net are hard to please..wav|美術のネットの人はなんだか気難しそうな人が多いのかな
+dataset/Lda125_Misato-chan would never do something like that..wav|ミサトちゃんがそんなことするわけないし
+dataset/Lda125_Misato-chan and I have been around each other so much that we can tell what’s going on with the other without talking too much..wav|そうだよね。二人でこれだけ一緒にいれば、大体のことをお互い言わなくてもわかるものね。
+dataset/Lda127_I don’t know why..wav|なんで?
+dataset/Lda126_Does Misato understand me?.wav|ミサトちゃんはレインのことわかる?
+dataset/Lda127_I’ve never seen her like this..wav|こんなみざとちゃんを見たのは初めて
+dataset/Lda127_Misato-chan has stopped talking and looks terrible..wav|ミサトちゃんも怖いくらいの表情で黙ったキリだし
+dataset/Lda127_I’m sad for Misato-chan..wav|みさとちゃんがかわいそう
+dataset/Lda127_Sensei didn’t explain why..wav|先生もそうなっただけしか言わないし
+dataset/Lda127_They decided not to submit Misato-chan’s artwork to the prefectural exhibition..wav|みさとちゃんの絵が出展中止になっちゃった
+dataset/Lda127_What happened?.wav|何があったんだろう
+dataset/Lda128_But maybe that isn’t true..wav|でもそうじゃなかったら
+dataset/Lda128_Could she be waiting for me to call?.wav|ひょっとしたらレイの電話を待っていてくれたり
+dataset/Lda128_I hesitated to call..wav|電話もなんだかかけづらい
+dataset/Lda129_Misato-chan skipped school today..wav|今日、みさとちゃんが学校を休んだ。
+dataset/Lda128_I didn’t talk to her at all today..wav|今日は何も話せなかった
+dataset/Lda129_Misato-chan would never do something like that..wav|絶対にミサトちゃんはそんなことをしない
+dataset/Lda129_Never..wav|絶対に
+dataset/Lda129_Some of the older kids in art class were spreading rumors..wav|部活で先輩が噂をしていた
+dataset/Lda129_The kids stopped talking when they noticed that I was listening..wav|私が聞いているのに気づくと途端に話をやめちゃったけど
+dataset/Lda129_This makes me feel bad..wav|なんだか感じ悪い
+dataset/Lda130_I can’t call Misato-chan..wav|どうしてもみさとちゃんに電話ができない
+dataset/Lda129_They were talking about Misato-chan’s artwork and plagiarism..wav|前にネットで聞いたのと同じ盗作の話
+dataset/Lda130_I don’t have enough courage..wav|私には勇気が足りない
+dataset/Lda130_I can’t imagine what Misato-chan would say..wav|佐藤ちゃんが何て言うのか想像できないよ
+dataset/Lda130_I’m frustrated but can’t do anything..wav|困っている時に何もできない
+dataset/Lda131_Could it be that she doesn’t like me anymore?.wav|それともレインのこと嫌いになったの?
+dataset/Lda131_Misato-chan didn’t show up at school again today, so I took my notes to her home..wav|今日もみさとちゃんは休んじゃったからノートをお家まで持って行った
+dataset/Lda131_Misato-chan’s mom came to the door, but Misato-chan didn’t..wav|ミサトちゃんのお母さんが出てきたんだけど、ミサトちゃんは出てこなかった。
+dataset/Lda131_I want to see you, Misato-chan..wav|会いたいな、みざとちゃん
+dataset/Lda125_I got friendly and sent pics of Misato-chan’s artwork, and they said that it was plagiarism..wav|ちょっと仲良くなったから、ミサトちゃんの絵を送ってあげたのに、盗作だなんて…
+dataset/Lda131_Is she feeling so bad that she can’t even come to the door?.wav|そんなに具合が悪いのかな
+dataset/Lda131_No matter what other kids say about Misato-chan, I’ll always be her friend..wav|みんなが何を言ってもレインだけはミサトちゃんの味方なのに
+dataset/Lda131_That would make me very sad..wav|だったら悲しいよ
+dataset/Lda132_I just want to see you..wav|会いたいだけなの
+dataset/Lda132_I won’t ask you about things you don’t want to talk about..wav|ミサトちゃんが話したくないこと、レイは聞きたくない
+dataset/Lda132_I won’t ask you any questions..wav|会っても何も聞かないよ
+dataset/Lda133_But I thought that Misato-chan did her work before this other person submitted hers to this magazine..wav|でも、みさとちゃんがスケッチ始めたのってこれが発表される前じゃないかな?
+dataset/Lda133_I could not tell the difference between the two..wav|私には区別がつかないぐらい
+dataset/Lda133_I believe in Misato-chan, but I wanted to see what was actually going on..wav|ミサトちゃんのこと信じてるけどやっぱり本当のことを知りたかったから
+dataset/Lda133_I searched the Net about it when I got home..wav|家に帰ってきてからネットで検索したら
+dataset/Lda133_I didn’t want to see the magazine, but I wanted to make sure..wav|そんな雑誌見たくなかったけど、自分で確かめたかったんで見たら。
+dataset/Lda133_I talked to Kasumi sensei today..wav|今日は職員室に行って風見先生に聞いた
+dataset/Lda133_Misato-chan would never plagiarize..wav|絶対みさとちゃんが盗作なんてするわけないけど
+dataset/Lda133_It was probably a coincidence. But she also said that there would be problems if it was openly declared..wav|多分偶然だって ただ発表すれば問題になるだろうって
+dataset/Lda133_Sensei said that people often come up with the same ideas at the same time..wav|同じ時に同じような発想することってよくあるって先生が言っていた
+dataset/Lda133_I’m going to look into it and clear her name..wav|みさとちゃんの名誉のためにも、私が絶対調べてあげる。
+dataset/Lda133_It seems that the Japanese artist who painted it was just a novice, and that it was the first time she won a prize for her artwork..wav|その日本人はまだ駆け出しの画家みたいで、これが初叙書だって書いてあった。
+dataset/Lda133_Still, the paintings looked so similar..wav|それにしても似ていた
+dataset/Lda100_Misato-chan gave me a present..wav|みさとちゃんがプレゼントをくれた
+dataset/Lda133_The picture in the magazine and Misato-chan’s painting looked alike..wav|やっぱりそっくりだった
+dataset/Lda133_They were more than alike..wav|そっくりというよりも
+dataset/Lda100_Misato-chan’s present was a CD of her playing a violin..wav|みさとちゃんがバイオリン弾いているCD
+dataset/Lda133_When I got home, I dug around on the Web and found out that his father was a great artist..wav|お父さんが日本画の大科で二世の画家ってことがわかったくらい。
+dataset/Lda133_The sensei said that there is an art magazine in America with a painting by a Japanese artist very similar to Misato-chan’s..wav|先生が言うには、アメリカの美術の雑誌に、日本人の作品でほとんど同じ絵が載っていたって。
+dataset/Lda134_Couldn’t it be obvious that people see the same things and have the same ideas about them?.wav|同じものを見て同じ考えをするなんてひょっとしたら当たり前のことかもしれない
+dataset/Lda134_We're all the same..wav|所詮、私たちは同じ人間だもの。
+dataset/Lda135_I wonder if I’ll hear back from them..wav|返事来るかな?
+dataset/Lda135_But I might see ‘that’ again when I go to the Net, and that frightens me..wav|でも、あんまりネットにいると、あれが見えそうで怖い。
+dataset/Lda135_I’ll keep writing until I hear back from them..wav|来なかったら車で出すんだ
+dataset/Lda134_If the perceived information is the same for two people and they think the same things about it, why would it be odd if those people produce the same impressions about what they see?.wav|情報が一緒で思考や感性が同じなら、結果も同じになるもの。 いかがでしょうか。
+dataset/Lda135_I’m going to get to the bottom of this and I’m going to clear Misato-chan of this plagiarism charge..wav|絶対に調べるんだ そしてミサトちゃんの疑いを晴らすんだ
+dataset/Lda136_But I have changed..wav|私は変わったんだ
+dataset/Lda136_I won’t have hallucinations anymore..wav|もう幻覚も見ることはない
+dataset/Lda135_The magazine is called "Beauty of the Art." It had a homepage, so I sent them an e-mail..wav|ビューティーオブジェアートって雑誌 ホームページがあったから編集部宛にメールを出した
+dataset/Lda136_If I think that I’m not changing, I won’t change..wav|私自身が変わってないって思ったら変わらないよね
+dataset/Lda136_Could it be that I’m not changing?.wav|もしかして私は変わってない?
+dataset/Lda137_Could this sort of thing happen often?.wav|よかった。でもこんなことってよくあるのかな?
+dataset/Lda137_I got an e-mail from the editors today..wav|今日編集部からメールが来ていた
+dataset/Lda137_I wish I had information about her..wav|情報が欲しいな
+dataset/Lda137_I couldn’t find a home page for her..wav|その人のホームページはなかったし、情報がない。
+dataset/Lda137_I’ll go to Misato-chan’s home tomorrow..wav|とにかく明日、みさとちゃんの家に行こう
+dataset/Lda137_I saw her sketch over 2 months before the other one was published..wav|初めて掲載された号よりも私がスケッチを見たのは2ヶ月以上前だ
+dataset/Lda137_I know that Misato-chan was right all along, and I feel much better now..wav|ミサトちゃんが絶対正しいって分かったから、これで安心して会える。
+dataset/Lda137_Misato-chan’s artwork came first..wav|やっぱりみざとちゃんの方が早い
+dataset/Lda137_I’m glad..wav|よかった
+dataset/Lda137_What is that other artist like?.wav|その書いた日本人ってどんな人なんだろう
+dataset/Lda137_The same picture at the same time, both by a Japanese, all by coincidence?.wav|偶然にしても同じ時期に同じ絵。 それも同じ日本人。
+dataset/Lda138_I can’t forgive them for that..wav|許せない
+dataset/Lda138_I found out for a fact that she didn’t..wav|私はちゃんと調べたんだから
+dataset/Lda138_It’s too sad to lose you like this..wav|こんなお別れの仕方悲しすぎるよ
+dataset/Lda138_All the other kids said that she went to a different school because she was embarrassed to be found out as a plagiarizer..wav|みんなは盗作がバレていづらくなったからだとか、酷いこと言ってた。
+dataset/Lda138_But why did she go away?.wav|でもなんで消えちゃったの?
+dataset/Lda138_Misato-chan is going to another school?.wav|みさとちゃんが転校?
+dataset/Lda138_Misato-chan would never plagiarize..wav|盗作なんかしてない
+dataset/Lda138_Misato-chan..wav|ミサトちゃん
+dataset/Lda138_They were saying nasty things..wav|ひどいこと言ってた
+dataset/Lda138_She didn’t say anything to me..wav|私に何も言わずに
+dataset/Lda138_Misato-chan, this is horrible..wav|ミサトちゃん、ひどいよ
+dataset/Lda138_We were best friends..wav|親友だったのに
+dataset/Lda138_Those kids don’t know what they are talking about..wav|みんなは本当のこと知らないくせに
+dataset/Lda138_We were friends..wav|友達だったのに
+dataset/Lda138_Why?.wav|どうして?
+dataset/Lda138_Will I never see you again?.wav|もうこのまま会えないの?
+dataset/Lda138_They’re wrong..wav|違う
+dataset/Lda139_Don’t they care about who they might be hurting?.wav|噂で傷つく人なんかどうでもいいの?
+dataset/Lda139_Why do people spread rumors without knowing what they are talking about?.wav|どうして人は調べもしないで噂ばかりするんだろう
+dataset/Lda140_I don’t care..wav|もういいや
+dataset/Lda140_It’s all a big nuisance..wav|めんどくさいし
+dataset/Lda140_I don’t know what strange things these kids think about me..wav|みんな何を考えているのかわからない
+dataset/Lda140_I’m alone again..wav|また一人ぼっちになっちゃった
+dataset/Lda140_Making friends..wav|それに友達って言っても
+dataset/Lda140_School isn’t any fun anyway..wav|学校に行っても楽しくない
+dataset/Lda140_School without Misato-chan is no fun..wav|みさとちゃんのいない学校なんて、全然楽しくない。
+dataset/Lda142_Didn’t she think of me as a friend?.wav|私のこと友達って思ってくれてなかったの?
+dataset/Lda142_I makes me even sadder..wav|そうだとしたらもっと悲しい
+dataset/Lda142_I haven’t received any phone calls or letters..wav|電話も手紙も何も来ないし
+dataset/Lda142_I guess Misato-chan didn’t think much of me after all..wav|やっぱりみさとちゃんは私のことなんてなんとも思ってなかったのかな
+dataset/Lda142_I was your special friend..wav|私だけは特別な友達だよね
+dataset/Lda141_When will I make friends again? When it happens, will I have to change, too? Even when I’m me?.wav|また友達ができるのはいつなの? その時には、私はまた変わらなくてはいけないの? 私は私なのに
+dataset/Lda142_I went to Misato-chan’s home today, but no one was there..wav|今日、みさとちゃんの家に行ってきた。 でも、もう誰もいなかった。
+dataset/Lda142_Maybe she thinks I’m badmouthing her like the other kids..wav|ミサトちゃんは私も他の子達と一緒に悪口言ってると思ってるのかな?
+dataset/Lda142_She literally left without saying a word..wav|本当に何も言わずにミサトちゃんは消えちゃった
+dataset/Lda142_This makes me sad..wav|悲しい
+dataset/Lda142_Wasn’t I, Misato-chan?.wav|ね、ミサトちゃん
+dataset/Lda142_If she really was a friend, she would never have left this way..wav|そうだよね 友達だって思ってたら 絶対いきなり消えちゃったりしないよね
+dataset/Lda143_Would it have been different if I had called you then?.wav|あの時電話してれば違ったの?
+dataset/Lda143_Couldn’t you have said that I was on your side?.wav|レインがミサトちゃんの味方だって、ちゃんと言えてれば。
+dataset/Lda143_I was only thinking about you, Misato-chan..wav|レインはミサトちゃんのことしか考えてなかったのに
+dataset/Lda142_She must have moved..wav|もう引っ越しちゃったみたい
+dataset/Lda144_Am I a truant?.wav|私はサボリマ?
+dataset/Lda144_But its over..wav|でも、もう終わり。
+dataset/Lda144_I don’t feel like doing schoolwork..wav|学校の勉強する気がしない
+dataset/Lda144_Did Misato-chan go away because I was hiding things about myself from her?.wav|私が自分のこと隠してたことが原因?
+dataset/Lda144_Although they say that I ought to study what interests me, the only things I’m interested in are Misato-chan and myself..wav|興味があることを勉強すればいいって言われても、私が関心があるのは、私のこととみさとちゃんのことだけ。
+dataset/Lda144_I don’t want to leave people behind..wav|でも、置いてきぼりも嫌だもの
+dataset/Lda144_Even if there’s something I can’t say, I would never do that..wav|言えないことがあっても、私はそんなことを絶対にしない。
+dataset/Lda144_I’ve got to fight..wav|頑張んなきゃ
+dataset/Lda144_I have to find other things that are meaningful to me..wav|新しく興味を持てることを見つけなくちゃいけないんだ
+dataset/Lda144_I was thinking of not seeing Touko-san anymore today..wav|トウコさんのところに行くのは今日でやめようと思った。
+dataset/Lda144_Touko-san and Misato-chan are awful..wav|酷いよ トウコさんもミサトちゃんも
+dataset/Lda144_Is that why she went away without saying anything to me?.wav|だからミサトちゃんも私に何も言わずに転校しちゃったっていうの?
+dataset/Lda145_Dad never hits people, but he hit Mom today..wav|いつもは絶対手を上げないお父さんがお母さんを殴った。
+dataset/Lda145_I was afraid and couldn’t do anything but cry..wav|私は怖くて泣いているだけで何もできなかった
+dataset/Lda144_Nobody understands me..wav|誰も私をわかってくれない
+dataset/Lda145_Mom and Dad had a big fight today..wav|今日お父さんとお母さんが大喧嘩をした
+dataset/Lda145_Was it my fault?.wav|私が原因?
+dataset/Lda144_When I told her about Misato-chan, she said that there are some things that people can’t say, even to those who are closest to them..wav|だって、トウコさんにミサトちゃんのことを話したら、 人にはどんなに身近な人間にも話せないことがあるのよ、なんて。
+dataset/Lda145_Why did they fight?.wav|喧嘩の原因って何?
+dataset/Lda146_Has it been this way, and I just didn’t notice?.wav|それとも以前は気がつかなかっただけ?
+dataset/Lda146_Is it because I’ve become ordinary?.wav|私が普通になったから?
+dataset/Lda145_They usually get along so well..wav|あんなに仲が良かったのに
+dataset/Lda147_I don’t want to do this anymore..wav|もうこんなの嫌だ
+dataset/Lda140_I don't want to make friends with anyone other than Misato-chan..wav|でもみさとちゃん以外に友達を作る気になんかならない
+dataset/Lda147_I have no freedom..wav|私には自由なんてないんだ
+dataset/Lda147_I’m a patient that always has to be looked after..wav|みんなに看護される患者なんだ
+dataset/Lda147_I have to go see Touko-san again tomorrow..wav|明日も東子さんのところに行かなくちゃならない
+dataset/Lda147_I’m a patient..wav|私は所詮
+dataset/Lda147_I’ve been missing school again lately..wav|この頃また学校に行かない日が続いてるし
+dataset/Lda147_I don’t want to..wav|嫌だ
+dataset/Lda147_She said no..wav|反対された
+dataset/Lda147_She said that I’m okay now, but that she doesn’t know if I will get worse again..wav|別に今は大丈夫でも、またいつなるかわかんないからって。
+dataset/Lda148_What is the meaning of my existence?.wav|私がいる意味って何なんだろう
+dataset/Lda149_I want to disappear..wav|消えちゃいたい
+dataset/Lda147_Today I told Mom that I wanted to quit counseling..wav|今日お母さんにカウンセリングをやめたいって言ったらいいのに
+dataset/Lda146_Why do people around me become this way?.wav|私の周りの人って、なんでこうなるんだろう?
+dataset/Lda149_I want to move to another school, too..wav|私も転校したい
+dataset/Lda149_I used to think that I would never feel badly facing Kyoko-chan again, but I became the person I used to be as soon as I saw her..wav|京子ちゃんの前に立つまでは絶対昔のようにならないって思っていたけど いざ目の前にしてみるとあっさり昔の私に戻った
+dataset/Lda149_I was placed in the same class as Kyoko-chan..wav|2年になったクラス替えで、 京子ちゃんと一緒のクラスになった。
+dataset/Lda147_I didn’t want to face it, but Mom is right..wav|納得したくないけどお母さんの言う通りだった
+dataset/Lda149_It can’t be helped..wav|仕方がないよね、本当のことだもの
+dataset/Lda149_I’m sure she talks about me a lot..wav|きっと私のこといろいろ話しちゃうんだろうな
+dataset/Lda149_It’s true that I’m the depressing, strange kid who misses school..wav|暗くて学校サボってばかりいる 変な奴だもの
+dataset/Lda149_Today I think I felt the way a person feels when she wants to die..wav|今日死にたくなる時ってこんな時なんだろうって思った
+dataset/Lda150_It’s depressing..wav|暗いよね
+dataset/Lda149_Kyoko-chan walked past me as if I wasn’t there and started talking to other kids..wav|京子ちゃんは何もなかったかのように私の横を通って他の子と話していたけど
+dataset/Lda150_I’ve been going to the library alone to read books..wav|一人で図書室に通って本ばっかり読んでいる。
+dataset/Lda150_I have to distract myself with books..wav|せめて本でも読んで気を紛らわさないと
+dataset/Lda151_Aren’t I the one at fault?.wav|悪いのは私なんでしょ?
+dataset/Lda151_Dad got worried and came to check in on me..wav|でもお父さんは心配して部屋まで追いかけてきてくれた。
+dataset/Lda150_But its better than spending free time at school alone..wav|でも休み時間に一人で何もしないでいるのって辛すぎる
+dataset/Lda151_Dad saw me crying and apologized to me..wav|お父さんは泣いている私を見て、謝っていた。
+dataset/Lda151_I felt so miserable that I couldn’t be around it..wav|あまりにも悲しくてそこにいることができなくなって
+dataset/Lda151_I ran away to my room..wav|飛び出してしまった
+dataset/Lda151_I’m sorry, Dad..wav|ごめんなさいお父さん
+dataset/Lda151_I’m the one that should apologize..wav|謝らなくちゃいけないのは私なのに
+dataset/Lda151_It was about me..wav|私のことで揉めている
+dataset/Lda151_Why did he apologize?.wav|なんでお父さんが謝るの?
+dataset/Lda151_Mom and Dad had another fight..wav|お父さんとお母さんがまた喧嘩をしている
+dataset/Lda153_All I remember is walking toward school..wav|でも学校に行く途中のことしか思い出せない
+dataset/Lda153_I can see hallucinations in my dreams again..wav|また夢で幻覚が見える
+dataset/Lda153_Did I fall?.wav|倒れたの?
+dataset/Lda153_I asked Mom, but she didn’t say anything..wav|お母さんに聞いても何も答えてくれない
+dataset/Lda153_I have to see Touko-san..wav|トウコさんに見てもらわなきゃ
+dataset/Lda153_I thought I went to school as usual..wav|いつもと同じように学校に行ったつもりだったのに
+dataset/Lda153_I hear all sorts of voices..wav|いろんな声が聞こえる
+dataset/Lda153_I wonder what I did..wav|私は何をしたんだろう
+dataset/Lda152_Am I the one at fault? What about me is wrong?.wav|本当に私が悪いの? 私の悪いところを教えて
+dataset/Lda153_I’m going crazy..wav|もう気が変になりそう
+dataset/Lda153_There’s something wrong with me..wav|私は変なんだ
+dataset/Lda153_What happened?.wav|何が起こったの?
+dataset/Lda153_I feel like something awful has happened..wav|なんか血なまぐさい匂いがする
+dataset/Lda153_When I came to, I was on top of the bed..wav|気がついたらベッドの上だった
+dataset/Lda154_Everything is mixed with everything else and I can’t tell what from what..wav|いろんなことが混乱して、制御できない
+dataset/Lda154_I thought I was better..wav|もう大丈夫だって思っていたのに
+dataset/Lda154_I wonder what happened..wav|何があったんだろう
+dataset/Lda154_There’s a white mist inside my head..wav|頭の中がスパークしたように白いもやがかかっている。
+dataset/Lda154_Why don’t I remember anything?.wav|なぜ何も覚えていないの?
+dataset/Lda155_As he tells me that everything will be fine..wav|大丈夫だよって
+dataset/Lda155_Can't I live an ordinary life anymore?.wav|もう私は普通に生きられないの?
+dataset/Lda155_Doesn’t Dad like me anymore?.wav|私はお父さんに嫌われちゃったの?
+dataset/Lda155_Dad won’t come home and Mom looks worn out..wav|お父さんはずーっと帰ってこないし、お母さんは疲れた顔をしている。
+dataset/Lda155_Doesn’t he want to see me anymore?.wav|お父さんは私に会いたくないの?
+dataset/Lda155_I can see them whether I’m asleep or not..wav|寝ても寝てなくても見える
+dataset/Lda155_I can’t believe it myself..wav|自分が自分で信じられない?
+dataset/Lda153_I’m not cured after all..wav|やっぱり治ってない
+dataset/Lda155_I feel that I’ve been rejected by everyone, and I’m sad..wav|みんなから拒絶されたみたいで寂しい
+dataset/Lda155_I fell asleep weeping, and saw hallucinations again..wav|泣き疲れていつの間にか眠ってしまったら、また幻覚が見えた。
+dataset/Lda155_I thought that I ought to feel glad that I won’t have to go to school, but I’m sad..wav|もう学校に行かなくてもいいんだから嬉しいはずなのに 寂しい
+dataset/Lda155_I want someone to prove to me that I am the person that I know I am..wav|私が自分の知っている私であること、誰か証明してほしい。
+dataset/Lda155_I don’t understand it..wav|わからない
+dataset/Lda155_I want to see Dad and hug him..wav|会って抱きしめてもらいたい
+dataset/Lda155_I want to see Dad..wav|お父さんに会いたいよ
+dataset/Lda155_I want to see him..wav|お父さんに会いたい
+dataset/Lda155_It’s scary..wav|怖い
+dataset/Lda155_I’ve genuinely been separated from society..wav|本当に社会から隔絶されたんだ
+dataset/Lda155_Why won’t Dad come home?.wav|どうしてお父さんは帰ってこないの?
+dataset/Lda155_Mom said that she went to my school to ask for a leave of absence..wav|お母さんが学校に給学届を出したって言っていた。
+dataset/Lda157_I hate being alone..wav|ひとりぼっちはいや
+dataset/Lda156_Will everyone I love become unhappy? Will they become unhappy because I feel love for them?.wav|レインの愛する人はみんな不幸になる? 私が好きだって思うから?
+dataset/Lda157_Dad bought me this computer, though, so I want to study hard with it..wav|でもお父さんが私に買ってくれたPCだもの。一生懸命勉強してるよ。
+dataset/Lda157_I’ll be a good kid..wav|いい子にしてるから一人…
+dataset/Lda157_I start to feel sick looking at the computer screen all day..wav|毎日ブランカーに向かっていると気が変になる
+dataset/Lda157_Please don’t leave me alone..wav|無理にしないで
+dataset/Lda157_Lately, I’ve been taking correspondence courses and surfing the Net day and night..wav|最近、通信教育とネットに明け暮れている。
+dataset/Lda157_Someone help me..wav|誰か助けて
+dataset/Lda157_Mom left the house with the keys so that I can’t leave..wav|でもお母さんが鍵を持って行っちゃって、私は家から出ることもできない。
+dataset/Lda158_I can’t use the phone because I have no one to call, but I can connect with the Net right away..wav|電話はかける相手がいなくちゃかけられないけど、ネットなら繋がるだけでいいんだもの。
+dataset/Lda158_I can connect with someone that I don’t even see..wav|そう、顔のない誰かと繋がれるの
+dataset/Lda159_I can go see Touko-san on my own..wav|ちゃんと一人でトウコさんの所に行けるのに
+dataset/Lda159_Even when I go to see Touko-san, Mom drives me now..wav|トウコさんのところに行く時も、お母さんに車で連れて行かれるようになった。
+dataset/Lda159_I don’t care anymore..wav|もうどうだっていい
+dataset/Lda158_My only way to communicate with the outside world is through the Net..wav|ここから繋がれるのはネットだけ
+dataset/Lda159_I don’t care what Touko-san thinks of me now..wav|トウコさんにどう思われても、もうどうでもいいんだ。
+dataset/Lda159_It’s like she’s guarding me, and I hate it..wav|まるでお母さんに監視されてるみたいで嫌だ
+dataset/Lda160_Am I Mom’s kid?.wav|私はお母さんから生まれたの?
+dataset/Lda159_I remember talking to her a lot, though I don’t remember what we were talking about..wav|気ままに話をした記憶はあるけど、何を話したかあんまり覚えてない。
+dataset/Lda160_Could I be someone else’s kid?.wav|ひょっとして、ほんとは他の人の子なの?
+dataset/Lda159_I wonder what Touko-san really thinks of me..wav|トウコさんは私のこと、本当はどう思ってるんだろう?
+dataset/Lda159_I’m crazy anyway, so take down all the weird data you can about me..wav|どうせ私はおかしいんだから、うんとおかしいデータを取ってよ。
+dataset/Lda160_My hair color is different from hers, and her face doesn’t look like mine..wav|髪の色も違うし、顔だってそんなに似てないもの
+dataset/Lda161_He had an e-mail address, but he hasn’t used it for a year or so..wav|アドレスはあるのに、ここ1年近く何もしてない。
+dataset/Lda161_He was dead..wav|だけど死んでた
+dataset/Lda161_Maybe he took a break from the Net like I did..wav|私と同じようにネットから離れたのかな?
+dataset/Lda161_Cracking isn't interesting to me. After all, company information or state secrets have no use for me and such things don't appeal to me at all..wav|クラッキングしても面白くない。 だいたい私が企業情報とか国家機密を知ったところで、 何にも役に立たないし興味もない。
+dataset/Lda163_Dad hugged me on the day he left..wav|最後の日にお父さんが私を優しく抱きしめた。
+dataset/Lda162_Is my own physical appearance an illusion or an ordinary phenomenon?.wav|自分の姿なんて幻想? それともただの幻想?
+dataset/Lda163_He was warm and gentle..wav|あなたがいらっしゃって嬉しかった
+dataset/Lda163_I don’t want Dad to leave..wav|お父さんと別れるのは辛い
+dataset/Lda163_I hurt Mom and Dad..wav|お父さんとお母さんを傷つけてしまったんだよね
+dataset/Lda163_I was happy to have him hug me..wav|あったかくてやさしいお父さんの胸に抱かれている。
+dataset/Lda161_I found Mr. Rabbit on the Net..wav|ネットでウサギさんを探し当てた
+dataset/Lda163_I won’t see him for a while..wav|もうしばらく会えないんだよね
+dataset/Lda163_I’m a bad kid..wav|悪い子だね私
+dataset/Lda161_The last log he left was when I stopped accessing the net..wav|ログがあったのは私が前に通信した時まで
+dataset/Lda163_I’m the cause..wav|原因は私なのに
+dataset/Lda161_What I want is to find the image of the real me..wav|欲しいのは私自身の本当の姿
+dataset/Lda163_I’m the one at fault..wav|悪いのは私なのに
+dataset/Lda163_Mom and Dad divorced..wav|お父さんとお母さんが離婚した
+dataset/Lda164_Dad....wav|お父さん
+dataset/Lda163_Will he hug me again?.wav|もう抱きしめてもらえないのかな?
+dataset/Lda165_I enjoy watching the weeds grow..wav|私も雑草が伸びていくのがちょっと楽しくて
+dataset/Lda165_I share this big house with Mom now..wav|広い家でお母さんと2人
+dataset/Lda165_I want to see Dad..wav|お父さんに会いたい
+dataset/Lda165_I watch them everyday..wav|毎日縁側で眺めている
+dataset/Lda165_It’s like a haunted place..wav|まるで幽霊屋敷みたい
+dataset/Lda165_Mom doesn’t say anything..wav|お母さんも何も言わない。
+dataset/Lda165_The swing outside that I used to play on as a little kid is now covered with weeds..wav|ちっちゃな頃遊んでいたブランコも雑草に囲まれて風に揺れている
+dataset/Lda163_I’m okay with being Dad’s daughter..wav|でも、私はお父さんの娘でいいんだよね
+dataset/Lda166_Only the weeds look lively. Did the swing die?.wav|雑草だけが生き生きしている ブランコは死んじゃったの?
+dataset/Lda163_I’m sure I’ll see him again..wav|絶対また会えるよね
+dataset/Lda165_The weeds are growing outside because Dad used to pull them, but he’s no longer here..wav|今まではお父さんが庭の手入れをしてたから、 お父さんがいなくなってからだんだん雑草が伸びてきた。
+dataset/Lda167_If I’m so wrong, why not kill me?.wav|そんなに私が悪いんだったら、私なんて殺しちゃえばいいのに。
+dataset/Lda167_But isn’t that my fault, too?.wav|でもそれも私のせい?
+dataset/Lda167_She was angry at the wrong person..wav|八つ当たりだ
+dataset/Lda167_She was wrong because she threw Dad away..wav|悪いのはお父さんを捨てたお母さんなのに
+dataset/Lda167_If you had killed me, you wouldn’t have had to divorce, would you?.wav|そうすれば離婚なんてしなくて済んだんでしょ?
+dataset/Lda168_Do people go nuts when they drink?.wav|お酒を飲むとこうなっちゃうの?
+dataset/Lda167_You’d rather not have me here, right?.wav|私はいない方がいいんでしょ
+dataset/Lda168_I don’t like it..wav|私は嫌
+dataset/Lda167_Mom got drunk and threw a vase at me..wav|お母さんがお酒を飲んで酔っ払って私に花瓶を投げつけた
+dataset/Lda168_Touko-san said that she drinks, too..wav|東子さんもお酒を飲むって言ってたけど
+dataset/Lda169_I didn’t understand the ant’s feelings..wav|でもアリの気持ちはわからなかった
+dataset/Lda169_There’s something wrong with me..wav|やっぱり私おかしいよね
+dataset/Lda169_I found as many ants as I could and tossed them into the doodlebug nest..wav|私はアリを見つけては捕まえて、アリ地獄の中に落としていった。
+dataset/Lda169_Today I found a doodlebug nest in the yard..wav|今日、庭で有地獄の巣を見つけた。
+dataset/Lda169_I watched the ants get pulled into the nest by their legs and get eaten..wav|アリが巣に滑り落ちていて、もがいていると、 砂の中から一瞬にした足を引っ張られるように、 アリが食べられてしまった。
+dataset/Lda169_Why else would I be so cruel?.wav|なんて残酷なことしてるんだろう
+dataset/Lda169_What does an ant think in the moment that it is being eaten?.wav|アリは食べられる瞬間何を考えているのかな?
+dataset/Lda171_But there are women who send in these things voluntarily, too..wav|でも自分で勝手に写真をネットにアップしている人もいるし
+dataset/Lda170_If I am an ant, who is the doodlebug? Is it this house? Is it the hallucinations? Is it me?.wav|私がアリだとしたら、アリチコクは誰? この家?幻覚?私自身?
+dataset/Lda171_I went to an adult site..wav|アダルトサイトを見ているときは
+dataset/Lda171_I can see that the man would enjoy this, but the women... I guess they’re doing this because it’s their job..wav|男の人が喜ぶのはわかるけど、こうして映っている女の人はお仕事だからやっているのかな?
+dataset/Lda171_It was lots of photos of women in embarrassing poses..wav|女の人が恥ずかしい格好で写真に写っているだけ
+dataset/Lda171_It was ridiculous..wav|バカバカしくなった
+dataset/Lda145_Mom threw things at Dad and screamed..wav|お母さんもお父さんに近くにあったものを投げつけたり喚いたりしていた。
+dataset/Lda172_I wonder if I have wishes to do these sorts of things myself..wav|私の中にもそんなことしたいって願望があるのかな
+dataset/Lda171_What’s so great about sending in embarrassing photos of yourself?.wav|自分の恥ずかしい写真を見せることで何が得られるんだろう
+dataset/Lda173_I checked out my own diagnosis on a news group, but only found some boring, unsatisfying answers..wav|試しに私のケースをアップして討論させたけど、結局つまんない回答ばかり。
+dataset/Lda173_I wonder if Touko-san is a part of this news group..wav|ひょっとして東子さんもこのニュースグループに参加していたり?
+dataset/Lda173_I wonder if psychiatry isn’t a groundless science..wav|精神病理学っていい加減なのかな?
+dataset/Lda172_It’s creepy to know that there are a lot of people who watch these kinds of sites and enjoy them..wav|でもこんなサイトを見て楽しんでいる人がたくさんいるのかと思うと嫌になる
+dataset/Lda173_I’ll find some of her research there..wav|きっとトウコさんの研究もあるはずだし
+dataset/Lda172_Mom and Dad had to do this kind of thing for me to be born, and someday I’ll have to do this if I want children..wav|お母さんとお父さんがそういうことをして私は生まれてきたんだし、いつか私もそうして私の子供を産むのかな。
+dataset/Lda173_I’m curious to see how she’s using me in her research..wav|私のことどう研究しているか興味があるもの
+dataset/Lda173_Why don’t I access Touko-san’s research center?.wav|そうだ、トウコさんの研究所にアクセスしよう。
+dataset/Lda174_I haven’t done any ‘cracking’ in a while..wav|久しぶりにクラッキングしがいがあるかな
+dataset/Lda175_But I can’t see the actual data..wav|データが見えない
+dataset/Lda174_I’m going to check out Touko-san’s research center’s address..wav|トウコさんの研究室の端末のアドレス調べておこう
+dataset/Lda173_There seem to be all sorts of treatments and theories, but in the end, psychiatry doesn’t seem to cure..wav|いろんな学説や治療法があっても結局治んないんじゃないかな
+dataset/Lda175_It isn’t as if it’s in encrypted language..wav|暗号化されているわけでもないし
+dataset/Lda175_Data about the patients Touko-san is overseeing was available, but it wasn’t really data—just file names without information..wav|患者のデータでトウコさんの受け持ちのクランケのデータはあるのに? ファイル名だけしかなくてデータがない
+dataset/Lda175_Information about me shouldn’t be any more important than information of other patients..wav|私の情報が他のクランケンに比較して重要なわけなんかないのに
+dataset/Lda175_I could access her research center..wav|研究室まで入れるのに
+dataset/Lda175_I’ve been trying since two days ago until today, but I still can’t get in..wav|一昨日から今朝までかかったけど、どうしても入れなかった。
+dataset/Lda175_What’s going on?.wav|どういうこと?
+dataset/Lda175_The only information I can’t find is information about me..wav|私だけがいない
+dataset/Lda175_Why?.wav|なんで?
+dataset/Lda177_Auditory data?.wav|それとも音声データ?
+dataset/Lda177_Could it be a diary?.wav|2期かな?
+dataset/Lda175_When I checked the file reports, I could see that everything was communicated correctly..wav|ファイル情報を見てみると確実に更新されているのに
+dataset/Lda177_Could it be visual data?.wav|画像データ?
+dataset/Lda176_Am I an exception? I just want to find information about me..wav|私は特別なの? 私の情報だけが欲しいのに
+dataset/Lda177_I asked Touko-san what she writes about me in her research reports..wav|トウコさんに私の研究レポートってどう書いているのか聞いてみた
+dataset/Lda177_I also noticed some writing that seemed to have daily entries in it..wav|それから毎日更新されている文書があったから
+dataset/Lda177_I couldn't find that data in her ‘host’ page..wav|でも、ホストにそのデータはない。
+dataset/Lda177_I don’t think Touko-san knows much about machines and computers..wav|それにトウコさんは機械のことあんまり詳しくなさそうだし
+dataset/Lda177_I could see that she sends information about me to the research room, and that she sends a lot of it..wav|確かに研究室にデータを送っているんだけど、送信している量が異常に大きい。
+dataset/Lda177_I thought that I now knew the research data Touko-san keeps about me, and that I knew what she does with it..wav|これでトウコさんの私の研究データがどこに移動してあるのかわかるかなって思ったら
+dataset/Lda177_She didn't give me a clear answer..wav|なんだかはっきりしない答えが返ってきた
+dataset/Lda177_I went to see Touko-san alone because Mom was sleeping in..wav|お母さんは昨日から寝込んでいたから 遠子さんのところに一人で出かけた
+dataset/Lda177_I feel bad because I think I’m tricking Touko-san, but on the other hand, I feel good..wav|まるでトウコさんを騙してるようで心が痛むけど でもなんだか気持ちいい
+dataset/Lda177_I’ll try to access her site then..wav|その瞬間にアクセスしてみよう
+dataset/Lda177_Touko-san tends to transmit her data late at night..wav|データを転送している時間が大体いつも深夜なので
+dataset/Lda177_She has a very big file about me that would take a long time to download, so I don’t think she’ll find out if I accessed it..wav|これだけ大きなファイルだったら相当時間がかかるから、こっちからアクセスしてもバレないだろうし。
+dataset/Lda178_I can see that she thinks of petty things, too..wav|やっぱり偉そうにしててもこんなこと考えてるんだ
+dataset/Lda177_While Touko-san left the room for a while, I took copies of some pages from her notebook..wav|トウコさんが席を外した時に、 トウコさんのノートブックから、 プレファレンスをコピーした。
+dataset/Lda178_I don’t think I left any ‘foot prints.’.wav|でも足跡残ってないから大丈夫かな
+dataset/Lda178_I found Touko-san’s diary..wav|とうこさんの日記を手に入れた。
+dataset/Lda178_I felt like adding some of my own notes, but decided not to..wav|書き加えておこうかななんて思ったけど、やめておいてよかった。
+dataset/Lda178_It’s wrong to read other people’s diaries, but it’s fun..wav|人の日記を読むのは いけないことだけど楽しい
+dataset/Lda178_I’m disappointed..wav|ちょっとがっかりした
+dataset/Lda178_I’m finding out that she’s just another human being..wav|トウコさんもただの女なんだって
+dataset/Lda178_I’m understanding Touko-san better now..wav|だんだんトウコさんが見えてきた。
+dataset/Lda179_But Touko-san is wrong, too..wav|でも、トウコさんも行けないんだよ
+dataset/Lda178_Was my report this simple?.wav|それにしても私のレポートってこんなに簡単だったの?
+dataset/Lda179_I wonder how Touko-san would react if she finds out that I’ve been reading her diary..wav|トウコさん、私がトウコさんの日記を読んだって知ったら、どんな顔するだろう?
+dataset/Lda179_It gets me excited because I’m a bad girl..wav|少しワクワクする。私は悪い子だから。
+dataset/Lda180_Dad’s been away for a long time and I haven’t heard from him..wav|お父さんがいなくなってずいぶん経つのに連絡も来ない
+dataset/Lda180_I want to see him..wav|会いたい。
+dataset/Lda180_Has he forgotten about me?.wav|もうレインのことなんか忘れちゃったのかな
+dataset/Lda180_I want to be with Dad forever..wav|お父さんとずっと一緒にいたい
+dataset/Lda181_Do you really want to see Dad?.wav|本当にお父さんに会いたいの?
+dataset/Lda181_He was tall, he wore glasses, and he had gentle-looking eyes..wav|大きくて、眼鏡をかけていて、優しそうな目をしていて。
+dataset/Lda181_I can’t remember Dad much anymore..wav|なんだかお父さんがよく思い出せなくなっちゃった
+dataset/Lda181_What kind of person was Dad?.wav|お父さんってどんな人だったの?
+dataset/Lda178_Most of what she writes is about men..wav|くだらない 男の人のことばっかり書いてある
+dataset/Lda182_I got some free AI software that lets me replicate voices and images..wav|フリーウェアのAIソフトにビデオからのサンプリングした声を元に
+dataset/Lda182_I played around with it, and was able to create voices and images on the computer that look and sound like Dad..wav|トーキングエンジンを改良してお父さんの口癖を入れ、音声発声できるようにした。 ひたすらセリフを入力したら、結構話せるようになった。
+dataset/Lda182_I think this is all goofy, but it makes me happy..wav|なんだか自分でもバカバカしいなと思うけど 嬉しい
+dataset/Lda123_If she’s troubled about something, I wish she would talk to me, even though I probably can't help..wav|困ったことがあるなら私に何でも言ってほしいな 頼りないかもしれないけど
+dataset/Lda182_I programmed it to say several expressions, like "hi, Lain, how are you doing?" The voice is very robotic..wav|キーワードごとに乱数をつけてオートリンクしたら、ちょっと不思議な感じ。 ロボットみたいな声で レイン楽しいかい? なんて話しかけてくる。
+dataset/Lda184_Dad is studying the Net now, so he’ll know more dirty words than me..wav|ネットで勉強させているから、エッチな言葉は私よりも詳しい。
+dataset/Lda182_I think I’ll add some more features to it..wav|今度は思考ルーティンをつけてあげよう
+dataset/Lda123_It’s amazing because Misato-chan is still in 7th grade..wav|七年生から選ばれるなんてすごい
+dataset/Lda183_It’s weird for a daughter to grow her father, but it makes me feel that Dad is nearby and that makes me happy..wav|娘がお父さんを育てるなんてなんだかおかしいよね でもお父さんがそばにいるみたいで少し嬉しい
+dataset/Lda184_Do difficult kanji suit him well?.wav|ちょっと固い感じがお父さんっぽい?
+dataset/Lda184_I gave Dad a Japanese signature..wav|お父さんに日本語辞書をつけた。
+dataset/Lda184_I guess there are limitations..wav|やっぱりありものの素材じゃ限界がある
+dataset/Lda184_You’re a dirty old man, Dad!.wav|お父さんのエッチ
+dataset/Lda185_Can you see me?.wav|レインはちゃんと見える?
+dataset/Lda184_Just a voice with a text is boring, so I set up the computer so that I can see an image of Dad and have him talk..wav|音声とテキストだけじゃ寂しいんで、ビデオからキャプチャーしてお父さんが画面で喋るようにした。
+dataset/Lda185_Dad has eyes now..wav|お父さんに目ができたんだね
+dataset/Lda184_I programmed the routing devices so that Dad can communicate with the Net and receive feedback..wav|思考ルーティンは進化できるようにプログラムしてあるから、ネットで学習させてフィードバックしている。
+dataset/Lda185_It can recognize general and representative shapes visually through the screen..wav|画像認識で大まかな形や代表的な形のものは認識できるようになった。
+dataset/Lda185_Dad’s file size has gotten huge, so I’ve had to break down the information..wav|ファイルサイズが巨大になったので、RANで分散型にした。
+dataset/Lda186_I bet she’ll be surprised..wav|びっくりするかな
+dataset/Lda186_Are you happy, Dad?.wav|お父さんも嬉しい?
+dataset/Lda186_But I won’t show Mom until Dad looks more like Dad..wav|でも、もっとお父さんらしく作ってから見せよ
+dataset/Lda186_I should show Mom..wav|お母さんに見せたらびっくりした
+dataset/Lda186_I’ll have him scold her for drinking..wav|お母さんがお酒を飲まないように叱ってもらおうかな
+dataset/Lda186_Now I’ll always be with him..wav|これでいつも一緒にいられるね
+dataset/Lda186_I’m breathing Dad’s life into the computer Dad gave me..wav|お父さんが買ってくれたPCにお父さんの命を吹き込んであげる
+dataset/Lda123_Misato-chan doesn’t seem too happy, though..wav|でも、やっぱりみさとちゃんはあんまり楽しくなさそう。
+dataset/Lda186_I got low on buffer and the computer froze sometimes after bringing him to life, but it seems more and more that he is alive now, and I am happy..wav|再生時にバッファが足りなくなって時々フリーズするけど、だんだん生きてるような雰囲気になってきて嬉しい。
+dataset/Lda186_Oh!.wav|そうだ
+dataset/Lda186_This PC is Dad..wav|このPCはお父さんなんだ
+dataset/Lda187_I think the prototype was more like Dad..wav|なんだかプロトタイプの方がお父さんらしかったかな
+dataset/Lda186_I decided to make a model of Dad with 3-D rendering..wav|やっぱり3Dレンダリングしてお父さんのモデルを作ることにした
+dataset/Lda187_I’m finding limitations, though..wav|でもやっぱり所詮CGだと限界かな
+dataset/Lda188_But I love Dad, too..wav|でも、レインはお父さんのことも好きだから。
+dataset/Lda187_I increased the amount of the rendering engine’s memory to 12 Gigs and optimized the signal pathways..wav|レンダリングエンジンのメモリーも12ギガに増やして、バスをほとんど通過しないで演算できるようにした。
+dataset/Lda187_The more I try to work into him, the slower he becomes..wav|作り込めば作り込むだけ嘘っぽくなる
+dataset/Lda188_I love you..wav|メインはお母さんのこと大好きだよ
+dataset/Lda187_In order to raise the speed of the 3-D rendering, I routed more energy to the CPU..wav|3Dモデラーのレンタリングの速度を上げるために、CPUをマルチプロセッサーからさらに4機増設した。
+dataset/Lda188_I want to see Dad..wav|お父さんに会いたいだけ
+dataset/Lda188_I should have thought more about Mom’s feelings..wav|お母さんの気持ちをもう少し考えればよかったかな
+dataset/Lda188_I showed Dad to Mom today..wav|今日お母さんにお父さんを見せてあげた
+dataset/Lda188_Maybe she thinks I made him to offend her..wav|私が嫌味で作ったと思ったのかもしれない
+dataset/Lda188_I’m sorry, Mom..wav|ごめんなさい、お母さん。
+dataset/Lda188_She was horrified..wav|すごい怖い顔してます
+dataset/Lda188_She looked at me and left the room without saying a word..wav|私を見て何も言わずに部屋から出て行った
+dataset/Lda188_Do you dislike Dad, Mom?.wav|でもお母さんはお父さんのこと嫌いなの?
+dataset/Lda189_I might be able to make the kind of robots he’s working on at the level where I am now..wav|今の私のレベルでもそれなりのものができるかもしれない
+dataset/Lda189_I might be able to take Dad out of the computer screen now..wav|これでお父さんをブラウン管から出してあげられるかも
+dataset/Lda189_I talked to a student at the Massachusetts Institute of Technology factory who is studying robots..wav|MITのファクトリーでロボットの研究をしている学生と話をした。
+dataset/Lda189_I’ll be able to feel him again..wav|お父さんをもっと感じることができる
+dataset/Lda190_Do any of you have that?.wav|誰か持ってない?
+dataset/Lda189_I’ll be able to hug Dad again the way I used to..wav|そうしたら昔みたいにお父さんに抱きしめてもらえる
+dataset/Lda189_There’s a ton of data, though, and there’ll have to be cables everywhere..wav|と言っても、データが巨大すぎるんでケーブル付きになっちゃうかもしれないけど
+dataset/Lda191_I wonder what they would think if they met me..wav|でも、私に会ったらどんな顔するかな?
+dataset/Lda190_I want an accelerator that will work in conjunction with protocol 7..wav|プロトコル7対応のアクセラレーターが欲しい
+dataset/Lda191_I’m just interested in Dad..wav|今はお父さんのことだけ
+dataset/Lda191_I’m not interested in that stuff anymore..wav|もうそんなことにも興味はないわ
+dataset/Lda190_I’ll ask someone who is a friend of Mr. Tachibana..wav|たちばなの研究所の友達に聞いてみよう
+dataset/Lda191_People operate around money..wav|お金に弱いんだねみんな
+dataset/Lda191_They aren’t willing to give away their technological secrets to strangers too willingly..wav|その方が私は助かるけど 起用秘密をそんなに簡単に知らない人に渡してしまうなんて
+dataset/Lda192_In order to control the electricity, I’ll need to buy batteries and lots of cables..wav|電圧を確保するのにバッテリーも必要だし、ケーブルもいっぱい買わなくっちゃ
+dataset/Lda192_It won’t be a problem because I won’t be spending money, though..wav|人工の筋肉も驚くほど高い と言ってもお金を実際払うわけでもないからいいんだけど
+dataset/Lda192_I’ll make his upper body first..wav|とりあえず上半身を作ろう
+dataset/Lda193_I held onto him like a little baby..wav|お父さんの胸にしがみついた
+dataset/Lda193_I put an electrical generator in Dad’s chest so he can start supporting himself..wav|胸の中に発電機を入れてお父さんが自活できるようにした。
+dataset/Lda192_It’ll take a lot of work to make his head..wav|やっぱり頭作るのに苦労しそう
+dataset/Lda192_Making artificial organs is very expensive..wav|人工の関節ってすごく高い
+dataset/Lda193_I was feeling tired, so I gave him a hug..wav|ちょっと疲れたから甘えてみた。まるで赤ん坊のように。
+dataset/Lda193_I’ve placed motors in him so he can start moving around little by little..wav|ゆっくりでも動かせるように各関節にモーターをつけてあるから
+dataset/Lda194_I had Dad touch me all over my body..wav|お父さんの手で私の体を隅々まで触ってもらう
+dataset/Lda193_The electricity heats him up, so he’s warm and gentle, just like my real Dad..wav|発熱がすごくて本物のお父さんみたいに優しくて温かい
+dataset/Lda195_I don’t know..wav|わからない。
+dataset/Lda194_I’ve never done this with my real Dad..wav|本当のお父さんとはこんなことしてないのに
+dataset/Lda195_I don’t know if it was because I felt like Dad was holding me or because I was imagining someone else..wav|お父さんに抱かれているからなのか、それとも違う人を想像しているのか。
+dataset/Lda195_I felt warm inside and was excited..wav|体の奥が熱くなんて、自分が興奮しているのがわかった。
+dataset/Lda195_Is this what I wanted my real Dad to do with me?.wav|本当はお父さんにこうしてもらいたかったのかな
+dataset/Lda194_It’s a bit embarrassing, but when I’m holding onto the warm chest of a man, there is something that makes me feels very good..wav|男の人の熱い胸に肌を重ねていると照れくさいけどでも心のどこかですごく気持ちいいって感じている
+dataset/Lda195_I just wanted someone to protect me..wav|ただ私を守ってくれる人が欲しかっただけなのかも
+dataset/Lda195_This feels good, though..wav|でも、こうしていると気持ちがいい
+dataset/Lda195_When I was being held, I felt like a real man was holding me..wav|抱かれて声を聞いていると、本当に男の人に抱かれている気がしてきた。
+dataset/Lda197_Even if I had the money, no one will sell a house to a child..wav|お金はあっても子供が家を買うなんてできないし
+dataset/Lda197_I’ll just have to find an empty house somewhere..wav|やっぱり秋夜を探すしかない
+dataset/Lda197_I hate to separate from him when I’ve really just met him, but how will I buy a house?.wav|せっかく会えたのにまた別居なんて悲しいけど、どこに家を買う?
+dataset/Lda197_I don’t want to sadden Mom again..wav|またお母さんを悲しませるのは嫌だし
+dataset/Lda196_There is something wrong with me. I have no business criticizing Touko-san..wav|私ってやっぱり異常なんだ。 トウコさんのことなんて批判する資格なんてない。
+dataset/Lda197_I have to find house where Dad can live..wav|お父さんの住む家をどこかに見つけなきゃ
+dataset/Lda197_I’ve finished Dad’s arms and abdomen..wav|お父さんは両腕と胴体まで完成
+dataset/Lda198_How about the electricity and the cords?.wav|電源と専用線は?
+dataset/Lda197_I wanted to add his pelvis, but I ran out of space for him in my room..wav|腰までつけたかったけど、さすがに大きくなって部屋に置いておけなくなった。
+dataset/Lda198_I found a good place to take Dad..wav|閉鎖された工場でいいところが見つかった
+dataset/Lda198_How will I do it?.wav|どうやって運ぼう?
+dataset/Lda198_It won’t work..wav|ダメだ
+dataset/Lda198_If I take everything, though, it will be very heavy..wav|でもホストまで含めると相当重たいし
+dataset/Lda198_I’ll need help..wav|誰かを代理人に立てて工事をさせなくっちゃ
+dataset/Lda198_I’ll take Dad there tomorrow..wav|明日にでもお父さんをそこに移そう
+dataset/Lda199_I decided to keep an eye on his actions for a while..wav|しばらく彼の行動を見張っておくことにしよう
+dataset/Lda198_It’s not far from home, and there aren’t many people around there..wav|家からもそんなに遠くないし、人もあんまり近寄らないみたいだし。
+dataset/Lda199_It would be dangerous for Father to be exposed..wav|お父さんを危険にさらすわけにはいかない
+dataset/Lda199_I wonder what he thought about not meeting his client directly at all..wav|一切直接会わないでいる依頼人のこと、彼はどう思っているかな?
+dataset/Lda199_Today the construction was finished and the building was handed over to me..wav|今日で工事が完了して引き渡しの日だった
+dataset/Lda200_I took Dad’s legs and arms over little by little in the meantime, so I don’t think I did so badly..wav|でもその間に腕や足のパーツを少しずつ運んだから、そんなに非効率ではなかったかな。
+dataset/Lda199_Moreover, since it was a bit of a big effort, I wonder if that made it seem all the more suspicious to him..wav|それにちょっと奮発したからなおさら怪しいと思うかな
+dataset/Lda200_Luckily, Mom got drunk and fell asleep..wav|お母さんが酔っ払って寝てくれて助かった
+dataset/Lda200_I took tape media because hard discs are heavy, but decoding them will take time..wav|ハードディスクだと重たいからテープメディアにしたのはいいけど、 デコードするのに時間がかかる。
+dataset/Lda200_It will be difficult to visit Dad from now on, though..wav|でもこれからお父さんに会いに行くときはちょっと大変かな
+dataset/Lda200_Today, I took Dad to his new home..wav|今日、いよいよお父さんを映した。
+dataset/Lda201_I can’t remove these cables..wav|どうせケーブルも外せないし
+dataset/Lda201_I put an empty artificial head on him for the time being..wav|仕方がないから空っぽの頭をつけたけど
+dataset/Lda201_I failed, but what can I do?.wav|失敗 仕方ない
+dataset/Lda198_If I carry something that large, someone is bound to notice..wav|あんなに大きいものを運んだら見つかっちゃうし
+dataset/Lda201_I wanted to attach Dad’s legs, but working on the lower body was difficult..wav|お父さんに足をつけようって思ったけど、下半身を作るのに抵抗がある。
+dataset/Lda201_He’s able to talk, but poorly, and watching the expression on his face as he tries to enunciate seems phony to me..wav|生じっかよく喋れるので、喋りの動作についてこれない顔が嘘くさくて嫌になった。
+dataset/Lda201_It’s creepy that Dad doesn’t have a head..wav|それよりも頭がないのがちょっと気持ちが悪い
+dataset/Lda201_It’s creepy..wav|なんだか気持ち悪い
+dataset/Lda201_This isn’t Dad..wav|こんなのお父さんじゃない
+dataset/Lda202_Was the only part of Dad’s body that I cared about his upper body?.wav|私がお父さんで認識していたのは上半身だけ
+dataset/Lda203_I don’t think anyone remembers me anymore..wav|もう私のことなんて誰も覚えてないよね
+dataset/Lda202_Maybe I didn’t even acknowledge his body..wav|ひょっとしてその体すらも認めてなかったのかもしれない
+dataset/Lda203_We hadn’t talked much in school, so I didn’t mind that she didn’t seem to see me..wav|あんまり喋ったこともないし、別にどうでもいいけど。
+dataset/Lda203_Today I walked past a girl I knew in 7th grade, but she didn’t seem to notice me..wav|今日、中学1年の時のクラスメイトにすれ違ったけど、向こうは私に気づかなかったみたい。
+dataset/Lda204_My uniform was at the dry cleaner’s..wav|制服もクリーニングに出したきり
+dataset/Lda203_When I saw her school uniform, I was jealous..wav|でも制服姿を見たら少し羨ましかった
+dataset/Lda204_Mom seemed sad when she went to the store to pick it up..wav|店から受け取った時のお母さんは寂しそうだったな
+dataset/Lda204_She went to the trouble of buying it for me, after all..wav|せっかく買ってくれたのに
+dataset/Lda205_I don’t have an individual personality and I don’t leave much of an impression..wav|だって私なんて個性的じゃないし印象に残らないから
+dataset/Lda205_I e-mailed a kid that used to be a classmate, and asked her about me..wav|クラスメートだった子にメールをして私のことを聞いてみた。
+dataset/Lda205_Isn’t the me that acknowledges my existence only living in this small body?.wav|結局私が私って認識されたのはこのちっちゃな体だけなのかな
+dataset/Lda205_I don’t need a connection to reality anymore, and it’s not so important to know that I’m a human being who will die unless she eats..wav|だってもう私は現実世界との接点を必要としてないし、ご飯を食べないと死んじゃう私より、おとなの方が合理的だ。
+dataset/Lda205_It’s more rational to me to have Dad..wav|お父さんは私よりも進化している?
+dataset/Lda205_Nobody remembers me..wav|私のことなんて誰も覚えてない
+dataset/Lda206_Could it be that he’s trying to see me?.wav|ひょっとして私に会おうとしてくれているのかな?
+dataset/Lda206_Dad was having some trouble..wav|お父さんにバグがあったみたい
+dataset/Lda201_I wouldn’t mind if Dad only had an upper body..wav|私のお父さんはやっぱり上半身だけで構わない
+dataset/Lda202_In my mind, Dad was always bigger than me....wav|私のイメージの中にあるのは、私より大きい何か程度のもの?
+dataset/Lda205_When I made Dad, I started to feel that my own body was pretty lame..wav|なんかお父さんを作っていると自分の体がバカバカしく感じる
+dataset/Lda205_Wouldn’t I be me if I had a thought re-routing?.wav|私が私であるのは、私の思考ルーティンがあればいいんじゃないかって。
+dataset/Lda206_I’m connected to you..wav|繋がっているよ
+dataset/Lda206_I’ll always keep an eye on you, Dad..wav|レインはいつでもお父さんをちゃんと見てるし
+dataset/Lda206_I noticed that he was starting to move around on his own..wav|部屋から監視してると勝手に動いちゃうし
+dataset/Lda209_I can’t handle this on my own..wav|やっぱり自分で許容できない
+dataset/Lda209_I don’t know who I saw..wav|相手の正体がわからない
+dataset/Lda208_Someone has accessed Dad. But who? Some prankster who found my host site?.wav|誰かがお父さんにアクセスしている。 誰? 私のホストにアクセスする、いたずら屋さん。
+dataset/Lda209_But she’s different from the person I was then..wav|でもあの頃の私とは違って多分
+dataset/Lda209_I had a hallucination for the first time in a long while..wav|久しぶりに幻覚を見た
+dataset/Lda207_Is Dad really Dad? Is he the Dad that loves me more than anyone else?.wav|お父さんは本当にお父さん? ネインのことを誰よりも大事に思ってくれるお父さん?
+dataset/Lda209_She is in elementary school..wav|もう小学生ぐらい?
+dataset/Lda209_The me in the hallucination has grown..wav|幻覚の私成長してる
+dataset/Lda209_I’ll go see Touko-san..wav|トウコさんのところに行こう
+dataset/Lda209_This is no good..wav|ダメだ
+dataset/Lda209_Was the me that I was then me?.wav|あの頃の私って私だったの?
+dataset/Lda210_I don’t know why I’m going to see her..wav|これじゃ何しに行ったんだかわからない
+dataset/Lda210_I haven’t been changing..wav|私は変わってないのに
+dataset/Lda210_Maybe Touko-san doesn’t understand me..wav|もしかして、トウコさんは私のことがわかんない?
+dataset/Lda210_She seems frightened of me..wav|なんだか私に怯えているみたい
+dataset/Lda210_Touko-san, it seems that you are beginning to not understand me..wav|トウコさん、私が分からなくなってきてるみたいだね
+dataset/Lda210_She asks, "Are you really Lain?" She just tilts her head when I bring up my medical condition..wav|何度も本当にレインって聞いてくるし、私の病状にも首をかしげてばかり。
+dataset/Lda211_And then....wav|それから?
+dataset/Lda211_I felt bad for Touko-san and wanted to help her..wav|トウコさんがかわいそうで助けたくなって
+dataset/Lda211_Even a me like that can’t remember what I talked about..wav|そういう私も何を話したのか、大して思い出せない。
+dataset/Lda212_Dad....wav|お父さん
+dataset/Lda212_But if I sleep again, I might see myself again..wav|でも、寝てしまったら、また私を見てしまうかもしれない。
+dataset/Lda212_I found data about me that I wasn’t able to see before..wav|私のデータが見える? 今まで見えてなかったのに
+dataset/Lda212_I hate this..wav|嫌だよ
+dataset/Lda209_She had conviction in her eyes..wav|石の強そうな目をしていた
+dataset/Lda212_I was concerned, so I accessed Touko-san’s notebook..wav|気になったので、トウコさんのノートブックにアクセスした。
+dataset/Lda212_It drives me crazy..wav|気が狂いそう
+dataset/Lda212_I’m getting drowsy again although I was sleeping just a moment ago..wav|また眠くなってきた さっきも寝ていたのに
+dataset/Lda212_I’m sleepy..wav|眠い
+dataset/Lda212_I don’t even want to look at them..wav|見るのも嫌だ
+dataset/Lda213_I wanted to say, "Hey, it’s been a long time!" and write him, but I couldn’t..wav|久しぶりって挨拶して金曲を書こうと思ったけど書けなかった
+dataset/Lda213_In the mail there was a letter from Mr. Rabbit..wav|メールの中にうさぎさんのメールがあった
+dataset/Lda212_These days I get unusually tired and see hallucinations..wav|この頃、妙に眠くなって必ず幻覚を見てしまう。
+dataset/Lda213_It was bright and gentle, like he was before he went away..wav|まるで消える前のような明るく優しいメールだった
+dataset/Lda214_What’s wrong with me? I’m like the me I used to be. Who am I?.wav|私、どうしたの? 昔の私みたい。誰?私って。
+dataset/Lda215_Have they turned their backs on me again?.wav|また裏切られたのかな
+dataset/Lda178_There is a periodical security check and it found out about my ‘cracking.’ But I think I’m okay..wav|セキュリティが定期的にチェックしてて、クラッキングがバレちゃった。
+dataset/Lda215_How did she find my e-mail address?.wav|一体どうして私のアドレスがわかったの?
+dataset/Lda215_I’m still waiting to hear from them..wav|電話はまだかかってこない
+dataset/Lda215_I was waiting to hear from them for such a long time..wav|ずっと私は連絡を待っていたのに
+dataset/Lda215_I wrote down their phone numbers quickly and sent them e-mails..wav|でも急いで電話番号を書いたメールを出した
+dataset/Lda215_Misato-chan and Mr. Rabbit both seem to do as they please..wav|うさぎさんとい、みさとちゃんとい、勝手だよね
+dataset/Lda215_Misato-chan’s mail came to my private, hidden site..wav|みさとちゃんのメールが私の隠れアドレスに来ていて
+dataset/Lda216_A bug was found in the mail?.wav|メーラーのバグ発見?
+dataset/Lda215_She wrote in a familiar tone as if we were still great friends..wav|まるで仲の良かった頃のような口ぶりで、突然占いの話をしている。
+dataset/Lda216_Could it be a problem with the server?.wav|もしかしてサーバーの問題?
+dataset/Lda216_The dates and times of the e-mails are fabricated..wav|作成日の年数がデタラメ
+dataset/Lda216_I’ll have to contact the server..wav|サーバー管理者にメールしなきゃ
+dataset/Lda217_A young police officer was badmouthing..wav|若い警官が過激中を言っていた
+dataset/Lda212_I have a lot of e-mails..wav|メールが何らかいっぱい届いている
+dataset/Lda217_Did she run away?.wav|家で?
+dataset/Lda217_Could she be drunk out on the street somewhere?.wav|まさか、どっかで酔っ払って倒れてしまっているのかな?
+dataset/Lda212_I went ahead and downloaded and saved the information..wav|とりあえずダウンロードして保存した
+dataset/Lda217_I protect people who are important to me..wav|私の大切な人を守るんだ
+dataset/Lda217_I felt bitter and couldn’t stop crying..wav|悔しくて涙が止まらなかった
+dataset/Lda217_He said that Mom must have "evaporated." Mom isn't that kind of person..wav|蒸発したとかって お母さんはそんな人じゃない
+dataset/Lda217_I want to tell Dad, but I have no way of contacting him..wav|お父さんに知らせたいけど連絡できない
+dataset/Lda217_How do you jerks like that?.wav|じゃなみろ
+dataset/Lda217_I called the police and asked them to investigate..wav|警察に電話して捜索を頼んだら…
+dataset/Lda217_They didn’t believe me because I’m a kid, but they came to my house to check..wav|子供だからって信用されないで、わざわざ家まで確認しに来た。
+dataset/Lda218_I answered the phone as much as I could, but I got tired, so I pulled out the plug before going to bed..wav|できるだけ出たけど限界になって、寝るときは線を外すことにした。
+dataset/Lda218_I've been getting creepy silent calls.wav|無言電話とか、嫌なことない?
+dataset/Lda218_I thought of stopping the phone, but Mom and Dad and Misato-chan won’t be able to contact me then..wav|電話を止めようと思ったけど、お母さんもお父さんもみさとちゃんも連絡が取れなくなったら困るから
+dataset/Lda218_When I wake up, I am afraid of hearing "Die, weirdo!" screamed from myself..wav|気がついたら死ね変態とか叫んでいた自分が怖い
+dataset/Lda220_I got scared..wav|怖くなって帰る
+dataset/Lda220_I don’t understand it anymore..wav|もう訳がわからない
+dataset/Lda219_Someone is trying to irritate me. Why? Why would someone do that to me?.wav|誰かが私を苛立たせようとしている。 なんで私にそんなことをするの?
+dataset/Lda217_Mom isn’t at home..wav|家にお母さんがいない
+dataset/Lda220_I know..wav|そう。
+dataset/Lda217_I was so mad I absolutely messed up the police host site..wav|あんまり悔しいんで警察のホストをめちゃくちゃにしてやった
+dataset/Lda220_I’ll hide it inside of Dad..wav|お父さんの中に隠しておこう
+dataset/Lda220_I took the gun, put it in a shopping bag, and hid it in a desk drawer..wav|買い物袋に入れて、机の引き出しの奥に隠した。
+dataset/Lda220_I’m absolutely crazy..wav|私は絶対に狂っている
+dataset/Lda220_There’s a key to the drawer, but it isn’t any good..wav|鍵があるけどこんな鍵じゃダメだ
+dataset/Lda217_Only Mom knows where he is..wav|母さんしか連絡先知らないもの
+dataset/Lda220_The smell of death and metal woke me..wav|血なま臭い匂いと鉄の匂いが目を覚ましてくれた?
+dataset/Lda220_When I awoke I was grasping a gun..wav|朝起きたら拳銃を握っていた。
+dataset/Lda221_But that’s funny..wav|でもおかしい?
+dataset/Lda217_Where did she go?.wav|どこに行っちゃったんだろう
+dataset/Lda221_At first I was happy and didn’t mind, but at this specification, there is something wrong with his speed..wav|はじめは嬉しくて気にしなかったけど、今のスペックであの速度は異常だ。
+dataset/Lda218_Either that, or I get creepy weirdo phone calls..wav|いやらしい変態電話がかかってきた
+dataset/Lda221_Did he hear me?.wav|音声認識?
+dataset/Lda221_I wonder why..wav|一体どうして?
+dataset/Lda221_How did he know that it was me?.wav|なんで私だってわかったの?
+dataset/Lda221_Is there a reason I don’t know about?.wav|私の知らない何かが原因?
+dataset/Lda221_Could he tell by the sound of my footsteps?.wav|足音の解析?
+dataset/Lda221_I’m alone..wav|一人ぼっち?
+dataset/Lda221_I didn’t think he could do that..wav|できなくて諦めたはずだったのに
+dataset/Lda222_One of my neighbors is starting rumors..wav|近所のおばさんが噂をしている
+dataset/Lda222_She laughs when I turn around..wav|私が振り向いたら笑いかけるし
+dataset/Lda222_Why is she trying to tell me about it?.wav|わざと私に聞かせようとしているの?
+dataset/Lda221_When I went to see Dad robot he hugged me..wav|お父さんに会いに行くと私を抱きしめてくれた。
+dataset/Lda223_I decided to make a copy of myself and put it on the Net..wav|私も自分のコピーをネットに作ることにした
+dataset/Lda223_For thought routing, I rebuilt a system similar to Dad’s, enhanced it, and dispersed it over the Net..wav|思考ルーティンはお父さんを改造して、同じく進化型にして、今度はネットに分散した。
+dataset/Lda222_What does she want to do to me?.wav|私に何をさせたいの?
+dataset/Lda223_I replicated my voice and appearance in detail..wav|声もサンプリングして、画像のデータも細かく作った。
+dataset/Lda224_I know that what I’m doing is meaningless..wav|こんなことが無意味なことってわかってるのに
+dataset/Lda223_Just like Dad..wav|お父さんと一緒
+dataset/Lda224_It’s almost a consolation..wav|まるで気休め
+dataset/Lda223_This way, as long as there is a Net, I’m a person who will never die..wav|これで私はネットのある限り死なない人間になった
+dataset/Lda221_Mom is missing and Dad can’t be contacted..wav|お母さんも行方不明だし、お父さんも連絡がない。
+dataset/Lda224_I’m wondering if the me in the Net will evolve in a strange way..wav|ネットの自分もおかしく進化しちゃうのかな
+dataset/Lda225_After all, I have hallucinations when I’m sleeping and I have them when I’m awake..wav|幻覚が夢の中でも現実でも起こるから、マリアは…
+dataset/Lda225_Her height is the same as mine..wav|私とも身長は変わらない
+dataset/Lda221_Something might be wrong with Dad’s development..wav|そういえばお父さんの進化は異常かもしれない
+dataset/Lda225_But I don’t think anyone will see this girl..wav|でも、この子は誰にも見えないんだろうなって思う。
+dataset/Lda225_It’s like I’m looking in the mirror..wav|まるで鏡を見ているよう
+dataset/Lda225_I’m starting not to know which is which..wav|ますます区別がつかない
+dataset/Lda225_That girl become a junior high school student..wav|あの子はとうとう中学生になった
+dataset/Lda225_She couldn’t be seen up till now..wav|これまでだって見えなかったんだし
+dataset/Lda225_Maybe the world of nightmares is reality and what’s called reality is a dream..wav|ひょっとして悪夢の中が正解で、こっちの世界の方が夢なのかもしれない。
+dataset/Lda225_Maybe they’re intermeshed..wav|今となってはどっちも変わらないのかもしれない
+dataset/Lda225_I spend over half of each day in a nightmare..wav|一日のうち半分以上は悪夢の中にいる
+dataset/Lda226_Did she think I was fun, too?.wav|私もきっと楽しかった
+dataset/Lda226_Because I’m me, I can imagine how I’m going to be..wav|私は私だから想像がつく
+dataset/Lda225_There’s nothing to be concerned about..wav|気にすることなんてないんだ
+dataset/Lda227_Let's crack today's report..wav|今日のレポートをクラッキングしてください
+dataset/Lda227_She’s hiding something..wav|何か隠している
+dataset/Lda226_She’s the same as me, so she’s predictable..wav|自分だから何を言っても気が引けない
+dataset/Lda227_When I told Touko-san about Mom, she looked at me with a blank expression on her face..wav|とうこさんにお母さんのことを話したらキョトンとしていた。
+dataset/Lda227_There’s something the matter with Touko-san..wav|トウコさんの様子が変だ
+dataset/Lda230_It’s been a year, Lain..wav|一年ぶりよレイン…いや、レイン?
+dataset/Lda228_Who? Mom and Dad are together? Touko-san, you know about my parents, don’t you? Who was with them?.wav|誰?お父さんとお母さんが一緒にいる? トウコさん、私のお父さんもお母さんも知ってるんでしょ? 一緒にいたのって誰?
+dataset/Lda230_This is my count down..wav|これが私のカウントダウン
+dataset/Lda230_Lain, it feels good to get back to a diary after a long time, doesn’t it?.wav|日記で報告するなんて久しぶりでいい感じでしょ
+dataset/Lda229_I killed Dad today. Mom is next..wav|お父さんを今日処刑した 次はお母さんだ
+dataset/Lda231_Excitement?.wav|刺激?
+dataset/Lda231_Friends?.wav|友達?
+dataset/Lda231_Pleasure?.wav|快感?
+dataset/Lda231_Lain, what do you want?.wav|レイン?欲しいものは何?
+dataset/Lda231_She said that she would choose me..wav|それから私を選ぶって
+dataset/Lda231_She said that she would understand me..wav|私を理解してくれるって
+dataset/Lda226_I talked to the me on the Net..wav|ネットの私とお話
+dataset/Lda168_I’m beginning to dislike people who drink..wav|お酒を飲む人が嫌いになりそう
+dataset/Lda231_Touko-san promised me..wav|トウコさんは私に約束してくれたよね?
+dataset/Lda169_Do they know that they will die?.wav|死んじゃうことわかってるのかな
+dataset/Lda226_I played with the me on the Net, deliberately making her angry and making her laugh..wav|わざと自分を怒らせたり笑わせたりして遊んだ
+dataset/Lda231_What I need right now is someone who wants to know me..wav|今の私に必要なのは、私を知ろうとしてくれる人。
+dataset/Lda232_I don’t have to worry about her anymore..wav|でももういいの、あの人のことは
+dataset/Lda232_I took my last walk..wav|最後の散歩をした。
+dataset/Lda231_Me?.wav|私?
+dataset/Lda232_She didn’t notice me at all..wav|私に全然気づかない
+dataset/Lda232_She looked at me like a total stranger..wav|まるで赤の谷を見るような目で見た
+dataset/Lda232_As I walked around town all day, I noticed Mom..wav|一日中街を歩いたらお母さんが歩いていた。
+dataset/Lda232_I can’t forgive her for that..wav|許せなかった
+dataset/Lda233_How about me?.wav|そして私を
+dataset/Lda233_Will God pass judgment on me?.wav|神様?
+dataset/Lda234_Am I for your research?.wav|研究?
+dataset/Lda233_From the standpoint of many religions, won’t I go to hell?.wav|普通の倫理観で捉えるなら、私はきっと地獄に落ちるの?
+dataset/Lda233_Who will pass judgment on the me on the Net?.wav|ネットに存在する私は誰が騒ぐのだろう
+dataset/Lda233_At any rate, I don’t need my body anymore..wav|とにかく私にはこの体は必要ない だって私は存在しているの
+dataset/Lda234_For a stupid TV show?.wav|それともくだらないワイドショーのひとつ?
+dataset/Lda234_You people who want to know me, why do you want to know me?.wav|私を知ろうとしてくれる人たち あなたたちはなんで私を知りたいの
+dataset/Lda234_Will you benefit from knowing me?.wav|私を知って何か得になるの?
+dataset/Lda235_Hey, did that hurt?.wav|ねえ、痛かった?
+dataset/Lda235_I don’t need a backup..wav|私のバックアップなんて必要ない
+dataset/Lda235_That’s why I killed her..wav|だからとどめを刺したの
+dataset/Lda235_I don’t mind that much..wav|それはそれで別に構わないことなんだけど
+dataset/Lda235_Do I have a sad existence?.wav|私って悲しい存在?
+dataset/Lda235_I guess people think so..wav|そう思われるんだよね
+dataset/Lda235_The me on the Net also had a sad existence..wav|ネットの私も悲しい存在
+dataset/Lda236_I don’t need those kind of genes..wav|私にはもともと必要のないことなのに
+dataset/Lda236_Even when I’m not dying, my body feels fear..wav|死ぬんじゃないのに体は恐怖を感じている
+dataset/Lda236_This is a small world that seems large only to parasites..wav|この宿り着の限界
+dataset/Lda235_That would be useless..wav|そんなの無駄だよ
+dataset/Lda236_Mysterious..wav|不思議
+dataset/Lda237_A human without a body isn't human?.wav|体のない人間は人間じゃない?
+dataset/Lda237_Do you know where I'm going?....wav|私はどこに行くのか、わかるの?
+dataset/Lda236_Is the reason that I have the potential to feel fear no matter what I do because of what’s recorded in my genes?.wav|何をしても潜在的に怖いって思えるのは 遺伝子に組み込まれた記録?
+dataset/Lda237_Existence and will..wav|意思と存在
+dataset/Lda237_How about the recollections of a body that grows older?.wav|年老いていく体の記憶は?
+dataset/Lda237_Am I just conglomerated with my body?.wav|住むところに合わせているだけなの?
+dataset/Lda237_I don't know either..wav|私にもわからない
+dataset/Lda237_I don't need it..wav|私にはいらない?
+dataset/Lda237_I need a body if I'm going to live in the real world..wav|リアルワールドで生きていくなら体は必要よ
+dataset/Lda237_I'm me..wav|私は私
+dataset/Lda237_I'm not human?.wav|人間じゃない?
+dataset/Lda237_I'll need the recollections of the body..wav|体の記憶は必要あるのね
+dataset/Lda237_I might need it someday..wav|いつか必要になるかもしれない
+dataset/Lda237_It would be better to just die naturally..wav|死んでしまった方がいいわ
+dataset/Lda237_If I think so I might as well think so..wav|そう思いたければそう思った方がいいよ
+dataset/Lda237_Lain is Lain..wav|レインはレインだよ
+dataset/Lda237_Is there a need for it to change?.wav|変える必要はあるの?
+dataset/Lda237_Lain, what do I need to be on the Wired?.wav|ねぇレイ、ワイヤードで必要な物って何?
+dataset/Lda237_My point of view may change?.wav|私の価値観は変わるかもしれない
+dataset/Lda237_That's because I'm going to be born soon..wav|私はこれから生まれるのだから
+dataset/Lda237_There are people who have bodies that aren't human..wav|人間じゃない体を持った人もいるよ
+dataset/Lda237_Suicide would be stupid..wav|自殺なんてただのバカよ
+dataset/Lda237_The rest is just data..wav|あとはただのデータ
+dataset/Lda237_There's no guarantee that that will be you..wav|それがあなたという保証はないわ
+dataset/Lda237_That might be true..wav|そうかもしれない
+dataset/Lda237_What is it to be human?.wav|人間であることって何?
+dataset/Lda237_Will I become a more evolved human being?.wav|それは進化した人間なの?
+dataset/Lda237_You're human if you have a body?.wav|体があれば人間?
+dataset/Lda237_I won't need a body to live in the Wired..wav|でもワイヤードで暮らすには体が必要ないの
+dataset/Lda237_Is that me?.wav|私?
